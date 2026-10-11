@@ -1,0 +1,204 @@
+{
+  "schemaVersion": 1,
+  "version": "1.2.0",
+  "language": "en-US",
+  "audio": {
+    "ball": "Ball.",
+    "car": "Car.",
+    "teddy": "Teddy.",
+    "water": "Water.",
+    "cup": "Cup.",
+    "drink": "Drink.",
+    "rice": "Rice.",
+    "banana": "Banana.",
+    "egg": "Egg.",
+    "bag": "Bag.",
+    "shoes": "Shoes.",
+    "hat": "Hat.",
+    "book": "Book.",
+    "chair": "Chair.",
+    "table": "Table.",
+    "help": "Help.",
+    "open": "Open.",
+    "stop": "Stop.",
+    "hello": "Hello!",
+    "bye": "Bye-bye!",
+    "a-ball": "A ball!",
+    "water-please": "Water, please.",
+    "more-please": "More, please.",
+    "my-bag": "My bag.",
+    "sit-down": "Sit down.",
+    "help-please": "Help, please.",
+    "toilet-please": "Toilet, please."
+  },
+  "lessons": [
+    {
+      "id": "toys",
+      "title": "玩具时间",
+      "subtitle": "和喜欢的玩具打个招呼",
+      "words": [
+        {
+          "id": "ball",
+          "zh": "球"
+        },
+        {
+          "id": "car",
+          "zh": "小汽车"
+        },
+        {
+          "id": "teddy",
+          "zh": "玩具熊"
+        }
+      ],
+      "phrase": {
+        "id": "a-ball",
+        "text": "A ball!",
+        "zh": "一个球！"
+      },
+      "game": {
+        "title": "滚一滚球",
+        "text": "家长和孩子面对面坐下，慢慢把球滚给对方。家长说 “ball”，再说 “A ball!”。孩子可以指一指、接住球，或者自愿跟着说。"
+      }
+    },
+    {
+      "id": "water-time",
+      "title": "喝水时间",
+      "subtitle": "喝口水，也说一句谢谢",
+      "words": [
+        {
+          "id": "water",
+          "zh": "水"
+        },
+        {
+          "id": "cup",
+          "zh": "杯子"
+        },
+        {
+          "id": "drink",
+          "zh": "喝水"
+        }
+      ],
+      "phrase": {
+        "id": "water-please",
+        "text": "Water, please.",
+        "zh": "我想喝水，请给我水。"
+      },
+      "game": {
+        "title": "给小熊倒杯水",
+        "text": "家长准备不烫的饮用水和不易碎的杯子，一起指一指杯子和水。家长说 “Water, please.”，再帮孩子喝一口。也可以用空杯子假装给玩具熊喝水。"
+      }
+    },
+    {
+      "id": "meal",
+      "title": "吃饭时间",
+      "subtitle": "看一看我们的小餐盘",
+      "words": [
+        {
+          "id": "rice",
+          "zh": "米饭"
+        },
+        {
+          "id": "banana",
+          "zh": "香蕉"
+        },
+        {
+          "id": "egg",
+          "zh": "鸡蛋"
+        }
+      ],
+      "phrase": {
+        "id": "more-please",
+        "text": "More, please.",
+        "zh": "请再给我一点。"
+      },
+      "game": {
+        "title": "餐盘里找一找",
+        "text": "在家长准备的餐点旁，指一指米饭、香蕉或鸡蛋。家长说出对应英语，再示范 “More, please.”。按平时饮食习惯进餐，孩子只指一指也可以。"
+      }
+    },
+    {
+      "id": "outside",
+      "title": "出门时间",
+      "subtitle": "带上小书包，一起出发",
+      "words": [
+        {
+          "id": "bag",
+          "zh": "书包"
+        },
+        {
+          "id": "shoes",
+          "zh": "鞋"
+        },
+        {
+          "id": "hat",
+          "zh": "帽子"
+        }
+      ],
+      "phrase": {
+        "id": "my-bag",
+        "text": "My bag.",
+        "zh": "我的书包。"
+      },
+      "game": {
+        "title": "出门前小帮手",
+        "text": "把孩子的书包、鞋子和帽子放在面前。家长慢慢说 “bag”，请孩子指一指；再抱起书包说 “My bag.”。一起穿鞋、戴帽，准备好再出门。"
+      }
+    },
+    {
+      "id": "school",
+      "title": "幼儿园时间",
+      "subtitle": "发现书、椅子和小桌子",
+      "words": [
+        {
+          "id": "book",
+          "zh": "书"
+        },
+        {
+          "id": "chair",
+          "zh": "椅子"
+        },
+        {
+          "id": "table",
+          "zh": "桌子"
+        }
+      ],
+      "phrase": {
+        "id": "sit-down",
+        "text": "Sit down.",
+        "zh": "请坐下。"
+      },
+      "game": {
+        "title": "坐下来读一本书",
+        "text": "找一张适合孩子的稳固椅子，在小桌子旁放一本绘本。家长说 “Sit down.”，和孩子坐下来，指一指 book、chair 和 table，再一起翻一页。"
+      }
+    },
+    {
+      "id": "help-time",
+      "title": "请帮帮我",
+      "subtitle": "想要帮忙，大胆说出来",
+      "words": [
+        {
+          "id": "help",
+          "zh": "求助"
+        },
+        {
+          "id": "open",
+          "zh": "打开"
+        },
+        {
+          "id": "stop",
+          "zh": "停下"
+        }
+      ],
+      "phrase": {
+        "id": "help-please",
+        "text": "Help, please.",
+        "zh": "请帮帮我。"
+      },
+      "game": {
+        "title": "一起打开小盒子",
+        "text": "家长准备一个安全、容易打开的盒子。示范 “Help, please.”，再一起 open。孩子说或示意 stop 时，家长就停下来。想要帮忙，指一指或用中文说也很好。"
+      }
+    }
+  ]
+}

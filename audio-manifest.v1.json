@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "releaseId": "legacy-1.1.1",
+  "profileHash": "legacy-mixed-export",
+  "clips": {
+    "ball": {
+      "url": "./assets/audio/ball.mp3",
+      "sha256": "3af87c144df8d67cf26ba52a7efae366210c52c6b97808a841b84dba7a3f7547"
+    },
+    "car": {
+      "url": "./assets/audio/car.mp3",
+      "sha256": "c7f1f5433532a96bf3f35df0ddefdcaba86b9fb774b5f1f5dd3760ca52b72be7"
+    },
+    "teddy": {
+      "url": "./assets/audio/teddy.mp3",
+      "sha256": "1c764ee3ff5e3f253f640680f0fc8da3a57437f65a4f754fde37817c689965dc"
+    },
+    "water": {
+      "url": "./assets/audio/water.mp3",
+      "sha256": "e7738d4c92fce8c464a12dc74d34d5975c3d3f6b58cca2f4473ad7f10f1b39b0"
+    },
+    "cup": {
+      "url": "./assets/audio/cup.mp3",
+      "sha256": "002f8909415eb35a77861bb2421e3509a732076b3cc8fb184665f298e1825baf"
+    },
+    "drink": {
+      "url": "./assets/audio/drink.mp3",
+      "sha256": "1f7957c91529cc48a35262b6bb2101eb7ac3316abf76dff26d33e844076f4cf5"
+    },
+    "rice": {
+      "url": "./assets/audio/rice.mp3",
+      "sha256": "d5e54a6fc32e3431ed514cd997bfaf966b6c0ee500b6c4a8bfb0a6390dc5bf7b"
+    },
+    "banana": {
+      "url": "./assets/audio/banana.mp3",
+      "sha256": "3fc5472362bde7751debc2fee0556be8cc4212448454fe368da55006305aefeb"
+    },
+    "egg": {
+      "url": "./assets/audio/egg.mp3",
+      "sha256": "aebfeb038048c2bc1d48eb6df22ac4657861d87570f05a60fe8be2a9a0f8b047"
+    },
+    "bag": {
+      "url": "./assets/audio/bag.mp3",
+      "sha256": "30a2ac9d54e68d91f78bfc00690ee889d5002d8196c32b3e8778dfac8cedfcc1"
+    },
+    "shoes": {
+      "url": "./assets/audio/shoes.mp3",
+      "sha256": "e05a9d1084454971775948133315519c64ec6d3d9f36efa8bb243112b4fcff3f"
+    },
+    "hat": {
+      "url": "./assets/audio/hat.mp3",
+      "sha256": "3963e90961f124a734ebaf69d8be7972e91f2bdc972af4d46fefd4f3f7968f32"
+    },
+    "book": {
+      "url": "./assets/audio/book.mp3",
+      "sha256": "1200fa5463c116e7923d8b0ad988c08bc58fad9b133025be3416fcfc25837c96"
+    },
+    "chair": {
+      "url": "./assets/audio/chair.mp3",
+      "sha256": "37458aabbb9c6f6b1a4362a42bee5f3a5c4b829bdb1821f5e9cb612673a182ad"
+    },
+    "table": {
+      "url": "./assets/audio/table.mp3",
+      "sha256": "0564777b2169cc1fd50c8acf29ec0fd5bb033f53acc814dfdafbb41e076f110b"
+    },
+    "help": {
+      "url": "./assets/audio/help.mp3",
+      "sha256": "a918362d80eb337b04ee62fb3bb4ab87144c279924b3b691a1f115e27f421d9c"
+    },
+    "open": {
+      "url": "./assets/audio/open.mp3",
+      "sha256": "df0d0c8de2386cacfe896160e3bcd9d4b3c3b215e53c7956808e38e83cbc4f87"
+    },
+    "stop": {
+      "url": "./assets/audio/stop.mp3",
+      "sha256": "7d940f13fbd90da974593210eaed64a1725615ad405b3890ab2dbf2ca642aac9"
+    },
+    "hello": {
+      "url": "./assets/audio/hello.mp3",
+      "sha256": "b07baa5c836d862f83ff5ccc2182f40a9a910c7f55a978aa752288dfd94422a4"
+    },
+    "bye": {
+      "url": "./assets/audio/bye.mp3",
+      "sha256": "41ac036edd53448292ea981960cba3539009736e4972a73b473dbdbfd11f1713"
+    },
+    "a-ball": {
+      "url": "./assets/audio/a-ball.mp3",
+      "sha256": "86683e6ce2941be49a572741416de357a0c2d8bdaa3096a422a89294ce3d83ea"
+    },
+    "water-please": {
+      "url": "./assets/audio/water-please.mp3",
+      "sha256": "12aaa8cc7dd053333607ce86c9ee0c9ff9f9f3268a97101b9f44b85ad2576daf"
+    },
+    "more-please": {
+      "url": "./assets/audio/more-please.mp3",
+      "sha256": "bdc047bc28f94d3f7330dc906be026f595d75605d65f09c9c3c90191e92c262d"
+    },
+    "my-bag": {
+      "url": "./assets/audio/my-bag.mp3",
+      "sha256": "4a6acf88d93c2c5d0240c0d94b36261dadc895f2be8504d852b4ee871d610800"
+    },
+    "sit-down": {
+      "url": "./assets/audio/sit-down.mp3",
+      "sha256": "b94b8e2b75774e23f650448d19d00d008bc16fc2fccae0189adcca74bf605c06"
+    },
+    "help-please": {
+      "url": "./assets/audio/help-please.mp3",
+      "sha256": "2abfe90707a7626c977a6394dc7498e7294a2e4c32785c57ac4380f9640148db"
+    },
+    "toilet-please": {
+      "url": "./assets/audio/toilet-please.mp3",
+      "sha256": "6f107253fa1c28eb5fd155497e2bb9eadb36f072c72d9ce565e9bca41360047e"
+    }
+  }
+}

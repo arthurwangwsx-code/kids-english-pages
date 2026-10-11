@@ -1,0 +1,10 @@
+Little English fixed audio
+Kokoro-82M v1.0 / Heart (af_heart) American English / speed 0.9.
+24 clips generated locally on 2026-10-11 with kokoro 0.9.4; 3 exact matching generic clips reused from an approved earlier course.
+No voice cloning, recording, child voices, user data, cloud API keys, or runtime AI requests.
+Model/source license: Apache-2.0. Full license: KOKORO-LICENSE.txt.
+Model: https://huggingface.co/hexgrad/Kokoro-82M
+Implementation: https://github.com/hexgrad/kokoro
+Voice notes: https://huggingface.co/hexgrad/Kokoro-82M/blob/main/VOICES.md
+Course text and illustrations created for this project. Generated audio is synthetic, not a human teacher.
+Source hashes and text alignment are retained in docs/audio-provenance.json in the private source repository.
