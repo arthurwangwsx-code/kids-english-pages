@@ -1,6 +1,6 @@
 {
-  "version": "1.2.3",
-  "revision": "1650d4395d7f",
+  "version": "1.3.0",
+  "revision": "2759e93d903c",
   "assets": [
     {
       "url": "./AUDIO-SOURCES.txt",
@@ -12,7 +12,7 @@
     },
     {
       "url": "./app.js",
-      "sha256": "92fc25ff386e4120a1d12feee7414716146479e01dda562db9320144a0b8234c"
+      "sha256": "9c2ac01dca6cb75e8147175d9b980bbc606e7ed0424147535cf0a0a90b2a290b"
     },
     {
       "url": "./assets/audio/a-ball.mp3",
@@ -212,7 +212,7 @@
     },
     {
       "url": "./courses.v1.json",
-      "sha256": "6b8ea2edfe558f0cd177088d183032ea3ef0d804326040b23272bfc633d5d229"
+      "sha256": "994331fec43a79c9aa9a3a92e2079f411c290682ed6214b4741da9da5c32ca50"
     },
     {
       "url": "./manifest.webmanifest",
@@ -221,6 +221,10 @@
     {
       "url": "./offline-shell.json",
       "sha256": "d2f41677bd892a963259fc9187372b31fabe251daa319d87f472842b81880327"
+    },
+    {
+      "url": "./progress.js",
+      "sha256": "f8016cf9cb647dfe11c98dddafcf829529d251c62648b770f1863f9d146b3810"
     },
     {
       "url": "./recorder.js",

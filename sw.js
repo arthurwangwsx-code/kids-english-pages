@@ -1,5 +1,5 @@
-const VERSION='1.2.3-1650d4395d7f',BASE=new URL('./',self.location.href),PREFIX='little-english-'+encodeURIComponent(BASE.pathname)+'-',CACHE=PREFIX+VERSION;
-const SHELL=['./offline-shell.json','./style.css','./app.js','./recorder.js','./courses.v1.json','./audio-manifest.v1.json','./manifest.webmanifest','./offline-manifest.json','./assets/icon.svg','./assets/icon-192.png','./assets/icon-512.png'];
+const VERSION='1.3.0-2759e93d903c',BASE=new URL('./',self.location.href),PREFIX='little-english-'+encodeURIComponent(BASE.pathname)+'-',CACHE=PREFIX+VERSION;
+const SHELL=['./offline-shell.json','./style.css','./app.js','./recorder.js','./progress.js','./courses.v1.json','./audio-manifest.v1.json','./manifest.webmanifest','./offline-manifest.json','./assets/icon.svg','./assets/icon-192.png','./assets/icon-512.png'];
 async function restoreShell(cache){const r=await cache.match('./offline-shell.json');if(!r)throw Error('找不到离线页面');const {html}=await r.json();for(const url of ['./','./index.html'])await cache.put(url,new Response(html,{headers:{'Content-Type':'text/html; charset=utf-8'}}));}
 self.addEventListener('install',e=>e.waitUntil((async()=>{const c=await caches.open(CACHE);await c.addAll(SHELL.map(url=>new Request(url,{cache:'reload'})));await restoreShell(c);})()));
 // Keep the old version usable until a parent explicitly activates this worker.
