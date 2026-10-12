@@ -1,4 +1,4 @@
-const VERSION='1.2.1-b23c10ad129e',BASE=new URL('./',self.location.href),PREFIX='little-english-'+encodeURIComponent(BASE.pathname)+'-',CACHE=PREFIX+VERSION;
+const VERSION='1.2.2-4aade373fcd6',BASE=new URL('./',self.location.href),PREFIX='little-english-'+encodeURIComponent(BASE.pathname)+'-',CACHE=PREFIX+VERSION;
 const SHELL=['./offline-shell.json','./style.css','./app.js','./recorder.js','./courses.v1.json','./audio-manifest.v1.json','./manifest.webmanifest','./offline-manifest.json','./assets/icon.svg','./assets/icon-192.png','./assets/icon-512.png'];
 async function restoreShell(cache){const r=await cache.match('./offline-shell.json');if(!r)throw Error('找不到离线页面');const {html}=await r.json();for(const url of ['./','./index.html'])await cache.put(url,new Response(html,{headers:{'Content-Type':'text/html; charset=utf-8'}}));}
 self.addEventListener('install',e=>e.waitUntil((async()=>{const c=await caches.open(CACHE);await c.addAll(SHELL.map(url=>new Request(url,{cache:'reload'})));await restoreShell(c);})()));
