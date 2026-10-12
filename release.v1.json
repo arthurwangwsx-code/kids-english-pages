@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "courseVersion": "1.2.2",
-  "offlineRevision": "4aade373fcd6",
+  "courseVersion": "1.2.3",
+  "offlineRevision": "1650d4395d7f",
   "files": {
     "AUDIO-SOURCES.txt": "c960e2f0ac9110324887ce8b4855f5c30c8439c3738a9d68fe7ff2eb5d43b01e",
     "KOKORO-LICENSE.txt": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
@@ -55,13 +55,13 @@
     "assets/images/teddy.svg": "98437a9346d3a2b587428ea45c6d9e215e1be381b581cf2154efdcb3e885e968",
     "assets/images/water.svg": "15ee0471e4678ea8495e9609c05f7265bee6355e6b76129115522af575b0ef6e",
     "audio-manifest.v1.json": "ee559abc877a1e87f515419ab675c09fd8b8bdf91f630971f6768a0640aa18a3",
-    "courses.v1.json": "d4a94a7518ec2c95c19521f990bfb4c6d030eeb9816fd7e3e2adc70345b11394",
+    "courses.v1.json": "6b8ea2edfe558f0cd177088d183032ea3ef0d804326040b23272bfc633d5d229",
     "index.html": "2829489cc1f0e1083b0d36242b71d5b3828476c07ca1c1b35a21d0a74decf31b",
     "manifest.webmanifest": "4f388851c3eb8332b8886a1ba8b919dc86cbfe7901ceb2604f0b4fa89b6d723f",
-    "offline-manifest.json": "2ae7130712c8b390bad6c80b87fc95850fffd0190d2f90286444bca513e22522",
+    "offline-manifest.json": "9bd2b5851a28a3eedd85c1e39b7b2a98c654d0209ef3897545390f96462f1dbf",
     "offline-shell.json": "d2f41677bd892a963259fc9187372b31fabe251daa319d87f472842b81880327",
     "recorder.js": "b66ead204970268e908b92085d52f8d72c19b2c30cde6d05bcd5126d72f1e997",
     "style.css": "125a75e967df0b6f8b020077a77d828639f9634da10fd59eae657b36a5fe20bd",
-    "sw.js": "839fa8d7829dd1682538e85b0b3b5dfe5d1de9f0085161437eecd8b49afdda9c"
+    "sw.js": "b1bfc58365290b5a0cca11124a95b4b81a6e172fdd1b0e7dc87fffde2283354d"
   }
 }

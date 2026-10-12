@@ -1,6 +1,6 @@
 {
-  "version": "1.2.2",
-  "revision": "4aade373fcd6",
+  "version": "1.2.3",
+  "revision": "1650d4395d7f",
   "assets": [
     {
       "url": "./AUDIO-SOURCES.txt",
@@ -212,7 +212,7 @@
     },
     {
       "url": "./courses.v1.json",
-      "sha256": "d4a94a7518ec2c95c19521f990bfb4c6d030eeb9816fd7e3e2adc70345b11394"
+      "sha256": "6b8ea2edfe558f0cd177088d183032ea3ef0d804326040b23272bfc633d5d229"
     },
     {
       "url": "./manifest.webmanifest",
