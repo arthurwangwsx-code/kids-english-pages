@@ -1,7 +1,7 @@
-const VERSION='1.3.0-2759e93d903c',BASE=new URL('./',self.location.href),PREFIX='little-english-'+encodeURIComponent(BASE.pathname)+'-',CACHE=PREFIX+VERSION;
+const VERSION='1.4.0-55c1c64ba1ad',BASE=new URL('./',self.location.href),PREFIX='little-english-'+encodeURIComponent(BASE.pathname)+'-',CACHE=PREFIX+VERSION;
 const SHELL=['./offline-shell.json','./style.css','./app.js','./recorder.js','./progress.js','./courses.v1.json','./audio-manifest.v1.json','./manifest.webmanifest','./offline-manifest.json','./assets/icon.svg','./assets/icon-192.png','./assets/icon-512.png'];
 async function restoreShell(cache){const r=await cache.match('./offline-shell.json');if(!r)throw Error('找不到离线页面');const {html}=await r.json();for(const url of ['./','./index.html'])await cache.put(url,new Response(html,{headers:{'Content-Type':'text/html; charset=utf-8'}}));}
-self.addEventListener('install',e=>e.waitUntil((async()=>{const c=await caches.open(CACHE);await c.addAll(SHELL.map(url=>new Request(url,{cache:'reload'})));await restoreShell(c);})()));
+self.addEventListener('install',e=>e.waitUntil((async()=>{const c=await caches.open(CACHE);const m=await(await fetch(new Request('./offline-manifest.json',{cache:'reload'}))).json();const extra=m.assets.filter(a=>/^\.\/[^/]+\.(?:js|json)$/.test(a.url)).map(a=>a.url);await c.addAll([...new Set([...SHELL,...extra])].map(url=>new Request(url,{cache:'reload'})));await restoreShell(c);})()));
 // Keep the old version usable until a parent explicitly activates this worker.
 self.addEventListener('activate',e=>e.waitUntil((async()=>{await self.clients.claim();const keys=await caches.keys();await Promise.all(keys.filter(k=>k.startsWith(PREFIX)&&k!==CACHE).map(k=>caches.delete(k)));})()));
 self.addEventListener('fetch',e=>{const url=new URL(e.request.url);if(e.request.method!=='GET'||url.origin!==BASE.origin||!url.pathname.startsWith(BASE.pathname))return;

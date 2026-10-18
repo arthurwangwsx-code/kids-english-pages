@@ -1,6 +1,8 @@
 Little English fixed audio
 Kokoro-82M v1.0 / Heart (af_heart) American English / speed 0.9.
 24 clips generated locally on 2026-10-11 with kokoro 0.9.4; 3 exact matching generic clips reused from an approved earlier course.
+35 additional color clips generated locally on 2026-10-18 using the same af_heart voice and speed 0.9, pinned Kokoro CPU/seed/model/dependencies. All original 27 clips remain byte-identical.
+New color clips passed machine integrity, decoding, duration, level and phoneme checks; they have not received a per-word human listening review. No new candidate voice was selected.
 No voice cloning, recording, child voices, user data, cloud API keys, or runtime AI requests.
 Model/source license: Apache-2.0. Full license: KOKORO-LICENSE.txt.
 Model: https://huggingface.co/hexgrad/Kokoro-82M

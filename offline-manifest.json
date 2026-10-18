@@ -1,10 +1,10 @@
 {
-  "version": "1.3.0",
-  "revision": "2759e93d903c",
+  "version": "1.4.0",
+  "revision": "55c1c64ba1ad",
   "assets": [
     {
       "url": "./AUDIO-SOURCES.txt",
-      "sha256": "c960e2f0ac9110324887ce8b4855f5c30c8439c3738a9d68fe7ff2eb5d43b01e"
+      "sha256": "612fa3790938a9998198e8c67b58f659b5d2ed2c4a15e84eb87e49867604cee3"
     },
     {
       "url": "./KOKORO-LICENSE.txt",
@@ -12,7 +12,147 @@
     },
     {
       "url": "./app.js",
-      "sha256": "9c2ac01dca6cb75e8147175d9b980bbc606e7ed0424147535cf0a0a90b2a290b"
+      "sha256": "ce4a9ea7774c485513cdebca757b7d16ce8b4a3725e827aeda60e594430d96ec"
+    },
+    {
+      "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-black.mp3",
+      "sha256": "6efb2aca30145bb37ccfd6b04a9e02b21d8e6f347f21518590f9c6c2b03fe029"
+    },
+    {
+      "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-blue.mp3",
+      "sha256": "b8cce8ad4b661a609971822a825ce7dcd0389aa2afbae52ed53311479bb33f21"
+    },
+    {
+      "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-brown.mp3",
+      "sha256": "9026fa8dc581926971ecba492d527a0efcb65f31c81e8ef27f3c7248aa53fded"
+    },
+    {
+      "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-coral.mp3",
+      "sha256": "97c263caf1cdb5658c820d8243c28521f13f63908949a0357a8dba2532ad9ac9"
+    },
+    {
+      "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-dark-blue.mp3",
+      "sha256": "f8b94717697dd9ae67b7c87e4fa8a52c04b4ff530ffca17f49b0293a95116cba"
+    },
+    {
+      "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-dark-brown.mp3",
+      "sha256": "1fd2b17a2f393376bcf29a8e3f9d612c1aa721ea0c370d4e6b0cb5f2fecacd2a"
+    },
+    {
+      "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-dark-green.mp3",
+      "sha256": "3db7c47375dd1c329d208e3c3269742f307749dc9a7a9190e38db5577e1c991f"
+    },
+    {
+      "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-dark-orange.mp3",
+      "sha256": "6391e9a48664fbdd1e3b29725d411c7fdb58621a30bb656db2607ab3a4035e09"
+    },
+    {
+      "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-dark-pink.mp3",
+      "sha256": "93296d1fc0e03c3e9fe5711885ec54e00d3e304f27804d31aa66cb4b0f360f98"
+    },
+    {
+      "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-dark-purple.mp3",
+      "sha256": "1a9f2755ce0d7993494e63e55abaedc7de26da5b8589c1d5d8a21c9cd61b5811"
+    },
+    {
+      "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-dark-red.mp3",
+      "sha256": "9d314c9c65c94d8d809c6e99b8b198feba012b382422327113eac7ce9ba214a1"
+    },
+    {
+      "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-gold.mp3",
+      "sha256": "0228eda3d915fae167b366773afbfa197925696517f25c3fdcfba4780c5eae98"
+    },
+    {
+      "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-gray.mp3",
+      "sha256": "9d7a05ef67cc37156619f35e785b8c2c493226c00deba0f65f8e37e7ed93326e"
+    },
+    {
+      "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-green.mp3",
+      "sha256": "d0712f249cbd8e717a5cc607ccfb9323a5594f2d7a8327ab7439c7b0b34b4a59"
+    },
+    {
+      "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-lavender.mp3",
+      "sha256": "36408c8697675970968da052da35ebe3b3b0a01109e6cd14afa9011f6cee909f"
+    },
+    {
+      "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-light-blue.mp3",
+      "sha256": "296f9b94bdc656e1456cdcae8a6bc449c8e3eddb4e966bdbe174e76376937b87"
+    },
+    {
+      "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-light-brown.mp3",
+      "sha256": "eec7e04429a9af33390b369d2254080800b34ffac06fee9ffe20fcd667f11cd3"
+    },
+    {
+      "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-light-green.mp3",
+      "sha256": "e3a51d25fa96cc3d7d5ef5ed73a6de5fbd6b44b177395a48c56d00127f77c1ac"
+    },
+    {
+      "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-light-orange.mp3",
+      "sha256": "a12a3c77bcfbce4b7d0510ce4024f18d42bb7856e3006ce40552e5b78d9c4aaf"
+    },
+    {
+      "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-light-pink.mp3",
+      "sha256": "bfa6cfbc6074b91271d0bda17633512f22b00628f6932c7931abb48a81edf3ec"
+    },
+    {
+      "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-light-purple.mp3",
+      "sha256": "96ef475eb70010883fffbdf09c3c7a7884a57968bd4078e38a12954c3bfd4345"
+    },
+    {
+      "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-light-red.mp3",
+      "sha256": "70b1ad753387eebf392fc25fef20be9dfb06202987ab16dff8e59b3aa5feba1a"
+    },
+    {
+      "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-light-yellow.mp3",
+      "sha256": "fa58020a7bda6d6ca524108e786b85ea158506679d3acb9451b185a3e429d41c"
+    },
+    {
+      "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-lime.mp3",
+      "sha256": "f705b647f12feecfb80ef315c419012efd92a85a63448ec0f86adb874a62a6aa"
+    },
+    {
+      "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-maroon.mp3",
+      "sha256": "f0886c081ce1bdffb4d81aa02d5d94a1d5ecb26a1fc76a7ec3af1c1b93f8bbfa"
+    },
+    {
+      "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-navy.mp3",
+      "sha256": "42e478ff4fee5d65d40a807fae1cd74b81462833e767c9f7ad70d7de52d5c9cc"
+    },
+    {
+      "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-olive.mp3",
+      "sha256": "3814d8261fbc961a53115b05acff9e51d186df20083937ea6b78365ca0c37189"
+    },
+    {
+      "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-orange.mp3",
+      "sha256": "687089c6fc77dffcab8366c6dc37d47ac70614f3d623e94761e9928658e4cf2f"
+    },
+    {
+      "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-pink.mp3",
+      "sha256": "7b60caa2b2720d2b0aa2d33349c58c655277e04b766bc6edffd4700531582ae6"
+    },
+    {
+      "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-purple.mp3",
+      "sha256": "026d41e47639ed2a7ffaed394ec6dd4288279fdb9e0814ce41111040b17528a6"
+    },
+    {
+      "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-red.mp3",
+      "sha256": "c3a8b7ad07ff95f9fea367ea727244021087e3a487833b2457edebc0bda0fb29"
+    },
+    {
+      "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-sky-blue.mp3",
+      "sha256": "7552ddbcd9b6f7cdc0783f537cfe3c2ed19cf8651ceed192d92ef0b0fda174c2"
+    },
+    {
+      "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-teal.mp3",
+      "sha256": "8d1ef7a0b6187ed2feac18b43baef0560fdc374bb88073920b121ab0559c1fa3"
+    },
+    {
+      "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-white.mp3",
+      "sha256": "71c4a4703c8b729f5a7a41e641a795b10ba2124b290ff916b25fb18f921dc3d5"
+    },
+    {
+      "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-yellow.mp3",
+      "sha256": "c08cb31d109271f1d0a22f5c885c1bfe024eed1faa429ab430d1ae4c97a82ae4"
     },
     {
       "url": "./assets/audio/a-ball.mp3",
@@ -159,6 +299,146 @@
       "sha256": "a6e22f80def9613a98f6f2262abaa2613b77aa2d9fe2126ab4704599cb7cd0c0"
     },
     {
+      "url": "./assets/images/color-black.svg",
+      "sha256": "33c29503a9ad168864a1b6f7c5a7f344bb9d6e04d943cc38f24ee20dbcb1cfef"
+    },
+    {
+      "url": "./assets/images/color-blue.svg",
+      "sha256": "19f857d7924ca6f530b92222d3a67594fd0ed8f59a3caf331395d79212ebcdec"
+    },
+    {
+      "url": "./assets/images/color-brown.svg",
+      "sha256": "b4c4fc2ed26d05f5e1782bffb80ad584cb2a5b021d23ea24487ec3187684e0a2"
+    },
+    {
+      "url": "./assets/images/color-coral.svg",
+      "sha256": "ae670c62be2317b726b0a0b034986e2b1f3724ddb89abafb96614f951f9c16b9"
+    },
+    {
+      "url": "./assets/images/color-dark-blue.svg",
+      "sha256": "ab869e08ff407d2c16877225e5736da55437d289e9989c6ff4716c751d9b67f5"
+    },
+    {
+      "url": "./assets/images/color-dark-brown.svg",
+      "sha256": "df575f181e060d7eb0cd7880ad0afb843054a80c6ce7334ef3e33b98a0a143e7"
+    },
+    {
+      "url": "./assets/images/color-dark-green.svg",
+      "sha256": "c49127b170bf046ffde6cb565d8196a3780a53ce2f7c4c7b56bc86bb7c14707a"
+    },
+    {
+      "url": "./assets/images/color-dark-orange.svg",
+      "sha256": "439fdd6c82849634f52ab4c4e4a373e18cc467e3b187c31a3cb8c8d5d69033aa"
+    },
+    {
+      "url": "./assets/images/color-dark-pink.svg",
+      "sha256": "624b8cfc4db8f2baf09886e7c0d1fc15ae206fb08afcb4adceaa273ee3b45cc4"
+    },
+    {
+      "url": "./assets/images/color-dark-purple.svg",
+      "sha256": "db099f785c388dad7d1210607a5af0d4cf270b1da9e7c9ef9301571567d86abb"
+    },
+    {
+      "url": "./assets/images/color-dark-red.svg",
+      "sha256": "55abf44fb7a867a07442b2b87d27524b8a6221af511116f716fa9474384d24b2"
+    },
+    {
+      "url": "./assets/images/color-gold.svg",
+      "sha256": "04e77ce4048df27ed2d692b582186650caf5c863279b49e738d0c6481d74174d"
+    },
+    {
+      "url": "./assets/images/color-gray.svg",
+      "sha256": "91bad3608c7d046a68317702ec3a1f2dbb0e5b34c2fccbfc459521e83ad77de7"
+    },
+    {
+      "url": "./assets/images/color-green.svg",
+      "sha256": "7bec6437723f65ed871d462110d0fcb23bda6e10b826edd866d9a3167a78a919"
+    },
+    {
+      "url": "./assets/images/color-lavender.svg",
+      "sha256": "260ccb819ece6bbed83f0c6ccab0b2e5333d7e09711303f2e8fa28cb6905643f"
+    },
+    {
+      "url": "./assets/images/color-light-blue.svg",
+      "sha256": "c86804fba2aa782318a3641cc517b91ab7d6ce82ac9858013d443e86500ede17"
+    },
+    {
+      "url": "./assets/images/color-light-brown.svg",
+      "sha256": "aa20b412c6bb9631adc338904fd3fda7b535fe1d601fe68196ba7e4fdb12a9e5"
+    },
+    {
+      "url": "./assets/images/color-light-green.svg",
+      "sha256": "b6e2c5dcbb3dc6f4266f574e1cb6171a3d98d701b3df38f06d5890b27b4e70d6"
+    },
+    {
+      "url": "./assets/images/color-light-orange.svg",
+      "sha256": "e1a75f45fe17504099bb991e72793bd83574e04e94dc93b8818fd990d1869f25"
+    },
+    {
+      "url": "./assets/images/color-light-pink.svg",
+      "sha256": "89e601363447a2224f8571a625cb959a711a368880c87f33a958e09c69e3e217"
+    },
+    {
+      "url": "./assets/images/color-light-purple.svg",
+      "sha256": "d55ae122c7405557fb5378c0a3cd06b996b2b218986b025d7534475f38c5a49a"
+    },
+    {
+      "url": "./assets/images/color-light-red.svg",
+      "sha256": "f8f2a987501d50fe818345bcdb42f4f083d0ad72946df544a05b30d6a4901471"
+    },
+    {
+      "url": "./assets/images/color-light-yellow.svg",
+      "sha256": "612fe4375de22b5c0550d5eff226f9f4399d794f06e63b3550ba7d271853c5e3"
+    },
+    {
+      "url": "./assets/images/color-lime.svg",
+      "sha256": "318ebebeb85b073f2f940d9b2d90a56ab7f91176e0c29ea43c890f33aee872e6"
+    },
+    {
+      "url": "./assets/images/color-maroon.svg",
+      "sha256": "1a33ec1b0cf115952c34c90ffc2f5827c145a2ac90e7b98fb30e2155698a25bb"
+    },
+    {
+      "url": "./assets/images/color-navy.svg",
+      "sha256": "ff5fa3a2413bbe4ed9b7a04e87caaf71f829e6fde8d8a3f53c7e1b527b09a6ae"
+    },
+    {
+      "url": "./assets/images/color-olive.svg",
+      "sha256": "2bb2532ab2547d4b7e3545dad1e9cceaec942e4ad8bb150ee6cf16b6b5d56032"
+    },
+    {
+      "url": "./assets/images/color-orange.svg",
+      "sha256": "34dbec31e040b756edae4552ec4acd116e859fcfb4db72541d4b6aa3c0977859"
+    },
+    {
+      "url": "./assets/images/color-pink.svg",
+      "sha256": "ddde3f90506de7db6359573f2e9307a4a7ffb5921252d88cd82ed3cea846d11a"
+    },
+    {
+      "url": "./assets/images/color-purple.svg",
+      "sha256": "34024ebe69e180d98904246d11e8863586f2957c37c6d201d01aae0518ee1b04"
+    },
+    {
+      "url": "./assets/images/color-red.svg",
+      "sha256": "c3097259e9b4c3bda9686f0b8182eb7944036f42ffd9c11ab15e02327ec97c34"
+    },
+    {
+      "url": "./assets/images/color-sky-blue.svg",
+      "sha256": "ad60bc5c5ac289954f8879b795f7a236328be7e84d5f2740b1ac708dd8757a3f"
+    },
+    {
+      "url": "./assets/images/color-teal.svg",
+      "sha256": "f1bb59b7858921a584f4e1b0e289013100f9d21487485a174f9b14ff3f69cbad"
+    },
+    {
+      "url": "./assets/images/color-white.svg",
+      "sha256": "70c6ae47f28e6303cd03a0506ff989c542318a5d3fbebbeb8d9f4d2eeebda39e"
+    },
+    {
+      "url": "./assets/images/color-yellow.svg",
+      "sha256": "833b9253a0b46fbff4f3697a44adacc9edc38c44b82d76dfd0ce1a85b32149b3"
+    },
+    {
       "url": "./assets/images/cup.svg",
       "sha256": "48566a9a1f14f2e9c93ff04ce03f641c7bb9bc90a410be765485e948ed4a50c1"
     },
@@ -208,11 +488,19 @@
     },
     {
       "url": "./audio-manifest.v1.json",
-      "sha256": "ee559abc877a1e87f515419ab675c09fd8b8bdf91f630971f6768a0640aa18a3"
+      "sha256": "45c2f117dc94e0b291be9391c24293d5f1edc74572da9427d6aa389779ee291a"
+    },
+    {
+      "url": "./colors.js",
+      "sha256": "90fa6e2bcd1e41a3af5fde81ebd11139cdaeb78379638deeabf17149c179b7b3"
+    },
+    {
+      "url": "./colors.v1.json",
+      "sha256": "e35e0a13024649a91e199059fa969c27dc793e8a6ea77a46b98ea6754315154d"
     },
     {
       "url": "./courses.v1.json",
-      "sha256": "994331fec43a79c9aa9a3a92e2079f411c290682ed6214b4741da9da5c32ca50"
+      "sha256": "d78607b6fe017160deb9ea267e68c1aee069538ce5fb1364684105dff3962355"
     },
     {
       "url": "./manifest.webmanifest",
@@ -220,11 +508,11 @@
     },
     {
       "url": "./offline-shell.json",
-      "sha256": "d2f41677bd892a963259fc9187372b31fabe251daa319d87f472842b81880327"
+      "sha256": "fb0f6d106c009597d8a60cc8816f261b463a889b214f4966602af75b9ba5ee6d"
     },
     {
       "url": "./progress.js",
-      "sha256": "f8016cf9cb647dfe11c98dddafcf829529d251c62648b770f1863f9d146b3810"
+      "sha256": "7d40964b80d486bd1ad1601d5c110e6cafc30a4c571b4e0487a5d2cee71c2405"
     },
     {
       "url": "./recorder.js",
@@ -232,7 +520,7 @@
     },
     {
       "url": "./style.css",
-      "sha256": "125a75e967df0b6f8b020077a77d828639f9634da10fd59eae657b36a5fe20bd"
+      "sha256": "ededa5a4692adc1c72d6b273f006e8ce78254d67c28a6af8c139c0507b7b2f09"
     }
   ]
 }

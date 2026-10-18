@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "releaseId": "legacy-1.1.1",
-  "profileHash": "legacy-mixed-export",
+  "releaseId": "append-52baa1c2e56eef82",
+  "profileHash": "mixed-6aa36c8e31ff35e66cabdac8e17022219b95c3327f1a0810da8340b85c5ea7ed",
   "clips": {
     "ball": {
       "url": "./assets/audio/ball.mp3",
@@ -110,6 +110,255 @@
     "toilet-please": {
       "url": "./assets/audio/toilet-please.mp3",
       "sha256": "6f107253fa1c28eb5fd155497e2bb9eadb36f072c72d9ce565e9bca41360047e"
+    },
+    "color-red": {
+      "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-red.mp3",
+      "sha256": "c3a8b7ad07ff95f9fea367ea727244021087e3a487833b2457edebc0bda0fb29",
+      "text": "Red."
+    },
+    "color-yellow": {
+      "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-yellow.mp3",
+      "sha256": "c08cb31d109271f1d0a22f5c885c1bfe024eed1faa429ab430d1ae4c97a82ae4",
+      "text": "Yellow."
+    },
+    "color-blue": {
+      "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-blue.mp3",
+      "sha256": "b8cce8ad4b661a609971822a825ce7dcd0389aa2afbae52ed53311479bb33f21",
+      "text": "Blue."
+    },
+    "color-green": {
+      "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-green.mp3",
+      "sha256": "d0712f249cbd8e717a5cc607ccfb9323a5594f2d7a8327ab7439c7b0b34b4a59",
+      "text": "Green."
+    },
+    "color-orange": {
+      "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-orange.mp3",
+      "sha256": "687089c6fc77dffcab8366c6dc37d47ac70614f3d623e94761e9928658e4cf2f",
+      "text": "Orange."
+    },
+    "color-purple": {
+      "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-purple.mp3",
+      "sha256": "026d41e47639ed2a7ffaed394ec6dd4288279fdb9e0814ce41111040b17528a6",
+      "text": "Purple."
+    },
+    "color-pink": {
+      "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-pink.mp3",
+      "sha256": "7b60caa2b2720d2b0aa2d33349c58c655277e04b766bc6edffd4700531582ae6",
+      "text": "Pink."
+    },
+    "color-brown": {
+      "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-brown.mp3",
+      "sha256": "9026fa8dc581926971ecba492d527a0efcb65f31c81e8ef27f3c7248aa53fded",
+      "text": "Brown."
+    },
+    "color-black": {
+      "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-black.mp3",
+      "sha256": "6efb2aca30145bb37ccfd6b04a9e02b21d8e6f347f21518590f9c6c2b03fe029",
+      "text": "Black."
+    },
+    "color-white": {
+      "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-white.mp3",
+      "sha256": "71c4a4703c8b729f5a7a41e641a795b10ba2124b290ff916b25fb18f921dc3d5",
+      "text": "White."
+    },
+    "color-gray": {
+      "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-gray.mp3",
+      "sha256": "9d7a05ef67cc37156619f35e785b8c2c493226c00deba0f65f8e37e7ed93326e",
+      "text": "Gray."
+    },
+    "color-light-red": {
+      "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-light-red.mp3",
+      "sha256": "70b1ad753387eebf392fc25fef20be9dfb06202987ab16dff8e59b3aa5feba1a",
+      "text": "Light red."
+    },
+    "color-dark-red": {
+      "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-dark-red.mp3",
+      "sha256": "9d314c9c65c94d8d809c6e99b8b198feba012b382422327113eac7ce9ba214a1",
+      "text": "Dark red."
+    },
+    "color-coral": {
+      "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-coral.mp3",
+      "sha256": "97c263caf1cdb5658c820d8243c28521f13f63908949a0357a8dba2532ad9ac9",
+      "text": "Coral."
+    },
+    "color-maroon": {
+      "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-maroon.mp3",
+      "sha256": "f0886c081ce1bdffb4d81aa02d5d94a1d5ecb26a1fc76a7ec3af1c1b93f8bbfa",
+      "text": "Maroon."
+    },
+    "color-light-yellow": {
+      "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-light-yellow.mp3",
+      "sha256": "fa58020a7bda6d6ca524108e786b85ea158506679d3acb9451b185a3e429d41c",
+      "text": "Light yellow."
+    },
+    "color-gold": {
+      "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-gold.mp3",
+      "sha256": "0228eda3d915fae167b366773afbfa197925696517f25c3fdcfba4780c5eae98",
+      "text": "Gold."
+    },
+    "color-light-blue": {
+      "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-light-blue.mp3",
+      "sha256": "296f9b94bdc656e1456cdcae8a6bc449c8e3eddb4e966bdbe174e76376937b87",
+      "text": "Light blue."
+    },
+    "color-dark-blue": {
+      "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-dark-blue.mp3",
+      "sha256": "f8b94717697dd9ae67b7c87e4fa8a52c04b4ff530ffca17f49b0293a95116cba",
+      "text": "Dark blue."
+    },
+    "color-sky-blue": {
+      "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-sky-blue.mp3",
+      "sha256": "7552ddbcd9b6f7cdc0783f537cfe3c2ed19cf8651ceed192d92ef0b0fda174c2",
+      "text": "Sky blue."
+    },
+    "color-navy": {
+      "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-navy.mp3",
+      "sha256": "42e478ff4fee5d65d40a807fae1cd74b81462833e767c9f7ad70d7de52d5c9cc",
+      "text": "Navy."
+    },
+    "color-light-green": {
+      "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-light-green.mp3",
+      "sha256": "e3a51d25fa96cc3d7d5ef5ed73a6de5fbd6b44b177395a48c56d00127f77c1ac",
+      "text": "Light green."
+    },
+    "color-dark-green": {
+      "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-dark-green.mp3",
+      "sha256": "3db7c47375dd1c329d208e3c3269742f307749dc9a7a9190e38db5577e1c991f",
+      "text": "Dark green."
+    },
+    "color-lime": {
+      "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-lime.mp3",
+      "sha256": "f705b647f12feecfb80ef315c419012efd92a85a63448ec0f86adb874a62a6aa",
+      "text": "Lime."
+    },
+    "color-olive": {
+      "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-olive.mp3",
+      "sha256": "3814d8261fbc961a53115b05acff9e51d186df20083937ea6b78365ca0c37189",
+      "text": "Olive."
+    },
+    "color-light-orange": {
+      "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-light-orange.mp3",
+      "sha256": "a12a3c77bcfbce4b7d0510ce4024f18d42bb7856e3006ce40552e5b78d9c4aaf",
+      "text": "Light orange."
+    },
+    "color-dark-orange": {
+      "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-dark-orange.mp3",
+      "sha256": "6391e9a48664fbdd1e3b29725d411c7fdb58621a30bb656db2607ab3a4035e09",
+      "text": "Dark orange."
+    },
+    "color-light-purple": {
+      "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-light-purple.mp3",
+      "sha256": "96ef475eb70010883fffbdf09c3c7a7884a57968bd4078e38a12954c3bfd4345",
+      "text": "Light purple."
+    },
+    "color-dark-purple": {
+      "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-dark-purple.mp3",
+      "sha256": "1a9f2755ce0d7993494e63e55abaedc7de26da5b8589c1d5d8a21c9cd61b5811",
+      "text": "Dark purple."
+    },
+    "color-lavender": {
+      "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-lavender.mp3",
+      "sha256": "36408c8697675970968da052da35ebe3b3b0a01109e6cd14afa9011f6cee909f",
+      "text": "Lavender."
+    },
+    "color-light-pink": {
+      "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-light-pink.mp3",
+      "sha256": "bfa6cfbc6074b91271d0bda17633512f22b00628f6932c7931abb48a81edf3ec",
+      "text": "Light pink."
+    },
+    "color-dark-pink": {
+      "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-dark-pink.mp3",
+      "sha256": "93296d1fc0e03c3e9fe5711885ec54e00d3e304f27804d31aa66cb4b0f360f98",
+      "text": "Dark pink."
+    },
+    "color-light-brown": {
+      "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-light-brown.mp3",
+      "sha256": "eec7e04429a9af33390b369d2254080800b34ffac06fee9ffe20fcd667f11cd3",
+      "text": "Light brown."
+    },
+    "color-dark-brown": {
+      "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-dark-brown.mp3",
+      "sha256": "1fd2b17a2f393376bcf29a8e3f9d612c1aa721ea0c370d4e6b0cb5f2fecacd2a",
+      "text": "Dark brown."
+    },
+    "color-teal": {
+      "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-teal.mp3",
+      "sha256": "8d1ef7a0b6187ed2feac18b43baef0560fdc374bb88073920b121ab0559c1fa3",
+      "text": "Teal."
     }
+  },
+  "profiles": {
+    "base": "legacy-mixed-export",
+    "append": {
+      "schemaVersion": 1,
+      "id": "kokoro-heart-reference-v2",
+      "version": "2.0.0",
+      "provider": "kokoro-local",
+      "model": {
+        "repository": "hexgrad/Kokoro-82M",
+        "revision": "f3ff3571791e39611d31c381e3a41a3af07b4987",
+        "files": [
+          {
+            "name": "config.json",
+            "sha256": "5abb01e2403b072bf03d04fde160443e209d7a0dad49a423be15196b9b43c17f"
+          },
+          {
+            "name": "kokoro-v1_0.pth",
+            "sha256": "496dba118d1a58f5f3db2efc88dbdc216e0483fc89fe6e47ee1f2c53f18ad1e4"
+          },
+          {
+            "name": "voices/af_heart.pt",
+            "sha256": "0ab5709b8ffab19bfd849cd11d98f75b60af7733253ad0d67b12382a102cb4ff"
+          }
+        ]
+      },
+      "voice": "af_heart",
+      "language": "en-US",
+      "languageCode": "a",
+      "speed": 0.9,
+      "inference": {
+        "device": "cpu",
+        "dtype": "float32",
+        "seed": 20261011,
+        "seedMode": "per-text",
+        "threads": 1
+      },
+      "readings": {},
+      "export": {
+        "format": "mp3",
+        "sampleRate": 24000,
+        "channels": 1,
+        "pcmSubtype": "PCM_16",
+        "bitRate": "96k",
+        "peakDb": -1,
+        "paddingSeconds": 0,
+        "trim": false
+      },
+      "dependencies": {
+        "kokoro": "0.9.4",
+        "misaki": "0.9.4",
+        "numpy": "2.4.6",
+        "soundfile": "0.14.0",
+        "huggingface_hub": "2.2.0",
+        "torch": "2.14.1",
+        "spacy": "3.8.16",
+        "en-core-web-sm": "3.8.0",
+        "espeakng-loader": "0.2.4"
+      },
+      "ffmpegVersion": "9.0.1",
+      "license": {
+        "name": "Apache-2.0",
+        "modelURL": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "implementationURL": "https://github.com/hexgrad/kokoro",
+        "referenceDemo": "https://huggingface.co/spaces/hexgrad/Kokoro-TTS"
+      },
+      "scope": "Generic English words and short parent-child phrases; synthetic voice; no child recordings or voice cloning",
+      "listeningStatus": "candidate-awaiting-user-audition"
+    }
+  },
+  "listening": {
+    "status": "not-human-listened",
+    "authorization": "reuse published af_heart at 0.9; no new voice selection",
+    "sourceTask": "2026-10-18 用户授权落地颜色课程、复用现有课程音频能力并发布；沿用当前 af_heart / speed 0.9，仅追加颜色词；不更换候选声线。不代表新增词已人工核听。"
   }
 }

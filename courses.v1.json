@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": "1.3.0",
+  "version": "1.4.0",
   "language": "en-US",
   "audio": {
     "ball": "Ball.",
@@ -29,7 +29,42 @@
     "my-bag": "My bag.",
     "sit-down": "Sit down.",
     "help-please": "Help, please.",
-    "toilet-please": "Toilet, please."
+    "toilet-please": "Toilet, please.",
+    "color-red": "Red.",
+    "color-yellow": "Yellow.",
+    "color-blue": "Blue.",
+    "color-green": "Green.",
+    "color-orange": "Orange.",
+    "color-purple": "Purple.",
+    "color-pink": "Pink.",
+    "color-brown": "Brown.",
+    "color-black": "Black.",
+    "color-white": "White.",
+    "color-gray": "Gray.",
+    "color-light-red": "Light red.",
+    "color-dark-red": "Dark red.",
+    "color-coral": "Coral.",
+    "color-maroon": "Maroon.",
+    "color-light-yellow": "Light yellow.",
+    "color-gold": "Gold.",
+    "color-light-blue": "Light blue.",
+    "color-dark-blue": "Dark blue.",
+    "color-sky-blue": "Sky blue.",
+    "color-navy": "Navy.",
+    "color-light-green": "Light green.",
+    "color-dark-green": "Dark green.",
+    "color-lime": "Lime.",
+    "color-olive": "Olive.",
+    "color-light-orange": "Light orange.",
+    "color-dark-orange": "Dark orange.",
+    "color-light-purple": "Light purple.",
+    "color-dark-purple": "Dark purple.",
+    "color-lavender": "Lavender.",
+    "color-light-pink": "Light pink.",
+    "color-dark-pink": "Dark pink.",
+    "color-light-brown": "Light brown.",
+    "color-dark-brown": "Dark brown.",
+    "color-teal": "Teal."
   },
   "lessons": [
     {
@@ -200,5 +235,8 @@
         "text": "家长准备一个安全、容易打开的盒子。示范 “Help, please.”，再一起 open。孩子说或示意 stop 时，家长就停下来。想要帮忙，指一指或用中文说也很好。"
       }
     }
-  ]
+  ],
+  "colorWorld": {
+    "file": "colors.v1.json"
+  }
 }

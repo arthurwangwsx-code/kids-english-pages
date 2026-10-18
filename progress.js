@@ -2,6 +2,7 @@
 export function createProgress(course, storage, basePath) {
   const key = 'little-english-progress' + (basePath === '/' ? '' : ':' + basePath);
   const valid = new Set(course.lessons.map(lesson => lesson.id));
+  if (course.colorWorld) valid.add('color-world');
   const empty = ok => ({complete: [], active: '', ok});
   function load() {
     try {
