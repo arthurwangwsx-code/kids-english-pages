@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "courseVersion": "1.4.0",
-  "offlineRevision": "55c1c64ba1ad",
+  "courseVersion": "1.5.0",
+  "offlineRevision": "4ff3e517de28",
   "files": {
     "AUDIO-SOURCES.txt": "612fa3790938a9998198e8c67b58f659b5d2ed2c4a15e84eb87e49867604cee3",
     "KOKORO-LICENSE.txt": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
@@ -127,14 +127,15 @@
     "audio-manifest.v1.json": "45c2f117dc94e0b291be9391c24293d5f1edc74572da9427d6aa389779ee291a",
     "colors.js": "90fa6e2bcd1e41a3af5fde81ebd11139cdaeb78379638deeabf17149c179b7b3",
     "colors.v1.json": "e35e0a13024649a91e199059fa969c27dc793e8a6ea77a46b98ea6754315154d",
-    "courses.v1.json": "d78607b6fe017160deb9ea267e68c1aee069538ce5fb1364684105dff3962355",
-    "index.html": "c92c0c82edfb51ac964233d7a52237dc5ae5879e9dcfe233351ab3261ab663db",
+    "courses.v1.json": "8f543dc679abf7c2cb452cbf370788138f0290f774400de9fe9327bce3b92e4f",
+    "index.html": "6f3a4e07d6be11ed8802cd83cf68b0eb0cd57b3b7e684d8fc932b1bb9c7080c1",
     "manifest.webmanifest": "4f388851c3eb8332b8886a1ba8b919dc86cbfe7901ceb2604f0b4fa89b6d723f",
-    "offline-manifest.json": "f1d58615977294240ec2d7e3ca3c98da7d50319115c76cc42904967a92553944",
-    "offline-shell.json": "fb0f6d106c009597d8a60cc8816f261b463a889b214f4966602af75b9ba5ee6d",
+    "offline-manifest.json": "6987e85e541c1b848482a7cc3b708bbd0ce76fb704b8ac821effe30afe27744b",
+    "offline-shell.json": "d4dcadd38a35bab479b3fab50c6595e32698aea1417639e5d473fde3aa274a31",
     "progress.js": "7d40964b80d486bd1ad1601d5c110e6cafc30a4c571b4e0487a5d2cee71c2405",
-    "recorder.js": "b66ead204970268e908b92085d52f8d72c19b2c30cde6d05bcd5126d72f1e997",
-    "style.css": "ededa5a4692adc1c72d6b273f006e8ce78254d67c28a6af8c139c0507b7b2f09",
-    "sw.js": "c597f4ffce26a96d0493f2e9cb7758c5778d74412082ca223fa16e2332891851"
+    "recorder.js": "cd8d4c7b3398c63236efdfe5a6898cc0717232d396a9f1a43c3c2b1084ff4c11",
+    "recording-file.js": "01d9af6fd65ccb548301107e1bc54972ede7bfca320061ab3dfda2e253961f0e",
+    "style.css": "e7fbf03bd12f75b16d18dd9eba833c65cc0dc90c9155056581f7740122a98055",
+    "sw.js": "dd6b4c8021d244beaa66b3feaca849c3e21afadca035199d616232ee19120d9a"
   }
 }

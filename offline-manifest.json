@@ -1,6 +1,6 @@
 {
-  "version": "1.4.0",
-  "revision": "55c1c64ba1ad",
+  "version": "1.5.0",
+  "revision": "4ff3e517de28",
   "assets": [
     {
       "url": "./AUDIO-SOURCES.txt",
@@ -500,7 +500,7 @@
     },
     {
       "url": "./courses.v1.json",
-      "sha256": "d78607b6fe017160deb9ea267e68c1aee069538ce5fb1364684105dff3962355"
+      "sha256": "8f543dc679abf7c2cb452cbf370788138f0290f774400de9fe9327bce3b92e4f"
     },
     {
       "url": "./manifest.webmanifest",
@@ -508,7 +508,7 @@
     },
     {
       "url": "./offline-shell.json",
-      "sha256": "fb0f6d106c009597d8a60cc8816f261b463a889b214f4966602af75b9ba5ee6d"
+      "sha256": "d4dcadd38a35bab479b3fab50c6595e32698aea1417639e5d473fde3aa274a31"
     },
     {
       "url": "./progress.js",
@@ -516,11 +516,15 @@
     },
     {
       "url": "./recorder.js",
-      "sha256": "b66ead204970268e908b92085d52f8d72c19b2c30cde6d05bcd5126d72f1e997"
+      "sha256": "cd8d4c7b3398c63236efdfe5a6898cc0717232d396a9f1a43c3c2b1084ff4c11"
+    },
+    {
+      "url": "./recording-file.js",
+      "sha256": "01d9af6fd65ccb548301107e1bc54972ede7bfca320061ab3dfda2e253961f0e"
     },
     {
       "url": "./style.css",
-      "sha256": "ededa5a4692adc1c72d6b273f006e8ce78254d67c28a6af8c139c0507b7b2f09"
+      "sha256": "e7fbf03bd12f75b16d18dd9eba833c65cc0dc90c9155056581f7740122a98055"
     }
   ]
 }
