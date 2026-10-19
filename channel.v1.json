@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "readerSchema": 1,
-  "contentVersion": "1.7.0",
-  "commit": "e6f8c2c696b2758e378b9f9dd8f3848fe13cb44d",
-  "indexPath": "native-content/1.7.0/index.v1.json",
-  "indexSHA256": "2a3481b9bd121326e8d36747d17c3b468b4d954669db44d8e796cd564d19b59f"
+  "contentVersion": "1.7.1",
+  "commit": "aeb46e3e8158a7d67ecea0cbdbdc4702f1668874",
+  "indexPath": "native-content/1.7.1/index.v1.json",
+  "indexSHA256": "191d6bf36f1e4d7c5e8afe51ec097d6968dc23010e14c96a4d571c48b53830d8"
 }
