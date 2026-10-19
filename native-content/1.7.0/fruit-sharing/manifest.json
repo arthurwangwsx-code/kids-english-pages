@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 1,
+  "id": "fruit-sharing",
+  "version": "1.7.0",
+  "title": "一起认识水果",
+  "catalog": "catalog.v1.json",
+  "resources": [
+    {
+      "path": "audio/i-like-mango.mp3",
+      "sha256": "2624a3291e677b1629979e4c3ba95dfaab29431c0aafa100ba2d5751846b1742",
+      "mime": "audio/mpeg",
+      "bytes": 23660
+    },
+    {
+      "path": "audio/mango.mp3",
+      "sha256": "0b22993d45f645c3dcf32b1b39c9864ef4e57281571d2ab7887616b14693d146",
+      "mime": "audio/mpeg",
+      "bytes": 20780
+    },
+    {
+      "path": "audio/papaya.mp3",
+      "sha256": "422d89bfe7fa8947b9b64b0103350df29fe06e5b5677dbb242de40363662b4eb",
+      "mime": "audio/mpeg",
+      "bytes": 21068
+    },
+    {
+      "path": "audio/watermelon.mp3",
+      "sha256": "30cf14e81c48771ef1722c54057e2e0b161e015c467198c4700b89677a49090e",
+      "mime": "audio/mpeg",
+      "bytes": 21356
+    },
+    {
+      "path": "audio/zh-mango.mp3",
+      "sha256": "52f5a945289bb6ceb5cf8b3f112ae991ba7893940c50bab113ce95075093eafb",
+      "mime": "audio/mpeg",
+      "bytes": 14156
+    },
+    {
+      "path": "audio/zh-papaya.mp3",
+      "sha256": "5c93f5af415e2cd6849362c2dff2dba932c078a4f1b564b6fcaf3ef70e82d26d",
+      "mime": "audio/mpeg",
+      "bytes": 13292
+    },
+    {
+      "path": "audio/zh-watermelon.mp3",
+      "sha256": "325026c7565598f5a9944d262f24a8cefe9e36afec59700aa440e35ae89038e6",
+      "mime": "audio/mpeg",
+      "bytes": 13868
+    },
+    {
+      "path": "audio-manifest.v1.json",
+      "sha256": "f999baa91e7f02f17787218bf100971af7d03c294dad1adc24115015911e783f",
+      "mime": "application/json",
+      "bytes": 77647
+    },
+    {
+      "path": "catalog.v1.json",
+      "sha256": "88a68c57ca38f4a35bc90a999952fff2c511e4f6ae2e3f38afd15f467068a308",
+      "mime": "application/json",
+      "bytes": 15478
+    },
+    {
+      "path": "colors.v1.json",
+      "sha256": "e35e0a13024649a91e199059fa969c27dc793e8a6ea77a46b98ea6754315154d",
+      "mime": "application/json",
+      "bytes": 13616
+    },
+    {
+      "path": "courses.v1.json",
+      "sha256": "b9708d819782db8cbe5c182abce2ed004c7c9c9df46c120c9a140056748c22e4",
+      "mime": "application/json",
+      "bytes": 15982
+    },
+    {
+      "path": "images/mango.png",
+      "sha256": "1bacbd8022dfc7e6b94ed62d79ac187adf6d419d1a301388bfbfec36a7d246b9",
+      "mime": "image/png",
+      "bytes": 43965
+    },
+    {
+      "path": "images/papaya.png",
+      "sha256": "03c27c0750f7f61148d51a9d5c6cfe90cf087f18b2477e19e94111b3e0d6edd7",
+      "mime": "image/png",
+      "bytes": 34292
+    },
+    {
+      "path": "images/watermelon.png",
+      "sha256": "ed7c6c7fd3c8a1f9ea74ea4f5dc6b4db00d4499d35defd034b77b629547436b2",
+      "mime": "image/png",
+      "bytes": 38516
+    },
+    {
+      "path": "licenses.v1.json",
+      "sha256": "29f46c469fcd6cb60600cee2f3a6f14c5f8e47d38925828e4739344f1214f71b",
+      "mime": "application/json",
+      "bytes": 15134
+    },
+    {
+      "path": "resource-contract.json",
+      "sha256": "59448953979d2d01650127491d492a750f32f9b27bccc53bfc6ee233a3c9a257",
+      "mime": "application/json",
+      "bytes": 3703
+    }
+  ]
+}

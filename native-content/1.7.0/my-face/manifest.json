@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 1,
+  "id": "my-face",
+  "version": "1.7.0",
+  "title": "我的脸",
+  "catalog": "catalog.v1.json",
+  "resources": [
+    {
+      "path": "audio/ears.mp3",
+      "sha256": "4b7e4e3b3e7c3094155bd32761b3487922f746176d5ef69fed3bdb46efa246ec",
+      "mime": "audio/mpeg",
+      "bytes": 19628
+    },
+    {
+      "path": "audio/eyes.mp3",
+      "sha256": "3b2fae226fd7a93f70df8c9bbf0fe8c37b5a725be5ae80e1d62cf1cfbd95ebdd",
+      "mime": "audio/mpeg",
+      "bytes": 19052
+    },
+    {
+      "path": "audio/nose.mp3",
+      "sha256": "e2627c4fba81c0a03a1063d3456f4d51946a1672e31e43484b00ad46cd8bf403",
+      "mime": "audio/mpeg",
+      "bytes": 20492
+    },
+    {
+      "path": "audio/touch-your-nose.mp3",
+      "sha256": "123e7fe16285cc82357596d5838b00e6dedc22745425c33f11fd71bd22bb822d",
+      "mime": "audio/mpeg",
+      "bytes": 21932
+    },
+    {
+      "path": "audio/zh-ears.mp3",
+      "sha256": "e9dec10d76ff700b8be897d62e54771375c5238a596847ca0ac1efb34c3d776f",
+      "mime": "audio/mpeg",
+      "bytes": 13004
+    },
+    {
+      "path": "audio/zh-eyes.mp3",
+      "sha256": "3ddf2c71b47c4495971427be5c9749d675ab17f21e76e6f79c8c81aab35db0a2",
+      "mime": "audio/mpeg",
+      "bytes": 14444
+    },
+    {
+      "path": "audio/zh-nose.mp3",
+      "sha256": "451aec31d6acb554c0d3ce031bfef149444d64e54cd320ec3cdef6a1700cd763",
+      "mime": "audio/mpeg",
+      "bytes": 13580
+    },
+    {
+      "path": "audio-manifest.v1.json",
+      "sha256": "f999baa91e7f02f17787218bf100971af7d03c294dad1adc24115015911e783f",
+      "mime": "application/json",
+      "bytes": 77647
+    },
+    {
+      "path": "catalog.v1.json",
+      "sha256": "88a68c57ca38f4a35bc90a999952fff2c511e4f6ae2e3f38afd15f467068a308",
+      "mime": "application/json",
+      "bytes": 15478
+    },
+    {
+      "path": "colors.v1.json",
+      "sha256": "e35e0a13024649a91e199059fa969c27dc793e8a6ea77a46b98ea6754315154d",
+      "mime": "application/json",
+      "bytes": 13616
+    },
+    {
+      "path": "courses.v1.json",
+      "sha256": "b9708d819782db8cbe5c182abce2ed004c7c9c9df46c120c9a140056748c22e4",
+      "mime": "application/json",
+      "bytes": 15982
+    },
+    {
+      "path": "images/ears.png",
+      "sha256": "1e6ccf3d538e2c39e569682bf9c7270b7ac8633767d7bed27c7892c7c1164e32",
+      "mime": "image/png",
+      "bytes": 38629
+    },
+    {
+      "path": "images/eyes.png",
+      "sha256": "e8b95d881e8e8793ca03fc1dd3574f42e8b7fd2de553e4c48d15d7e10a3617d8",
+      "mime": "image/png",
+      "bytes": 32728
+    },
+    {
+      "path": "images/nose.png",
+      "sha256": "181467a471366df828d53eb7837ae520b6610ec4a8e591f7861496637b32f07e",
+      "mime": "image/png",
+      "bytes": 23664
+    },
+    {
+      "path": "licenses.v1.json",
+      "sha256": "29f46c469fcd6cb60600cee2f3a6f14c5f8e47d38925828e4739344f1214f71b",
+      "mime": "application/json",
+      "bytes": 15134
+    },
+    {
+      "path": "resource-contract.json",
+      "sha256": "6e5ebe9c997090cb5178450289729d6759a7025f9317bc93dad6bb4c8092f6e3",
+      "mime": "application/json",
+      "bytes": 3649
+    }
+  ]
+}

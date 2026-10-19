@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "courseVersion": "1.7.0",
+  "renderer": "librsvg / rsvg-convert; 720px original SVG rasterization",
+  "sourceFiles": {
+    "AUDIO-SOURCES.txt": "0300553a80ad678819854a39ee05dde7d2605976688edf9713b8838945a65234",
+    "KOKORO-LICENSE.txt": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+    "assets/audio-releases/append-fb4039329d7d6de1/bed.mp3": "05017c1f887ab5f84adad8a35a07944671a3637e9101de9ce665651b70efd8be",
+    "assets/audio-releases/append-fb4039329d7d6de1/door.mp3": "4fffef301a41ccc75f30d061e5bbb2c2d96ac5daac46b2b1e6cfdfcb739b99d1",
+    "assets/audio-releases/append-fb4039329d7d6de1/lamp.mp3": "57437a2cbffcbd2e420c8ebbbd4f2b6a6f3f9a79ee1197f81e7c3db42f31b39e",
+    "assets/audio-releases/append-fb4039329d7d6de1/this-is-my-bed.mp3": "39d166c24ce7e160eea252e168e37ba59b34dd8e10387a3a4fed29806a52371f",
+    "assets/audio-releases/kokoro-mandarin-zf001-v1-b2e9a267994c/zh-bed.mp3": "60682c7ccf5db8d5e0b6290124b18752b1a509ec0b6976e876869eaea0305074",
+    "assets/audio-releases/kokoro-mandarin-zf001-v1-b2e9a267994c/zh-door.mp3": "c0add69173e710e668813a40e98698fe63292e3b711368c2c4a192a13a08a63a",
+    "assets/audio-releases/kokoro-mandarin-zf001-v1-b2e9a267994c/zh-lamp.mp3": "b8facc627f8facaa7869664726d4f88a53274cb118ad764afb5cbe2093731e9b",
+    "assets/icon.svg": "078c3a5b5872e5121b174b9aaa62c8d63be9a2a1d1de9a8be8be15ebf0a66047",
+    "assets/images/bed.svg": "441d9e398ba93155aaf77baa2469c42453c43dc2658979084b4562c7f23ce62b",
+    "assets/images/door.svg": "0e2125aab99b02e2ca7b07900a6ebce6c309708e7d883a470f0c8d5fb6f72f77",
+    "assets/images/lamp.svg": "b7b65b4a1c9c332c7fd045e9449407ae2b64aceede4971e54acac787de41f744",
+    "audio-manifest.v1.json": "f999baa91e7f02f17787218bf100971af7d03c294dad1adc24115015911e783f",
+    "catalog.v1.json": "88a68c57ca38f4a35bc90a999952fff2c511e4f6ae2e3f38afd15f467068a308",
+    "colors.v1.json": "e35e0a13024649a91e199059fa969c27dc793e8a6ea77a46b98ea6754315154d",
+    "courses.v1.json": "b9708d819782db8cbe5c182abce2ed004c7c9c9df46c120c9a140056748c22e4"
+  },
+  "files": {
+    "audio/bed.mp3": "05017c1f887ab5f84adad8a35a07944671a3637e9101de9ce665651b70efd8be",
+    "audio/door.mp3": "4fffef301a41ccc75f30d061e5bbb2c2d96ac5daac46b2b1e6cfdfcb739b99d1",
+    "audio/lamp.mp3": "57437a2cbffcbd2e420c8ebbbd4f2b6a6f3f9a79ee1197f81e7c3db42f31b39e",
+    "audio/this-is-my-bed.mp3": "39d166c24ce7e160eea252e168e37ba59b34dd8e10387a3a4fed29806a52371f",
+    "audio/zh-bed.mp3": "60682c7ccf5db8d5e0b6290124b18752b1a509ec0b6976e876869eaea0305074",
+    "audio/zh-door.mp3": "c0add69173e710e668813a40e98698fe63292e3b711368c2c4a192a13a08a63a",
+    "audio/zh-lamp.mp3": "b8facc627f8facaa7869664726d4f88a53274cb118ad764afb5cbe2093731e9b",
+    "audio-manifest.v1.json": "f999baa91e7f02f17787218bf100971af7d03c294dad1adc24115015911e783f",
+    "catalog.v1.json": "88a68c57ca38f4a35bc90a999952fff2c511e4f6ae2e3f38afd15f467068a308",
+    "colors.v1.json": "e35e0a13024649a91e199059fa969c27dc793e8a6ea77a46b98ea6754315154d",
+    "courses.v1.json": "b9708d819782db8cbe5c182abce2ed004c7c9c9df46c120c9a140056748c22e4",
+    "images/bed.png": "858822ece509977862301c8ca70cadd30d938e611948e27c9302ed31eec1d55b",
+    "images/door.png": "f8343888609cd3dfccbb1af25e7c1d1f9ab3f0ef56ea5e26b133b380b3af6b74",
+    "images/lamp.png": "74cb46a990073af292e50a687016db7a423c0a30285ab50693a25f8b71e44786",
+    "licenses.v1.json": "29f46c469fcd6cb60600cee2f3a6f14c5f8e47d38925828e4739344f1214f71b"
+  },
+  "resourceSelection": {
+    "schemaVersion": 1,
+    "mode": "subset",
+    "lessonIds": [
+      "at-home"
+    ],
+    "colorIds": [],
+    "railIds": [],
+    "includeNeeds": false
+  }
+}

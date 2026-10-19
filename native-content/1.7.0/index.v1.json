@@ -1,0 +1,433 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "1.7.0",
+  "transportScope": "public-static-runtime-only",
+  "publicURL": "https://raw.githubusercontent.com/arthurwangwsx-code/kids-english-pages/native-resources-v1.7.0/native-content/1.7.0/",
+  "packages": [
+    {
+      "id": "toys",
+      "version": "1.7.0",
+      "title": "玩具时间",
+      "basePath": "toys/",
+      "manifestPath": "manifest.json",
+      "manifestSHA256": "b74d39e05fe1f657243467427dd3d49c2d556c52ee392671a143270bfb6ff1fc",
+      "resources": 16,
+      "bytes": 345114,
+      "selection": {
+        "schemaVersion": 1,
+        "mode": "subset",
+        "lessonIds": [
+          "toys"
+        ],
+        "colorIds": [],
+        "railIds": [],
+        "includeNeeds": false
+      }
+    },
+    {
+      "id": "water-time",
+      "version": "1.7.0",
+      "title": "喝水时间",
+      "basePath": "water-time/",
+      "manifestPath": "manifest.json",
+      "manifestSHA256": "b0273646bdc9b4c5a69facd8be1b784649b37b3167ac003f7ddee3f321529f0d",
+      "resources": 16,
+      "bytes": 320972,
+      "selection": {
+        "schemaVersion": 1,
+        "mode": "subset",
+        "lessonIds": [
+          "water-time"
+        ],
+        "colorIds": [],
+        "railIds": [],
+        "includeNeeds": false
+      }
+    },
+    {
+      "id": "meal",
+      "version": "1.7.0",
+      "title": "吃饭时间",
+      "basePath": "meal/",
+      "manifestPath": "manifest.json",
+      "manifestSHA256": "48ee654b815e80073941f1fc1d657e2f3dd875d6bc3a602c5ec047d5e02622a1",
+      "resources": 16,
+      "bytes": 316503,
+      "selection": {
+        "schemaVersion": 1,
+        "mode": "subset",
+        "lessonIds": [
+          "meal"
+        ],
+        "colorIds": [],
+        "railIds": [],
+        "includeNeeds": false
+      }
+    },
+    {
+      "id": "outside",
+      "version": "1.7.0",
+      "title": "出门时间",
+      "basePath": "outside/",
+      "manifestPath": "manifest.json",
+      "manifestSHA256": "455ead5d0ed3d1beba9df4b8b89cce8f5a3518f1e5a4206bb3ff28542148169b",
+      "resources": 16,
+      "bytes": 306045,
+      "selection": {
+        "schemaVersion": 1,
+        "mode": "subset",
+        "lessonIds": [
+          "outside"
+        ],
+        "colorIds": [],
+        "railIds": [],
+        "includeNeeds": false
+      }
+    },
+    {
+      "id": "school",
+      "version": "1.7.0",
+      "title": "幼儿园时间",
+      "basePath": "school/",
+      "manifestPath": "manifest.json",
+      "manifestSHA256": "815f9f3327d03e56135cd69f460270536e4b64e0b2946ce99442d3d06cea6640",
+      "resources": 16,
+      "bytes": 278282,
+      "selection": {
+        "schemaVersion": 1,
+        "mode": "subset",
+        "lessonIds": [
+          "school"
+        ],
+        "colorIds": [],
+        "railIds": [],
+        "includeNeeds": false
+      }
+    },
+    {
+      "id": "help-time",
+      "version": "1.7.0",
+      "title": "请帮帮我",
+      "basePath": "help-time/",
+      "manifestPath": "manifest.json",
+      "manifestSHA256": "f7acdc2255b60957d4a926b9b5f88024249b76f8d45e09a377fae49d3b8855c6",
+      "resources": 16,
+      "bytes": 314426,
+      "selection": {
+        "schemaVersion": 1,
+        "mode": "subset",
+        "lessonIds": [
+          "help-time"
+        ],
+        "colorIds": [],
+        "railIds": [],
+        "includeNeeds": false
+      }
+    },
+    {
+      "id": "at-home",
+      "version": "1.7.0",
+      "title": "我的家",
+      "basePath": "at-home/",
+      "manifestPath": "manifest.json",
+      "manifestSHA256": "746ce7fa2f2d20083665cec7590f48c5fb9c86953fdee83123406eab22d70b3a",
+      "resources": 16,
+      "bytes": 294027,
+      "selection": {
+        "schemaVersion": 1,
+        "mode": "subset",
+        "lessonIds": [
+          "at-home"
+        ],
+        "colorIds": [],
+        "railIds": [],
+        "includeNeeds": false
+      }
+    },
+    {
+      "id": "my-face",
+      "version": "1.7.0",
+      "title": "我的脸",
+      "basePath": "my-face/",
+      "manifestPath": "manifest.json",
+      "manifestSHA256": "84f2c0c72aa9fc88c41b93fa31e68c971c244a9daaca59a61e352f7e780c0fec",
+      "resources": 16,
+      "bytes": 358659,
+      "selection": {
+        "schemaVersion": 1,
+        "mode": "subset",
+        "lessonIds": [
+          "my-face"
+        ],
+        "colorIds": [],
+        "railIds": [],
+        "includeNeeds": false
+      }
+    },
+    {
+      "id": "wash-hands",
+      "version": "1.7.0",
+      "title": "洗手时间",
+      "basePath": "wash-hands/",
+      "manifestPath": "manifest.json",
+      "manifestSHA256": "d3367d6a7422a03c01bda950f0bed9858e809ebcdd3c4f82f817d73c014e4710",
+      "resources": 16,
+      "bytes": 340639,
+      "selection": {
+        "schemaVersion": 1,
+        "mode": "subset",
+        "lessonIds": [
+          "wash-hands"
+        ],
+        "colorIds": [],
+        "railIds": [],
+        "includeNeeds": false
+      }
+    },
+    {
+      "id": "animal-friends",
+      "version": "1.7.0",
+      "title": "小动物",
+      "basePath": "animal-friends/",
+      "manifestPath": "manifest.json",
+      "manifestSHA256": "389d47132edec1a3d41aea099fe10b1682c35830afac0146370363ec9ff8e5ff",
+      "resources": 16,
+      "bytes": 335208,
+      "selection": {
+        "schemaVersion": 1,
+        "mode": "subset",
+        "lessonIds": [
+          "animal-friends"
+        ],
+        "colorIds": [],
+        "railIds": [],
+        "includeNeeds": false
+      }
+    },
+    {
+      "id": "at-the-station",
+      "version": "1.7.0",
+      "title": "乘轨道交通",
+      "basePath": "at-the-station/",
+      "manifestPath": "manifest.json",
+      "manifestSHA256": "1ad08061c0e3e0b9b938d42c50be3ff9f2e7374776e7019b85cdfdf32a86bdba",
+      "resources": 16,
+      "bytes": 309717,
+      "selection": {
+        "schemaVersion": 1,
+        "mode": "subset",
+        "lessonIds": [
+          "at-the-station"
+        ],
+        "colorIds": [],
+        "railIds": [],
+        "includeNeeds": false
+      }
+    },
+    {
+      "id": "animal-water",
+      "version": "1.7.0",
+      "title": "小小动物",
+      "basePath": "animal-water/",
+      "manifestPath": "manifest.json",
+      "manifestSHA256": "0a0a5df71bd56fad413e315ba92552405d708cf3744f9e23d7b58422aa594c53",
+      "resources": 16,
+      "bytes": 343168,
+      "selection": {
+        "schemaVersion": 1,
+        "mode": "subset",
+        "lessonIds": [
+          "animal-water"
+        ],
+        "colorIds": [],
+        "railIds": [],
+        "includeNeeds": false
+      }
+    },
+    {
+      "id": "animal-big",
+      "version": "1.7.0",
+      "title": "更多动物朋友",
+      "basePath": "animal-big/",
+      "manifestPath": "manifest.json",
+      "manifestSHA256": "34fa9d3b8d650551914b1f9c9d146c3e8d94621dd811b19f4dba3af6d922ad1a",
+      "resources": 16,
+      "bytes": 359484,
+      "selection": {
+        "schemaVersion": 1,
+        "mode": "subset",
+        "lessonIds": [
+          "animal-big"
+        ],
+        "colorIds": [],
+        "railIds": [],
+        "includeNeeds": false
+      }
+    },
+    {
+      "id": "fruit-everyday",
+      "version": "1.7.0",
+      "title": "熟悉的水果",
+      "basePath": "fruit-everyday/",
+      "manifestPath": "manifest.json",
+      "manifestSHA256": "8929766d5a48b7853b1e77f2353ccdaf9f00bf4b67211750faa700caf885d018",
+      "resources": 16,
+      "bytes": 367125,
+      "selection": {
+        "schemaVersion": 1,
+        "mode": "subset",
+        "lessonIds": [
+          "fruit-everyday"
+        ],
+        "colorIds": [],
+        "railIds": [],
+        "includeNeeds": false
+      }
+    },
+    {
+      "id": "fruit-sharing",
+      "version": "1.7.0",
+      "title": "一起认识水果",
+      "basePath": "fruit-sharing/",
+      "manifestPath": "manifest.json",
+      "manifestSHA256": "50b45ce5d96b318356d3ae0b995dfa0f5c139c715d9a7e89934a451866ea6a97",
+      "resources": 16,
+      "bytes": 386513,
+      "selection": {
+        "schemaVersion": 1,
+        "mode": "subset",
+        "lessonIds": [
+          "fruit-sharing"
+        ],
+        "colorIds": [],
+        "railIds": [],
+        "includeNeeds": false
+      }
+    },
+    {
+      "id": "fruit-tropical",
+      "version": "1.7.0",
+      "title": "更多水果",
+      "basePath": "fruit-tropical/",
+      "manifestPath": "manifest.json",
+      "manifestSHA256": "d157dca5e647ef00686be96e951a259400914803b084915394a0c048f21e763f",
+      "resources": 16,
+      "bytes": 396107,
+      "selection": {
+        "schemaVersion": 1,
+        "mode": "subset",
+        "lessonIds": [
+          "fruit-tropical"
+        ],
+        "colorIds": [],
+        "railIds": [],
+        "includeNeeds": false
+      }
+    },
+    {
+      "id": "animal-world",
+      "version": "1.7.0",
+      "title": "动物单词学习",
+      "basePath": "animal-world/",
+      "manifestPath": "manifest.json",
+      "manifestSHA256": "2c99fcce5051b3bc030e7683ad0771eb537cdc830020c18780f3526715827f25",
+      "resources": 36,
+      "bytes": 759260,
+      "selection": {
+        "schemaVersion": 1,
+        "mode": "subset",
+        "lessonIds": [
+          "animal-big",
+          "animal-friends",
+          "animal-water"
+        ],
+        "colorIds": [],
+        "railIds": [],
+        "includeNeeds": false
+      }
+    },
+    {
+      "id": "fruit-world",
+      "version": "1.7.0",
+      "title": "水果单词学习",
+      "basePath": "fruit-world/",
+      "manifestPath": "manifest.json",
+      "manifestSHA256": "5962bdd89ce883a8431a9ca5d456aeb59201f021065ed5218749882a052357f0",
+      "resources": 36,
+      "bytes": 871145,
+      "selection": {
+        "schemaVersion": 1,
+        "mode": "subset",
+        "lessonIds": [
+          "fruit-everyday",
+          "fruit-sharing",
+          "fruit-tropical"
+        ],
+        "colorIds": [],
+        "railIds": [],
+        "includeNeeds": false
+      }
+    },
+    {
+      "id": "colors-world",
+      "version": "1.7.0",
+      "title": "颜色小世界与轨道探索",
+      "basePath": "colors-world/",
+      "manifestPath": "manifest.json",
+      "manifestSHA256": "9897beaf37318c3a08587f394d833c001b19d5daf5fb414dc4379a86faa4a12d",
+      "resources": 111,
+      "bytes": 2264511,
+      "selection": {
+        "schemaVersion": 1,
+        "mode": "subset",
+        "lessonIds": [],
+        "colorIds": [
+          "black",
+          "blue",
+          "brown",
+          "coral",
+          "dark-blue",
+          "dark-brown",
+          "dark-green",
+          "dark-orange",
+          "dark-pink",
+          "dark-purple",
+          "dark-red",
+          "gold",
+          "gray",
+          "green",
+          "lavender",
+          "light-blue",
+          "light-brown",
+          "light-green",
+          "light-orange",
+          "light-pink",
+          "light-purple",
+          "light-red",
+          "light-yellow",
+          "lime",
+          "maroon",
+          "navy",
+          "olive",
+          "orange",
+          "pink",
+          "purple",
+          "red",
+          "sky-blue",
+          "teal",
+          "white",
+          "yellow"
+        ],
+        "railIds": [
+          "ampang",
+          "kajang",
+          "kelana-jaya",
+          "kl-monorail",
+          "putrajaya",
+          "sri-petaling"
+        ],
+        "includeNeeds": false
+      }
+    }
+  ]
+}

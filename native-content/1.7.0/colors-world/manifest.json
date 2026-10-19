@@ -1,0 +1,675 @@
+{
+  "schemaVersion": 1,
+  "id": "colors-world",
+  "version": "1.7.0",
+  "title": "颜色小世界与轨道探索",
+  "catalog": "catalog.v1.json",
+  "resources": [
+    {
+      "path": "audio/color-black.mp3",
+      "sha256": "6efb2aca30145bb37ccfd6b04a9e02b21d8e6f347f21518590f9c6c2b03fe029",
+      "mime": "audio/mpeg",
+      "bytes": 18188
+    },
+    {
+      "path": "audio/color-blue.mp3",
+      "sha256": "b8cce8ad4b661a609971822a825ce7dcd0389aa2afbae52ed53311479bb33f21",
+      "mime": "audio/mpeg",
+      "bytes": 18764
+    },
+    {
+      "path": "audio/color-brown.mp3",
+      "sha256": "9026fa8dc581926971ecba492d527a0efcb65f31c81e8ef27f3c7248aa53fded",
+      "mime": "audio/mpeg",
+      "bytes": 19628
+    },
+    {
+      "path": "audio/color-coral.mp3",
+      "sha256": "97c263caf1cdb5658c820d8243c28521f13f63908949a0357a8dba2532ad9ac9",
+      "mime": "audio/mpeg",
+      "bytes": 19340
+    },
+    {
+      "path": "audio/color-dark-blue.mp3",
+      "sha256": "f8b94717697dd9ae67b7c87e4fa8a52c04b4ff530ffca17f49b0293a95116cba",
+      "mime": "audio/mpeg",
+      "bytes": 20780
+    },
+    {
+      "path": "audio/color-dark-brown.mp3",
+      "sha256": "1fd2b17a2f393376bcf29a8e3f9d612c1aa721ea0c370d4e6b0cb5f2fecacd2a",
+      "mime": "audio/mpeg",
+      "bytes": 21644
+    },
+    {
+      "path": "audio/color-dark-green.mp3",
+      "sha256": "3db7c47375dd1c329d208e3c3269742f307749dc9a7a9190e38db5577e1c991f",
+      "mime": "audio/mpeg",
+      "bytes": 21356
+    },
+    {
+      "path": "audio/color-dark-orange.mp3",
+      "sha256": "6391e9a48664fbdd1e3b29725d411c7fdb58621a30bb656db2607ab3a4035e09",
+      "mime": "audio/mpeg",
+      "bytes": 22508
+    },
+    {
+      "path": "audio/color-dark-pink.mp3",
+      "sha256": "93296d1fc0e03c3e9fe5711885ec54e00d3e304f27804d31aa66cb4b0f360f98",
+      "mime": "audio/mpeg",
+      "bytes": 21068
+    },
+    {
+      "path": "audio/color-dark-purple.mp3",
+      "sha256": "1a9f2755ce0d7993494e63e55abaedc7de26da5b8589c1d5d8a21c9cd61b5811",
+      "mime": "audio/mpeg",
+      "bytes": 22220
+    },
+    {
+      "path": "audio/color-dark-red.mp3",
+      "sha256": "9d314c9c65c94d8d809c6e99b8b198feba012b382422327113eac7ce9ba214a1",
+      "mime": "audio/mpeg",
+      "bytes": 21068
+    },
+    {
+      "path": "audio/color-gold.mp3",
+      "sha256": "0228eda3d915fae167b366773afbfa197925696517f25c3fdcfba4780c5eae98",
+      "mime": "audio/mpeg",
+      "bytes": 19340
+    },
+    {
+      "path": "audio/color-gray.mp3",
+      "sha256": "9d7a05ef67cc37156619f35e785b8c2c493226c00deba0f65f8e37e7ed93326e",
+      "mime": "audio/mpeg",
+      "bytes": 19340
+    },
+    {
+      "path": "audio/color-green.mp3",
+      "sha256": "d0712f249cbd8e717a5cc607ccfb9323a5594f2d7a8327ab7439c7b0b34b4a59",
+      "mime": "audio/mpeg",
+      "bytes": 19628
+    },
+    {
+      "path": "audio/color-lavender.mp3",
+      "sha256": "36408c8697675970968da052da35ebe3b3b0a01109e6cd14afa9011f6cee909f",
+      "mime": "audio/mpeg",
+      "bytes": 20492
+    },
+    {
+      "path": "audio/color-light-blue.mp3",
+      "sha256": "296f9b94bdc656e1456cdcae8a6bc449c8e3eddb4e966bdbe174e76376937b87",
+      "mime": "audio/mpeg",
+      "bytes": 20780
+    },
+    {
+      "path": "audio/color-light-brown.mp3",
+      "sha256": "eec7e04429a9af33390b369d2254080800b34ffac06fee9ffe20fcd667f11cd3",
+      "mime": "audio/mpeg",
+      "bytes": 21644
+    },
+    {
+      "path": "audio/color-light-green.mp3",
+      "sha256": "e3a51d25fa96cc3d7d5ef5ed73a6de5fbd6b44b177395a48c56d00127f77c1ac",
+      "mime": "audio/mpeg",
+      "bytes": 21356
+    },
+    {
+      "path": "audio/color-light-orange.mp3",
+      "sha256": "a12a3c77bcfbce4b7d0510ce4024f18d42bb7856e3006ce40552e5b78d9c4aaf",
+      "mime": "audio/mpeg",
+      "bytes": 23084
+    },
+    {
+      "path": "audio/color-light-pink.mp3",
+      "sha256": "bfa6cfbc6074b91271d0bda17633512f22b00628f6932c7931abb48a81edf3ec",
+      "mime": "audio/mpeg",
+      "bytes": 21068
+    },
+    {
+      "path": "audio/color-light-purple.mp3",
+      "sha256": "96ef475eb70010883fffbdf09c3c7a7884a57968bd4078e38a12954c3bfd4345",
+      "mime": "audio/mpeg",
+      "bytes": 22508
+    },
+    {
+      "path": "audio/color-light-red.mp3",
+      "sha256": "70b1ad753387eebf392fc25fef20be9dfb06202987ab16dff8e59b3aa5feba1a",
+      "mime": "audio/mpeg",
+      "bytes": 21356
+    },
+    {
+      "path": "audio/color-light-yellow.mp3",
+      "sha256": "fa58020a7bda6d6ca524108e786b85ea158506679d3acb9451b185a3e429d41c",
+      "mime": "audio/mpeg",
+      "bytes": 21644
+    },
+    {
+      "path": "audio/color-lime.mp3",
+      "sha256": "f705b647f12feecfb80ef315c419012efd92a85a63448ec0f86adb874a62a6aa",
+      "mime": "audio/mpeg",
+      "bytes": 19916
+    },
+    {
+      "path": "audio/color-maroon.mp3",
+      "sha256": "f0886c081ce1bdffb4d81aa02d5d94a1d5ecb26a1fc76a7ec3af1c1b93f8bbfa",
+      "mime": "audio/mpeg",
+      "bytes": 20492
+    },
+    {
+      "path": "audio/color-navy.mp3",
+      "sha256": "42e478ff4fee5d65d40a807fae1cd74b81462833e767c9f7ad70d7de52d5c9cc",
+      "mime": "audio/mpeg",
+      "bytes": 19628
+    },
+    {
+      "path": "audio/color-olive.mp3",
+      "sha256": "3814d8261fbc961a53115b05acff9e51d186df20083937ea6b78365ca0c37189",
+      "mime": "audio/mpeg",
+      "bytes": 19628
+    },
+    {
+      "path": "audio/color-orange.mp3",
+      "sha256": "687089c6fc77dffcab8366c6dc37d47ac70614f3d623e94761e9928658e4cf2f",
+      "mime": "audio/mpeg",
+      "bytes": 21356
+    },
+    {
+      "path": "audio/color-pink.mp3",
+      "sha256": "7b60caa2b2720d2b0aa2d33349c58c655277e04b766bc6edffd4700531582ae6",
+      "mime": "audio/mpeg",
+      "bytes": 18764
+    },
+    {
+      "path": "audio/color-purple.mp3",
+      "sha256": "026d41e47639ed2a7ffaed394ec6dd4288279fdb9e0814ce41111040b17528a6",
+      "mime": "audio/mpeg",
+      "bytes": 19340
+    },
+    {
+      "path": "audio/color-red.mp3",
+      "sha256": "c3a8b7ad07ff95f9fea367ea727244021087e3a487833b2457edebc0bda0fb29",
+      "mime": "audio/mpeg",
+      "bytes": 19052
+    },
+    {
+      "path": "audio/color-sky-blue.mp3",
+      "sha256": "7552ddbcd9b6f7cdc0783f537cfe3c2ed19cf8651ceed192d92ef0b0fda174c2",
+      "mime": "audio/mpeg",
+      "bytes": 21068
+    },
+    {
+      "path": "audio/color-teal.mp3",
+      "sha256": "8d1ef7a0b6187ed2feac18b43baef0560fdc374bb88073920b121ab0559c1fa3",
+      "mime": "audio/mpeg",
+      "bytes": 19340
+    },
+    {
+      "path": "audio/color-white.mp3",
+      "sha256": "71c4a4703c8b729f5a7a41e641a795b10ba2124b290ff916b25fb18f921dc3d5",
+      "mime": "audio/mpeg",
+      "bytes": 18188
+    },
+    {
+      "path": "audio/color-yellow.mp3",
+      "sha256": "c08cb31d109271f1d0a22f5c885c1bfe024eed1faa429ab430d1ae4c97a82ae4",
+      "mime": "audio/mpeg",
+      "bytes": 19916
+    },
+    {
+      "path": "audio/zh-color-black.mp3",
+      "sha256": "dddd29a637aefac64412e849f5b8e7c78ab32e6c44832bd72a5b8f2382c7aba8",
+      "mime": "audio/mpeg",
+      "bytes": 13292
+    },
+    {
+      "path": "audio/zh-color-blue.mp3",
+      "sha256": "ac88fb843bdece7fc16e38f30ed8263cbba482d61fc765dda6c622371b89e3db",
+      "mime": "audio/mpeg",
+      "bytes": 13580
+    },
+    {
+      "path": "audio/zh-color-brown.mp3",
+      "sha256": "d92a39e2d3085335824279a1b8f6810c0180af4426e4a32147dee82d0db30789",
+      "mime": "audio/mpeg",
+      "bytes": 13868
+    },
+    {
+      "path": "audio/zh-color-coral.mp3",
+      "sha256": "a8af6b33970ae073a7a98bc31a582e76001efeb74b6201fd38af4b0de63068c8",
+      "mime": "audio/mpeg",
+      "bytes": 19916
+    },
+    {
+      "path": "audio/zh-color-dark-blue.mp3",
+      "sha256": "01ec3c3a0381a2ac572627dd8955d3f6feb2026f58c2bdffc5dff1834149831f",
+      "mime": "audio/mpeg",
+      "bytes": 17900
+    },
+    {
+      "path": "audio/zh-color-dark-brown.mp3",
+      "sha256": "a9c30e237711bbe6e0514285f3e0bb6b77b53e25263d9d7f43ff19b77f88c9e4",
+      "mime": "audio/mpeg",
+      "bytes": 17900
+    },
+    {
+      "path": "audio/zh-color-dark-green.mp3",
+      "sha256": "0470ea341cf29fe05508ab02371dd53819c5c801bbde8dc232936f31254f9003",
+      "mime": "audio/mpeg",
+      "bytes": 18476
+    },
+    {
+      "path": "audio/zh-color-dark-orange.mp3",
+      "sha256": "2561e508173bdd4b2061e236d261729043a32fdcce048fa007780f6f917fd209",
+      "mime": "audio/mpeg",
+      "bytes": 19628
+    },
+    {
+      "path": "audio/zh-color-dark-pink.mp3",
+      "sha256": "8ab23a75436cf41e2db0da5d6de965d378339d99e336c6206f002d7a1ae09d1a",
+      "mime": "audio/mpeg",
+      "bytes": 19052
+    },
+    {
+      "path": "audio/zh-color-dark-purple.mp3",
+      "sha256": "a6adcfe7ae47b97b6041c52b6edc0b6bd21f28f6c23fcf50960bd0ce56e44e46",
+      "mime": "audio/mpeg",
+      "bytes": 18476
+    },
+    {
+      "path": "audio/zh-color-dark-red.mp3",
+      "sha256": "6d12b286e875566c699f46dc7265c9010c71e59e62cd9f453669b40d5cdeb5ed",
+      "mime": "audio/mpeg",
+      "bytes": 18764
+    },
+    {
+      "path": "audio/zh-color-gold.mp3",
+      "sha256": "b197238f711bc256f139b3011aceaf5cdff5d70adf7fcf46cd658635a07a7496",
+      "mime": "audio/mpeg",
+      "bytes": 17900
+    },
+    {
+      "path": "audio/zh-color-gray.mp3",
+      "sha256": "2587765a3c179bd3bebc80e8dc7f3456f988b01b18644e842664848450fd032b",
+      "mime": "audio/mpeg",
+      "bytes": 13580
+    },
+    {
+      "path": "audio/zh-color-green.mp3",
+      "sha256": "b9164d170c822465e138fe3c46b926d7ed13a4fcd3ef43f65f6bc6a0d83b1aef",
+      "mime": "audio/mpeg",
+      "bytes": 14156
+    },
+    {
+      "path": "audio/zh-color-lavender.mp3",
+      "sha256": "3e41cffdcbb88c09ac87d60f9110b8141ea762b6a4f2e2855635b3138126a88b",
+      "mime": "audio/mpeg",
+      "bytes": 26252
+    },
+    {
+      "path": "audio/zh-color-light-blue.mp3",
+      "sha256": "45c7630867e4fb0cd74370b2c5acfc656aca437f047d488df3ad9d7faef070c0",
+      "mime": "audio/mpeg",
+      "bytes": 18188
+    },
+    {
+      "path": "audio/zh-color-light-brown.mp3",
+      "sha256": "123c6206e42ca8ba480c6aa8a1320c795fffbb501304d8687b68fe61b1e0bedc",
+      "mime": "audio/mpeg",
+      "bytes": 18764
+    },
+    {
+      "path": "audio/zh-color-light-green.mp3",
+      "sha256": "f977bf141fb28a90ce5765884340f0d7f13eee7c715cf202de26a0b0ba740272",
+      "mime": "audio/mpeg",
+      "bytes": 18188
+    },
+    {
+      "path": "audio/zh-color-light-orange.mp3",
+      "sha256": "3aea1a7ab6a3208c2d30ab62ee5fbd35791f1ff05efcc00a46321bed79c3e682",
+      "mime": "audio/mpeg",
+      "bytes": 19628
+    },
+    {
+      "path": "audio/zh-color-light-pink.mp3",
+      "sha256": "65f2438d1074cfbed39d483ed19016f7e6d38c53f7f12c438b4745583358b1bb",
+      "mime": "audio/mpeg",
+      "bytes": 19052
+    },
+    {
+      "path": "audio/zh-color-light-purple.mp3",
+      "sha256": "4772aa7a2e58bb5a33c2305e2541e6752a9739d82effa6eb690247c345e4083e",
+      "mime": "audio/mpeg",
+      "bytes": 18764
+    },
+    {
+      "path": "audio/zh-color-light-red.mp3",
+      "sha256": "42c4819fe4be0c9d4001d792726ff3aa05ca0a22775e84341aad73876cdfd0dc",
+      "mime": "audio/mpeg",
+      "bytes": 18764
+    },
+    {
+      "path": "audio/zh-color-light-yellow.mp3",
+      "sha256": "672c20907f819b226bd03349d045f03b1c811ffe800a04a6e3e317a86df2e867",
+      "mime": "audio/mpeg",
+      "bytes": 19052
+    },
+    {
+      "path": "audio/zh-color-lime.mp3",
+      "sha256": "90bdb45a16b61486ada67865e0bdc5efab448806e3cdbbbd83577a31bbdc176a",
+      "mime": "audio/mpeg",
+      "bytes": 18188
+    },
+    {
+      "path": "audio/zh-color-maroon.mp3",
+      "sha256": "996e9febb6b8db43359b06436e3e8086f1717eb4a2c6ea42649b953c53c86461",
+      "mime": "audio/mpeg",
+      "bytes": 17612
+    },
+    {
+      "path": "audio/zh-color-navy.mp3",
+      "sha256": "5c287faeaf20961c82d89f21975f877e08c915169b00bbfb9a273752913f7f0b",
+      "mime": "audio/mpeg",
+      "bytes": 19340
+    },
+    {
+      "path": "audio/zh-color-olive.mp3",
+      "sha256": "f78ca5f32509e51edae87e422606ac4920671f30db9edea9c8312ce5518f470c",
+      "mime": "audio/mpeg",
+      "bytes": 19052
+    },
+    {
+      "path": "audio/zh-color-orange.mp3",
+      "sha256": "de8cd71cb2ef5f084e792834af81e8cb2288ec41dbdd3d71340261f843450890",
+      "mime": "audio/mpeg",
+      "bytes": 13868
+    },
+    {
+      "path": "audio/zh-color-pink.mp3",
+      "sha256": "9a8806b127e875202017c2594e72a3f762cd0c92f3ed12c1a8a583dab346fb07",
+      "mime": "audio/mpeg",
+      "bytes": 14444
+    },
+    {
+      "path": "audio/zh-color-purple.mp3",
+      "sha256": "cf594f91c4d391e21981f231806d916bc01836ad560e7c5fbb6df05f2a3e87a7",
+      "mime": "audio/mpeg",
+      "bytes": 13004
+    },
+    {
+      "path": "audio/zh-color-red.mp3",
+      "sha256": "db53345bba5c4b4e9ef900ca940d22d6787f3ea3093042a37a3d6f361a977c59",
+      "mime": "audio/mpeg",
+      "bytes": 13868
+    },
+    {
+      "path": "audio/zh-color-sky-blue.mp3",
+      "sha256": "cc744e8697534a45a799753a2d6d6a2f730d34f6975e6d12e906a0188bcfa5ef",
+      "mime": "audio/mpeg",
+      "bytes": 18764
+    },
+    {
+      "path": "audio/zh-color-teal.mp3",
+      "sha256": "d956e3c4dc508548c074becdd1da364865321f187124f2bbfda785abc85266ac",
+      "mime": "audio/mpeg",
+      "bytes": 17900
+    },
+    {
+      "path": "audio/zh-color-white.mp3",
+      "sha256": "1219dcf0158cf6bec2e43cb2745a167b717c681ee42be60b26d937a354117dda",
+      "mime": "audio/mpeg",
+      "bytes": 13580
+    },
+    {
+      "path": "audio/zh-color-yellow.mp3",
+      "sha256": "e4be393a95db637bf67ebb6f4422b880c6644270d8f8bfc020af23500e67dc7f",
+      "mime": "audio/mpeg",
+      "bytes": 13868
+    },
+    {
+      "path": "audio-manifest.v1.json",
+      "sha256": "f999baa91e7f02f17787218bf100971af7d03c294dad1adc24115015911e783f",
+      "mime": "application/json",
+      "bytes": 77647
+    },
+    {
+      "path": "catalog.v1.json",
+      "sha256": "88a68c57ca38f4a35bc90a999952fff2c511e4f6ae2e3f38afd15f467068a308",
+      "mime": "application/json",
+      "bytes": 15478
+    },
+    {
+      "path": "colors.v1.json",
+      "sha256": "e35e0a13024649a91e199059fa969c27dc793e8a6ea77a46b98ea6754315154d",
+      "mime": "application/json",
+      "bytes": 13616
+    },
+    {
+      "path": "courses.v1.json",
+      "sha256": "b9708d819782db8cbe5c182abce2ed004c7c9c9df46c120c9a140056748c22e4",
+      "mime": "application/json",
+      "bytes": 15982
+    },
+    {
+      "path": "images/color-black.png",
+      "sha256": "6918f9507aa3e1299c16b75b003c21e3ad17b277c517341953817f2f2c65b685",
+      "mime": "image/png",
+      "bytes": 23031
+    },
+    {
+      "path": "images/color-blue.png",
+      "sha256": "235972889c269d46799828997b109e63ca769940a45f6bddc55eedf54d7a324b",
+      "mime": "image/png",
+      "bytes": 22558
+    },
+    {
+      "path": "images/color-brown.png",
+      "sha256": "9f1b56da2a660e1aa3192ef0a84407bcc966f7b44afd69425f473e807ddcdd01",
+      "mime": "image/png",
+      "bytes": 22407
+    },
+    {
+      "path": "images/color-coral.png",
+      "sha256": "b2d99bac051589d8bbdfc9cf3d02c30e22b4d7bdb764a43bad2fa9add018c515",
+      "mime": "image/png",
+      "bytes": 22201
+    },
+    {
+      "path": "images/color-dark-blue.png",
+      "sha256": "945a6ea6650d2ef021abe06fe7d3edf979aab80c406e8b73ea8d4192264ce8d9",
+      "mime": "image/png",
+      "bytes": 22167
+    },
+    {
+      "path": "images/color-dark-brown.png",
+      "sha256": "5683b29a242bcaa990e0fc46ee145b2532f811946c1c3cb80aa225915f9c2a10",
+      "mime": "image/png",
+      "bytes": 22819
+    },
+    {
+      "path": "images/color-dark-green.png",
+      "sha256": "a4b997f9f362ecb38ca113de5b1c886eb58d060c4e8263840e128e79f2d3d0de",
+      "mime": "image/png",
+      "bytes": 22867
+    },
+    {
+      "path": "images/color-dark-orange.png",
+      "sha256": "c4f4a2bd69b5bf6cf1c5a9f0e545dc386c53a470320dfa2e098ffa1ecca8fac6",
+      "mime": "image/png",
+      "bytes": 22766
+    },
+    {
+      "path": "images/color-dark-pink.png",
+      "sha256": "a318827ac414eb7c8432aebf0d9f74c54cd63b40b735b446cfbb6c33733f293d",
+      "mime": "image/png",
+      "bytes": 21598
+    },
+    {
+      "path": "images/color-dark-purple.png",
+      "sha256": "ffa809ec1e7c9e730629521ae85bc908a3d48173c26f3bbe6bdb653639a12276",
+      "mime": "image/png",
+      "bytes": 22176
+    },
+    {
+      "path": "images/color-dark-red.png",
+      "sha256": "67caeaccbb735a9f5eeb96e172bfb279ae8e89bc1a5969d500ee9484fce0d963",
+      "mime": "image/png",
+      "bytes": 22828
+    },
+    {
+      "path": "images/color-gold.png",
+      "sha256": "df202fe6f91c0afc40981ceddc6e3714b759227beab676e1e023fdcf074311fe",
+      "mime": "image/png",
+      "bytes": 22630
+    },
+    {
+      "path": "images/color-gray.png",
+      "sha256": "35ed5053b69a8379e928729da36df1203c9eab249a20f39af92d2f710cbc332a",
+      "mime": "image/png",
+      "bytes": 21077
+    },
+    {
+      "path": "images/color-green.png",
+      "sha256": "abdbaad5fd17e8ddc9c0f3ef1f88b694db6946218ddac6a3ede8f42e93d465f3",
+      "mime": "image/png",
+      "bytes": 22368
+    },
+    {
+      "path": "images/color-lavender.png",
+      "sha256": "3bb97b8eb933cc2b844811518b810499e9a18d7cec57284e04c0128d962c3213",
+      "mime": "image/png",
+      "bytes": 22211
+    },
+    {
+      "path": "images/color-light-blue.png",
+      "sha256": "024c47c6d9794af4d793392d78823c1523fce10b9c70e2d9b606d87ef1652064",
+      "mime": "image/png",
+      "bytes": 22146
+    },
+    {
+      "path": "images/color-light-brown.png",
+      "sha256": "ca3ebe21bfafa97e8dd4f472efb2c49cf7c23de78cbe405a81c12a093bc04dd1",
+      "mime": "image/png",
+      "bytes": 21774
+    },
+    {
+      "path": "images/color-light-green.png",
+      "sha256": "ed1534f8d370aff8dfbe02038aebabf8401a6b63880c00fbcea1a05e778b877b",
+      "mime": "image/png",
+      "bytes": 21998
+    },
+    {
+      "path": "images/color-light-orange.png",
+      "sha256": "dcda7966478311ce3fdd3e9d2fa998365017b6fd927fad39762fb8cccbaf21bb",
+      "mime": "image/png",
+      "bytes": 21855
+    },
+    {
+      "path": "images/color-light-pink.png",
+      "sha256": "763ec05edc2301f0b20a9b20f11910c7fb2ed7c8617b6000b52f05c9038306a8",
+      "mime": "image/png",
+      "bytes": 22168
+    },
+    {
+      "path": "images/color-light-purple.png",
+      "sha256": "93da14c57802c5367c1d1cad5b74214a404242bd819c046de3c0a4e39f97bdf0",
+      "mime": "image/png",
+      "bytes": 22179
+    },
+    {
+      "path": "images/color-light-red.png",
+      "sha256": "32fc1c0dea93ed15e6f47639f88f06b0b13fd71a36253fe0b56189ee845ec5fd",
+      "mime": "image/png",
+      "bytes": 21754
+    },
+    {
+      "path": "images/color-light-yellow.png",
+      "sha256": "f73d0fe6aa61b8c5954586ecda4f26fb77e85891805a2a9b51d31701fdea67b1",
+      "mime": "image/png",
+      "bytes": 21990
+    },
+    {
+      "path": "images/color-lime.png",
+      "sha256": "00bd700c37b10ba8063adf1adb14946725083895cc28110aa2b85aeb084b82c5",
+      "mime": "image/png",
+      "bytes": 22282
+    },
+    {
+      "path": "images/color-maroon.png",
+      "sha256": "eb112e37cd2f7daad08b2d8ced015bc98e53166c4563cb892eaf9dab23cbead9",
+      "mime": "image/png",
+      "bytes": 22335
+    },
+    {
+      "path": "images/color-navy.png",
+      "sha256": "66f53e78ad4d84f95c72970528a16f21b217ed9a8cddb279dfbd50c367cfbd1d",
+      "mime": "image/png",
+      "bytes": 22892
+    },
+    {
+      "path": "images/color-olive.png",
+      "sha256": "a1519f3ea73c4ce4ce145ea11c2fdd72984028c52318475ee4529ac3350b81dd",
+      "mime": "image/png",
+      "bytes": 21830
+    },
+    {
+      "path": "images/color-orange.png",
+      "sha256": "d66743957eec5ba33d2a3ad66eb6f46812b394a782d7514ac29526ad4e5b9ba2",
+      "mime": "image/png",
+      "bytes": 22338
+    },
+    {
+      "path": "images/color-pink.png",
+      "sha256": "86b50973f9ec861f47879d882f44e4d90cd66717b7bb809d0fca3566a6fad985",
+      "mime": "image/png",
+      "bytes": 21962
+    },
+    {
+      "path": "images/color-purple.png",
+      "sha256": "de510eb14595834b32fc7606829fbcd17956219916906ca5fe0f8a3a96caa36e",
+      "mime": "image/png",
+      "bytes": 22060
+    },
+    {
+      "path": "images/color-red.png",
+      "sha256": "f4dca83be8b1b727714ce7114f9f925d4d43a169da5378f8c9ccbc5c3821b9d6",
+      "mime": "image/png",
+      "bytes": 22895
+    },
+    {
+      "path": "images/color-sky-blue.png",
+      "sha256": "0f26218030f693a6fc821b2767546c08d116ef26f1f8763156ca8f7319cc6ecf",
+      "mime": "image/png",
+      "bytes": 22119
+    },
+    {
+      "path": "images/color-teal.png",
+      "sha256": "3f94ecc5c16af90213fccbec50a6c404ea66d45a10e3a986dfcfb0af699810b3",
+      "mime": "image/png",
+      "bytes": 21454
+    },
+    {
+      "path": "images/color-white.png",
+      "sha256": "8ad69f007e519646dd8421081807054ab944f193911a454d0d3bcd0c6becfa00",
+      "mime": "image/png",
+      "bytes": 21567
+    },
+    {
+      "path": "images/color-yellow.png",
+      "sha256": "c04bc61972037e8f9cd86b4857194c04856b508ca7cc99216d228c411d0adbd7",
+      "mime": "image/png",
+      "bytes": 22393
+    },
+    {
+      "path": "licenses.v1.json",
+      "sha256": "29f46c469fcd6cb60600cee2f3a6f14c5f8e47d38925828e4739344f1214f71b",
+      "mime": "application/json",
+      "bytes": 15134
+    },
+    {
+      "path": "resource-contract.json",
+      "sha256": "cecfe6d32e9da8d3eda8cb807cc85300fd365f7ecbaedb223f7621043ffaca30",
+      "mime": "application/json",
+      "bytes": 26839
+    }
+  ]
+}

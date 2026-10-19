@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 1,
+  "id": "school",
+  "version": "1.7.0",
+  "title": "幼儿园时间",
+  "catalog": "catalog.v1.json",
+  "resources": [
+    {
+      "path": "audio/book.mp3",
+      "sha256": "1200fa5463c116e7923d8b0ad988c08bc58fad9b133025be3416fcfc25837c96",
+      "mime": "audio/mpeg",
+      "bytes": 12356
+    },
+    {
+      "path": "audio/chair.mp3",
+      "sha256": "37458aabbb9c6f6b1a4362a42bee5f3a5c4b829bdb1821f5e9cb612673a182ad",
+      "mime": "audio/mpeg",
+      "bytes": 13748
+    },
+    {
+      "path": "audio/sit-down.mp3",
+      "sha256": "b94b8e2b75774e23f650448d19d00d008bc16fc2fccae0189adcca74bf605c06",
+      "mime": "audio/mpeg",
+      "bytes": 16220
+    },
+    {
+      "path": "audio/table.mp3",
+      "sha256": "0564777b2169cc1fd50c8acf29ec0fd5bb033f53acc814dfdafbb41e076f110b",
+      "mime": "audio/mpeg",
+      "bytes": 15308
+    },
+    {
+      "path": "audio/zh-book.mp3",
+      "sha256": "14bc04f82cce46d00301ff81b3b51e3a4c95fee239602c2c59523c5f34d68267",
+      "mime": "audio/mpeg",
+      "bytes": 10988
+    },
+    {
+      "path": "audio/zh-chair.mp3",
+      "sha256": "94b2db16abc1096d147e94b82761f507031c0d9c907534262085fa68dec0fb40",
+      "mime": "audio/mpeg",
+      "bytes": 13292
+    },
+    {
+      "path": "audio/zh-table.mp3",
+      "sha256": "584e7f0fe47fd382b39f495d6ad5a033dbd5de18b802b18483d6cd4863f7cf74",
+      "mime": "audio/mpeg",
+      "bytes": 13580
+    },
+    {
+      "path": "audio-manifest.v1.json",
+      "sha256": "f999baa91e7f02f17787218bf100971af7d03c294dad1adc24115015911e783f",
+      "mime": "application/json",
+      "bytes": 77647
+    },
+    {
+      "path": "catalog.v1.json",
+      "sha256": "88a68c57ca38f4a35bc90a999952fff2c511e4f6ae2e3f38afd15f467068a308",
+      "mime": "application/json",
+      "bytes": 15478
+    },
+    {
+      "path": "colors.v1.json",
+      "sha256": "e35e0a13024649a91e199059fa969c27dc793e8a6ea77a46b98ea6754315154d",
+      "mime": "application/json",
+      "bytes": 13616
+    },
+    {
+      "path": "courses.v1.json",
+      "sha256": "b9708d819782db8cbe5c182abce2ed004c7c9c9df46c120c9a140056748c22e4",
+      "mime": "application/json",
+      "bytes": 15982
+    },
+    {
+      "path": "images/book.png",
+      "sha256": "84723767db5e30bfcd910e8c4fc20c37817f89c31cb7845c60e76fcb07b2b8cd",
+      "mime": "image/png",
+      "bytes": 19136
+    },
+    {
+      "path": "images/chair.png",
+      "sha256": "6abb519086070f25cf027932cb3275b9bfc7be2fc94b5db35ad53b2d450d1ed5",
+      "mime": "image/png",
+      "bytes": 12696
+    },
+    {
+      "path": "images/table.png",
+      "sha256": "48f3abb4c5d9b9d32008482e2fa4d45c7f60093cdc942fd7681295840fd68a19",
+      "mime": "image/png",
+      "bytes": 9587
+    },
+    {
+      "path": "licenses.v1.json",
+      "sha256": "29f46c469fcd6cb60600cee2f3a6f14c5f8e47d38925828e4739344f1214f71b",
+      "mime": "application/json",
+      "bytes": 15134
+    },
+    {
+      "path": "resource-contract.json",
+      "sha256": "b150bf3a329cb68a4a69262e60c1b2b7d7e7a6908a439272dfcd40600e1f665a",
+      "mime": "application/json",
+      "bytes": 3514
+    }
+  ]
+}

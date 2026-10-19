@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "courseVersion": "1.7.0",
+  "renderer": "librsvg / rsvg-convert; 720px original SVG rasterization",
+  "sourceFiles": {
+    "AUDIO-SOURCES.txt": "0300553a80ad678819854a39ee05dde7d2605976688edf9713b8838945a65234",
+    "KOKORO-LICENSE.txt": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+    "assets/audio-releases/kokoro-mandarin-zf001-v1-b2e9a267994c/zh-cup.mp3": "b6f9e8d8b24f3d6b3130c0e427d263f86e0ec39880ca2b50865d4924bd0925ba",
+    "assets/audio-releases/kokoro-mandarin-zf001-v1-b2e9a267994c/zh-drink.mp3": "2bf8723566c70f328f441f28f992cade08a78472d77dfc8cc2dd1324b9efd2de",
+    "assets/audio-releases/kokoro-mandarin-zf001-v1-b2e9a267994c/zh-water.mp3": "96bdb03401be91ef4f21eb405cde1d090f51f3f45daa54c983bd31f8698bca52",
+    "assets/audio/cup.mp3": "002f8909415eb35a77861bb2421e3509a732076b3cc8fb184665f298e1825baf",
+    "assets/audio/drink.mp3": "1f7957c91529cc48a35262b6bb2101eb7ac3316abf76dff26d33e844076f4cf5",
+    "assets/audio/water-please.mp3": "12aaa8cc7dd053333607ce86c9ee0c9ff9f9f3268a97101b9f44b85ad2576daf",
+    "assets/audio/water.mp3": "e7738d4c92fce8c464a12dc74d34d5975c3d3f6b58cca2f4473ad7f10f1b39b0",
+    "assets/icon.svg": "078c3a5b5872e5121b174b9aaa62c8d63be9a2a1d1de9a8be8be15ebf0a66047",
+    "assets/images/cup.svg": "48566a9a1f14f2e9c93ff04ce03f641c7bb9bc90a410be765485e948ed4a50c1",
+    "assets/images/drink.svg": "2c914cb2f64b2a3b5ba89698674df20b629903222b36c56f2660a9f05591f27f",
+    "assets/images/water.svg": "15ee0471e4678ea8495e9609c05f7265bee6355e6b76129115522af575b0ef6e",
+    "audio-manifest.v1.json": "f999baa91e7f02f17787218bf100971af7d03c294dad1adc24115015911e783f",
+    "catalog.v1.json": "88a68c57ca38f4a35bc90a999952fff2c511e4f6ae2e3f38afd15f467068a308",
+    "colors.v1.json": "e35e0a13024649a91e199059fa969c27dc793e8a6ea77a46b98ea6754315154d",
+    "courses.v1.json": "b9708d819782db8cbe5c182abce2ed004c7c9c9df46c120c9a140056748c22e4"
+  },
+  "files": {
+    "audio/cup.mp3": "002f8909415eb35a77861bb2421e3509a732076b3cc8fb184665f298e1825baf",
+    "audio/drink.mp3": "1f7957c91529cc48a35262b6bb2101eb7ac3316abf76dff26d33e844076f4cf5",
+    "audio/water-please.mp3": "12aaa8cc7dd053333607ce86c9ee0c9ff9f9f3268a97101b9f44b85ad2576daf",
+    "audio/water.mp3": "e7738d4c92fce8c464a12dc74d34d5975c3d3f6b58cca2f4473ad7f10f1b39b0",
+    "audio/zh-cup.mp3": "b6f9e8d8b24f3d6b3130c0e427d263f86e0ec39880ca2b50865d4924bd0925ba",
+    "audio/zh-drink.mp3": "2bf8723566c70f328f441f28f992cade08a78472d77dfc8cc2dd1324b9efd2de",
+    "audio/zh-water.mp3": "96bdb03401be91ef4f21eb405cde1d090f51f3f45daa54c983bd31f8698bca52",
+    "audio-manifest.v1.json": "f999baa91e7f02f17787218bf100971af7d03c294dad1adc24115015911e783f",
+    "catalog.v1.json": "88a68c57ca38f4a35bc90a999952fff2c511e4f6ae2e3f38afd15f467068a308",
+    "colors.v1.json": "e35e0a13024649a91e199059fa969c27dc793e8a6ea77a46b98ea6754315154d",
+    "courses.v1.json": "b9708d819782db8cbe5c182abce2ed004c7c9c9df46c120c9a140056748c22e4",
+    "images/cup.png": "49c3d7b44435f843efdc48af2a447b423fb32559c24d65a5db9d4e942607f368",
+    "images/drink.png": "ef5c476d49a8bb4dae4d0024458710a946e4c728ff450c124085c744da87de0d",
+    "images/water.png": "0689a3530100e030be3cb2581829a687eda85defb368940c446d53d8a3d70057",
+    "licenses.v1.json": "29f46c469fcd6cb60600cee2f3a6f14c5f8e47d38925828e4739344f1214f71b"
+  },
+  "resourceSelection": {
+    "schemaVersion": 1,
+    "mode": "subset",
+    "lessonIds": [
+      "water-time"
+    ],
+    "colorIds": [],
+    "railIds": [],
+    "includeNeeds": false
+  }
+}

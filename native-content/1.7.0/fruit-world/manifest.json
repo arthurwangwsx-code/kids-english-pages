@@ -1,0 +1,225 @@
+{
+  "schemaVersion": 1,
+  "id": "fruit-world",
+  "version": "1.7.0",
+  "title": "水果单词学习",
+  "catalog": "catalog.v1.json",
+  "resources": [
+    {
+      "path": "audio/a-banana-please.mp3",
+      "sha256": "d77276cd4a5941c8f584d248c3bf2eaad968df1a527ec741216fb775adee2f14",
+      "mime": "audio/mpeg",
+      "bytes": 25676
+    },
+    {
+      "path": "audio/apple.mp3",
+      "sha256": "eebdd0176ca92b91703b70fab0a017e0bec3a8f6b311d2db3ad49a9a2833d6b8",
+      "mime": "audio/mpeg",
+      "bytes": 19340
+    },
+    {
+      "path": "audio/banana.mp3",
+      "sha256": "3fc5472362bde7751debc2fee0556be8cc4212448454fe368da55006305aefeb",
+      "mime": "audio/mpeg",
+      "bytes": 15884
+    },
+    {
+      "path": "audio/grapes.mp3",
+      "sha256": "5d166fba409091ce67b2a7703fc97c74205d252dfe13d8e1c9b6c46d92e67ae8",
+      "mime": "audio/mpeg",
+      "bytes": 19916
+    },
+    {
+      "path": "audio/i-like-mango.mp3",
+      "sha256": "2624a3291e677b1629979e4c3ba95dfaab29431c0aafa100ba2d5751846b1742",
+      "mime": "audio/mpeg",
+      "bytes": 23660
+    },
+    {
+      "path": "audio/mango.mp3",
+      "sha256": "0b22993d45f645c3dcf32b1b39c9864ef4e57281571d2ab7887616b14693d146",
+      "mime": "audio/mpeg",
+      "bytes": 20780
+    },
+    {
+      "path": "audio/orange.mp3",
+      "sha256": "687089c6fc77dffcab8366c6dc37d47ac70614f3d623e94761e9928658e4cf2f",
+      "mime": "audio/mpeg",
+      "bytes": 21356
+    },
+    {
+      "path": "audio/papaya.mp3",
+      "sha256": "422d89bfe7fa8947b9b64b0103350df29fe06e5b5677dbb242de40363662b4eb",
+      "mime": "audio/mpeg",
+      "bytes": 21068
+    },
+    {
+      "path": "audio/pineapple.mp3",
+      "sha256": "94c3fa48d40ca6c81ee01005725c6fb3ab9cba5f74d5f3e260d59595431f9844",
+      "mime": "audio/mpeg",
+      "bytes": 20492
+    },
+    {
+      "path": "audio/strawberry.mp3",
+      "sha256": "8e905f698e7f76d12d1daf340e3776ee7fbc865672b4bb418784f2e7cd6f84ea",
+      "mime": "audio/mpeg",
+      "bytes": 21356
+    },
+    {
+      "path": "audio/these-are-grapes.mp3",
+      "sha256": "8f7b2bce023c6dcc57b09adb79b0d46cb04d5c1a648b83fd57670aa5549ef9b5",
+      "mime": "audio/mpeg",
+      "bytes": 22508
+    },
+    {
+      "path": "audio/watermelon.mp3",
+      "sha256": "30cf14e81c48771ef1722c54057e2e0b161e015c467198c4700b89677a49090e",
+      "mime": "audio/mpeg",
+      "bytes": 21356
+    },
+    {
+      "path": "audio/zh-apple.mp3",
+      "sha256": "9ceb8682bf2d22950773715e3780ecb8247654a30117826c6724ed5d7c45e65c",
+      "mime": "audio/mpeg",
+      "bytes": 14156
+    },
+    {
+      "path": "audio/zh-banana.mp3",
+      "sha256": "29450bcf98c2450e39fc0114097f275cdb6d64e1f54723d1e29625b4caebee4b",
+      "mime": "audio/mpeg",
+      "bytes": 14156
+    },
+    {
+      "path": "audio/zh-grapes.mp3",
+      "sha256": "7d371e3482486deca2e89a6b6d33a83cac61a255d0c9c0c56da8936cf97975ad",
+      "mime": "audio/mpeg",
+      "bytes": 13580
+    },
+    {
+      "path": "audio/zh-mango.mp3",
+      "sha256": "52f5a945289bb6ceb5cf8b3f112ae991ba7893940c50bab113ce95075093eafb",
+      "mime": "audio/mpeg",
+      "bytes": 14156
+    },
+    {
+      "path": "audio/zh-orange.mp3",
+      "sha256": "0ca5056d49c31143ac0451f1e90d979f474088e748348ea9af59a37fa9b88eaa",
+      "mime": "audio/mpeg",
+      "bytes": 14156
+    },
+    {
+      "path": "audio/zh-papaya.mp3",
+      "sha256": "5c93f5af415e2cd6849362c2dff2dba932c078a4f1b564b6fcaf3ef70e82d26d",
+      "mime": "audio/mpeg",
+      "bytes": 13292
+    },
+    {
+      "path": "audio/zh-pineapple.mp3",
+      "sha256": "bec6c8ceaa2191f4502ab3cf05eefb11f5b0a467f6fce3cef84a8659e08081bb",
+      "mime": "audio/mpeg",
+      "bytes": 13580
+    },
+    {
+      "path": "audio/zh-strawberry.mp3",
+      "sha256": "b44e2b7a68348a37b306a20eb30492d843f404a5a22aaccb8f3e2c7b7accfd03",
+      "mime": "audio/mpeg",
+      "bytes": 13868
+    },
+    {
+      "path": "audio/zh-watermelon.mp3",
+      "sha256": "325026c7565598f5a9944d262f24a8cefe9e36afec59700aa440e35ae89038e6",
+      "mime": "audio/mpeg",
+      "bytes": 13868
+    },
+    {
+      "path": "audio-manifest.v1.json",
+      "sha256": "f999baa91e7f02f17787218bf100971af7d03c294dad1adc24115015911e783f",
+      "mime": "application/json",
+      "bytes": 77647
+    },
+    {
+      "path": "catalog.v1.json",
+      "sha256": "88a68c57ca38f4a35bc90a999952fff2c511e4f6ae2e3f38afd15f467068a308",
+      "mime": "application/json",
+      "bytes": 15478
+    },
+    {
+      "path": "colors.v1.json",
+      "sha256": "e35e0a13024649a91e199059fa969c27dc793e8a6ea77a46b98ea6754315154d",
+      "mime": "application/json",
+      "bytes": 13616
+    },
+    {
+      "path": "courses.v1.json",
+      "sha256": "b9708d819782db8cbe5c182abce2ed004c7c9c9df46c120c9a140056748c22e4",
+      "mime": "application/json",
+      "bytes": 15982
+    },
+    {
+      "path": "images/apple.png",
+      "sha256": "2263ceb6f37bc3e22b8bcedc94d12d5f7c45f52d03e2583d08e5b1c77cde38c4",
+      "mime": "image/png",
+      "bytes": 35640
+    },
+    {
+      "path": "images/banana.png",
+      "sha256": "90a50042db5863eb08d2a927ad7507dd9234013c5a1a6921d38f5f64c534f912",
+      "mime": "image/png",
+      "bytes": 27723
+    },
+    {
+      "path": "images/grapes.png",
+      "sha256": "20e24f4292671de73230a79edff51e4316a42e236fbef070210839f934ff87a3",
+      "mime": "image/png",
+      "bytes": 40491
+    },
+    {
+      "path": "images/mango.png",
+      "sha256": "1bacbd8022dfc7e6b94ed62d79ac187adf6d419d1a301388bfbfec36a7d246b9",
+      "mime": "image/png",
+      "bytes": 43965
+    },
+    {
+      "path": "images/orange.png",
+      "sha256": "7b7c4490ff70ae2fe3ca7afaace4223ac2cccf3ea5753d144d01763f131709ac",
+      "mime": "image/png",
+      "bytes": 37528
+    },
+    {
+      "path": "images/papaya.png",
+      "sha256": "03c27c0750f7f61148d51a9d5c6cfe90cf087f18b2477e19e94111b3e0d6edd7",
+      "mime": "image/png",
+      "bytes": 34292
+    },
+    {
+      "path": "images/pineapple.png",
+      "sha256": "2cf5f294ba4cb3cf0c1226d6c36e54882333b3d7e3eb32d5f5beb6077140da84",
+      "mime": "image/png",
+      "bytes": 50693
+    },
+    {
+      "path": "images/strawberry.png",
+      "sha256": "fc357a718987ce9a282bd407c69f465ca5d769166e9333c2f9cb1fbdf1825426",
+      "mime": "image/png",
+      "bytes": 38030
+    },
+    {
+      "path": "images/watermelon.png",
+      "sha256": "ed7c6c7fd3c8a1f9ea74ea4f5dc6b4db00d4499d35defd034b77b629547436b2",
+      "mime": "image/png",
+      "bytes": 38516
+    },
+    {
+      "path": "licenses.v1.json",
+      "sha256": "29f46c469fcd6cb60600cee2f3a6f14c5f8e47d38925828e4739344f1214f71b",
+      "mime": "application/json",
+      "bytes": 15134
+    },
+    {
+      "path": "resource-contract.json",
+      "sha256": "b311737e07de6f015ff4db4cc1417298f1f5890f4eb54acda6d96eb0e3bb21dc",
+      "mime": "application/json",
+      "bytes": 8206
+    }
+  ]
+}

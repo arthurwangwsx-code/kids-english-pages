@@ -1,0 +1,2127 @@
+{
+  "schemaVersion": 1,
+  "releaseId": "bilingual-300687999628ee86",
+  "profileHash": "mixed-6aa36c8e31ff35e66cabdac8e17022219b95c3327f1a0810da8340b85c5ea7ed",
+  "clips": {
+    "ball": {
+      "url": "./assets/audio/ball.mp3",
+      "sha256": "3af87c144df8d67cf26ba52a7efae366210c52c6b97808a841b84dba7a3f7547"
+    },
+    "car": {
+      "url": "./assets/audio/car.mp3",
+      "sha256": "c7f1f5433532a96bf3f35df0ddefdcaba86b9fb774b5f1f5dd3760ca52b72be7"
+    },
+    "teddy": {
+      "url": "./assets/audio/teddy.mp3",
+      "sha256": "1c764ee3ff5e3f253f640680f0fc8da3a57437f65a4f754fde37817c689965dc"
+    },
+    "water": {
+      "url": "./assets/audio/water.mp3",
+      "sha256": "e7738d4c92fce8c464a12dc74d34d5975c3d3f6b58cca2f4473ad7f10f1b39b0"
+    },
+    "cup": {
+      "url": "./assets/audio/cup.mp3",
+      "sha256": "002f8909415eb35a77861bb2421e3509a732076b3cc8fb184665f298e1825baf"
+    },
+    "drink": {
+      "url": "./assets/audio/drink.mp3",
+      "sha256": "1f7957c91529cc48a35262b6bb2101eb7ac3316abf76dff26d33e844076f4cf5"
+    },
+    "rice": {
+      "url": "./assets/audio/rice.mp3",
+      "sha256": "d5e54a6fc32e3431ed514cd997bfaf966b6c0ee500b6c4a8bfb0a6390dc5bf7b"
+    },
+    "banana": {
+      "url": "./assets/audio/banana.mp3",
+      "sha256": "3fc5472362bde7751debc2fee0556be8cc4212448454fe368da55006305aefeb"
+    },
+    "egg": {
+      "url": "./assets/audio/egg.mp3",
+      "sha256": "aebfeb038048c2bc1d48eb6df22ac4657861d87570f05a60fe8be2a9a0f8b047"
+    },
+    "bag": {
+      "url": "./assets/audio/bag.mp3",
+      "sha256": "30a2ac9d54e68d91f78bfc00690ee889d5002d8196c32b3e8778dfac8cedfcc1"
+    },
+    "shoes": {
+      "url": "./assets/audio/shoes.mp3",
+      "sha256": "e05a9d1084454971775948133315519c64ec6d3d9f36efa8bb243112b4fcff3f"
+    },
+    "hat": {
+      "url": "./assets/audio/hat.mp3",
+      "sha256": "3963e90961f124a734ebaf69d8be7972e91f2bdc972af4d46fefd4f3f7968f32"
+    },
+    "book": {
+      "url": "./assets/audio/book.mp3",
+      "sha256": "1200fa5463c116e7923d8b0ad988c08bc58fad9b133025be3416fcfc25837c96"
+    },
+    "chair": {
+      "url": "./assets/audio/chair.mp3",
+      "sha256": "37458aabbb9c6f6b1a4362a42bee5f3a5c4b829bdb1821f5e9cb612673a182ad"
+    },
+    "table": {
+      "url": "./assets/audio/table.mp3",
+      "sha256": "0564777b2169cc1fd50c8acf29ec0fd5bb033f53acc814dfdafbb41e076f110b"
+    },
+    "help": {
+      "url": "./assets/audio/help.mp3",
+      "sha256": "a918362d80eb337b04ee62fb3bb4ab87144c279924b3b691a1f115e27f421d9c"
+    },
+    "open": {
+      "url": "./assets/audio/open.mp3",
+      "sha256": "df0d0c8de2386cacfe896160e3bcd9d4b3c3b215e53c7956808e38e83cbc4f87"
+    },
+    "stop": {
+      "url": "./assets/audio/stop.mp3",
+      "sha256": "7d940f13fbd90da974593210eaed64a1725615ad405b3890ab2dbf2ca642aac9"
+    },
+    "hello": {
+      "url": "./assets/audio/hello.mp3",
+      "sha256": "b07baa5c836d862f83ff5ccc2182f40a9a910c7f55a978aa752288dfd94422a4"
+    },
+    "bye": {
+      "url": "./assets/audio/bye.mp3",
+      "sha256": "41ac036edd53448292ea981960cba3539009736e4972a73b473dbdbfd11f1713"
+    },
+    "a-ball": {
+      "url": "./assets/audio/a-ball.mp3",
+      "sha256": "86683e6ce2941be49a572741416de357a0c2d8bdaa3096a422a89294ce3d83ea"
+    },
+    "water-please": {
+      "url": "./assets/audio/water-please.mp3",
+      "sha256": "12aaa8cc7dd053333607ce86c9ee0c9ff9f9f3268a97101b9f44b85ad2576daf"
+    },
+    "more-please": {
+      "url": "./assets/audio/more-please.mp3",
+      "sha256": "bdc047bc28f94d3f7330dc906be026f595d75605d65f09c9c3c90191e92c262d"
+    },
+    "my-bag": {
+      "url": "./assets/audio/my-bag.mp3",
+      "sha256": "4a6acf88d93c2c5d0240c0d94b36261dadc895f2be8504d852b4ee871d610800"
+    },
+    "sit-down": {
+      "url": "./assets/audio/sit-down.mp3",
+      "sha256": "b94b8e2b75774e23f650448d19d00d008bc16fc2fccae0189adcca74bf605c06"
+    },
+    "help-please": {
+      "url": "./assets/audio/help-please.mp3",
+      "sha256": "2abfe90707a7626c977a6394dc7498e7294a2e4c32785c57ac4380f9640148db"
+    },
+    "toilet-please": {
+      "url": "./assets/audio/toilet-please.mp3",
+      "sha256": "6f107253fa1c28eb5fd155497e2bb9eadb36f072c72d9ce565e9bca41360047e"
+    },
+    "color-red": {
+      "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-red.mp3",
+      "sha256": "c3a8b7ad07ff95f9fea367ea727244021087e3a487833b2457edebc0bda0fb29",
+      "text": "Red."
+    },
+    "color-yellow": {
+      "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-yellow.mp3",
+      "sha256": "c08cb31d109271f1d0a22f5c885c1bfe024eed1faa429ab430d1ae4c97a82ae4",
+      "text": "Yellow."
+    },
+    "color-blue": {
+      "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-blue.mp3",
+      "sha256": "b8cce8ad4b661a609971822a825ce7dcd0389aa2afbae52ed53311479bb33f21",
+      "text": "Blue."
+    },
+    "color-green": {
+      "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-green.mp3",
+      "sha256": "d0712f249cbd8e717a5cc607ccfb9323a5594f2d7a8327ab7439c7b0b34b4a59",
+      "text": "Green."
+    },
+    "color-orange": {
+      "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-orange.mp3",
+      "sha256": "687089c6fc77dffcab8366c6dc37d47ac70614f3d623e94761e9928658e4cf2f",
+      "text": "Orange."
+    },
+    "color-purple": {
+      "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-purple.mp3",
+      "sha256": "026d41e47639ed2a7ffaed394ec6dd4288279fdb9e0814ce41111040b17528a6",
+      "text": "Purple."
+    },
+    "color-pink": {
+      "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-pink.mp3",
+      "sha256": "7b60caa2b2720d2b0aa2d33349c58c655277e04b766bc6edffd4700531582ae6",
+      "text": "Pink."
+    },
+    "color-brown": {
+      "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-brown.mp3",
+      "sha256": "9026fa8dc581926971ecba492d527a0efcb65f31c81e8ef27f3c7248aa53fded",
+      "text": "Brown."
+    },
+    "color-black": {
+      "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-black.mp3",
+      "sha256": "6efb2aca30145bb37ccfd6b04a9e02b21d8e6f347f21518590f9c6c2b03fe029",
+      "text": "Black."
+    },
+    "color-white": {
+      "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-white.mp3",
+      "sha256": "71c4a4703c8b729f5a7a41e641a795b10ba2124b290ff916b25fb18f921dc3d5",
+      "text": "White."
+    },
+    "color-gray": {
+      "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-gray.mp3",
+      "sha256": "9d7a05ef67cc37156619f35e785b8c2c493226c00deba0f65f8e37e7ed93326e",
+      "text": "Gray."
+    },
+    "color-light-red": {
+      "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-light-red.mp3",
+      "sha256": "70b1ad753387eebf392fc25fef20be9dfb06202987ab16dff8e59b3aa5feba1a",
+      "text": "Light red."
+    },
+    "color-dark-red": {
+      "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-dark-red.mp3",
+      "sha256": "9d314c9c65c94d8d809c6e99b8b198feba012b382422327113eac7ce9ba214a1",
+      "text": "Dark red."
+    },
+    "color-coral": {
+      "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-coral.mp3",
+      "sha256": "97c263caf1cdb5658c820d8243c28521f13f63908949a0357a8dba2532ad9ac9",
+      "text": "Coral."
+    },
+    "color-maroon": {
+      "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-maroon.mp3",
+      "sha256": "f0886c081ce1bdffb4d81aa02d5d94a1d5ecb26a1fc76a7ec3af1c1b93f8bbfa",
+      "text": "Maroon."
+    },
+    "color-light-yellow": {
+      "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-light-yellow.mp3",
+      "sha256": "fa58020a7bda6d6ca524108e786b85ea158506679d3acb9451b185a3e429d41c",
+      "text": "Light yellow."
+    },
+    "color-gold": {
+      "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-gold.mp3",
+      "sha256": "0228eda3d915fae167b366773afbfa197925696517f25c3fdcfba4780c5eae98",
+      "text": "Gold."
+    },
+    "color-light-blue": {
+      "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-light-blue.mp3",
+      "sha256": "296f9b94bdc656e1456cdcae8a6bc449c8e3eddb4e966bdbe174e76376937b87",
+      "text": "Light blue."
+    },
+    "color-dark-blue": {
+      "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-dark-blue.mp3",
+      "sha256": "f8b94717697dd9ae67b7c87e4fa8a52c04b4ff530ffca17f49b0293a95116cba",
+      "text": "Dark blue."
+    },
+    "color-sky-blue": {
+      "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-sky-blue.mp3",
+      "sha256": "7552ddbcd9b6f7cdc0783f537cfe3c2ed19cf8651ceed192d92ef0b0fda174c2",
+      "text": "Sky blue."
+    },
+    "color-navy": {
+      "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-navy.mp3",
+      "sha256": "42e478ff4fee5d65d40a807fae1cd74b81462833e767c9f7ad70d7de52d5c9cc",
+      "text": "Navy."
+    },
+    "color-light-green": {
+      "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-light-green.mp3",
+      "sha256": "e3a51d25fa96cc3d7d5ef5ed73a6de5fbd6b44b177395a48c56d00127f77c1ac",
+      "text": "Light green."
+    },
+    "color-dark-green": {
+      "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-dark-green.mp3",
+      "sha256": "3db7c47375dd1c329d208e3c3269742f307749dc9a7a9190e38db5577e1c991f",
+      "text": "Dark green."
+    },
+    "color-lime": {
+      "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-lime.mp3",
+      "sha256": "f705b647f12feecfb80ef315c419012efd92a85a63448ec0f86adb874a62a6aa",
+      "text": "Lime."
+    },
+    "color-olive": {
+      "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-olive.mp3",
+      "sha256": "3814d8261fbc961a53115b05acff9e51d186df20083937ea6b78365ca0c37189",
+      "text": "Olive."
+    },
+    "color-light-orange": {
+      "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-light-orange.mp3",
+      "sha256": "a12a3c77bcfbce4b7d0510ce4024f18d42bb7856e3006ce40552e5b78d9c4aaf",
+      "text": "Light orange."
+    },
+    "color-dark-orange": {
+      "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-dark-orange.mp3",
+      "sha256": "6391e9a48664fbdd1e3b29725d411c7fdb58621a30bb656db2607ab3a4035e09",
+      "text": "Dark orange."
+    },
+    "color-light-purple": {
+      "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-light-purple.mp3",
+      "sha256": "96ef475eb70010883fffbdf09c3c7a7884a57968bd4078e38a12954c3bfd4345",
+      "text": "Light purple."
+    },
+    "color-dark-purple": {
+      "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-dark-purple.mp3",
+      "sha256": "1a9f2755ce0d7993494e63e55abaedc7de26da5b8589c1d5d8a21c9cd61b5811",
+      "text": "Dark purple."
+    },
+    "color-lavender": {
+      "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-lavender.mp3",
+      "sha256": "36408c8697675970968da052da35ebe3b3b0a01109e6cd14afa9011f6cee909f",
+      "text": "Lavender."
+    },
+    "color-light-pink": {
+      "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-light-pink.mp3",
+      "sha256": "bfa6cfbc6074b91271d0bda17633512f22b00628f6932c7931abb48a81edf3ec",
+      "text": "Light pink."
+    },
+    "color-dark-pink": {
+      "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-dark-pink.mp3",
+      "sha256": "93296d1fc0e03c3e9fe5711885ec54e00d3e304f27804d31aa66cb4b0f360f98",
+      "text": "Dark pink."
+    },
+    "color-light-brown": {
+      "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-light-brown.mp3",
+      "sha256": "eec7e04429a9af33390b369d2254080800b34ffac06fee9ffe20fcd667f11cd3",
+      "text": "Light brown."
+    },
+    "color-dark-brown": {
+      "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-dark-brown.mp3",
+      "sha256": "1fd2b17a2f393376bcf29a8e3f9d612c1aa721ea0c370d4e6b0cb5f2fecacd2a",
+      "text": "Dark brown."
+    },
+    "color-teal": {
+      "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-teal.mp3",
+      "sha256": "8d1ef7a0b6187ed2feac18b43baef0560fdc374bb88073920b121ab0559c1fa3",
+      "text": "Teal."
+    },
+    "bed": {
+      "url": "./assets/audio-releases/append-fb4039329d7d6de1/bed.mp3",
+      "sha256": "05017c1f887ab5f84adad8a35a07944671a3637e9101de9ce665651b70efd8be",
+      "text": "Bed."
+    },
+    "bird": {
+      "url": "./assets/audio-releases/append-fb4039329d7d6de1/bird.mp3",
+      "sha256": "94ce21cbc104be025e9e34536ad84147865439dbf7a0a417da10b432ed58f5eb",
+      "text": "Bird."
+    },
+    "cat": {
+      "url": "./assets/audio-releases/append-fb4039329d7d6de1/cat.mp3",
+      "sha256": "016f4923a41acd49bbc1d9906a0c20e7fbf95dc6f11965efe8ed78384fd170e8",
+      "text": "Cat."
+    },
+    "dog": {
+      "url": "./assets/audio-releases/append-fb4039329d7d6de1/dog.mp3",
+      "sha256": "c6e013ab319b4e022a491296c376fca5e305bb6b207e165792a1f83890e48254",
+      "text": "Dog."
+    },
+    "door": {
+      "url": "./assets/audio-releases/append-fb4039329d7d6de1/door.mp3",
+      "sha256": "4fffef301a41ccc75f30d061e5bbb2c2d96ac5daac46b2b1e6cfdfcb739b99d1",
+      "text": "Door."
+    },
+    "ears": {
+      "url": "./assets/audio-releases/append-fb4039329d7d6de1/ears.mp3",
+      "sha256": "4b7e4e3b3e7c3094155bd32761b3487922f746176d5ef69fed3bdb46efa246ec",
+      "text": "Ears."
+    },
+    "eyes": {
+      "url": "./assets/audio-releases/append-fb4039329d7d6de1/eyes.mp3",
+      "sha256": "3b2fae226fd7a93f70df8c9bbf0fe8c37b5a725be5ae80e1d62cf1cfbd95ebdd",
+      "text": "Eyes."
+    },
+    "gate": {
+      "url": "./assets/audio-releases/append-fb4039329d7d6de1/gate.mp3",
+      "sha256": "1c7fc8fb80b1fb4d290037eb214fd018c22450673db5b95dd59e757fb9a8ec4b",
+      "text": "Gate."
+    },
+    "hands": {
+      "url": "./assets/audio-releases/append-fb4039329d7d6de1/hands.mp3",
+      "sha256": "5a9a72fc13c09a10d358539c4ccbe0040e7705569bf690842f85eb2b02e58079",
+      "text": "Hands."
+    },
+    "i-see-a-cat": {
+      "url": "./assets/audio-releases/append-fb4039329d7d6de1/i-see-a-cat.mp3",
+      "sha256": "884cdfc5916e6d59b885a9573bc1e5d1dae26653001ca6023b62c361b89cfac2",
+      "text": "I see a cat."
+    },
+    "lamp": {
+      "url": "./assets/audio-releases/append-fb4039329d7d6de1/lamp.mp3",
+      "sha256": "57437a2cbffcbd2e420c8ebbbd4f2b6a6f3f9a79ee1197f81e7c3db42f31b39e",
+      "text": "Lamp."
+    },
+    "lets-sit-down": {
+      "url": "./assets/audio-releases/append-fb4039329d7d6de1/lets-sit-down.mp3",
+      "sha256": "6fb54c58860c5a069dada8184cc041f871775746cd48e9b5b903e8266182aca8",
+      "text": "Let's sit down."
+    },
+    "lets-wash-our-hands": {
+      "url": "./assets/audio-releases/append-fb4039329d7d6de1/lets-wash-our-hands.mp3",
+      "sha256": "10e0f32f727709c5f67da31c9f27bcda762b5fcc4848f7a803dd3320fca91196",
+      "text": "Let's wash our hands."
+    },
+    "nose": {
+      "url": "./assets/audio-releases/append-fb4039329d7d6de1/nose.mp3",
+      "sha256": "e2627c4fba81c0a03a1063d3456f4d51946a1672e31e43484b00ad46cd8bf403",
+      "text": "Nose."
+    },
+    "seat": {
+      "url": "./assets/audio-releases/append-fb4039329d7d6de1/seat.mp3",
+      "sha256": "8a04282b292f15a3e21b9713d7aba608c94b3dd1b89ccd5368d30f652cb133bf",
+      "text": "Seat."
+    },
+    "soap": {
+      "url": "./assets/audio-releases/append-fb4039329d7d6de1/soap.mp3",
+      "sha256": "7cf2dc44a27cf6c508cc30a829068f887e58248bb82802bef732a6ebe860c18c",
+      "text": "Soap."
+    },
+    "station": {
+      "url": "./assets/audio-releases/append-fb4039329d7d6de1/station.mp3",
+      "sha256": "c4f9b9aac855b1b410d10aefaa2a3bfb044920495b83c9c25551f19f8436b2a8",
+      "text": "Station."
+    },
+    "this-is-my-bed": {
+      "url": "./assets/audio-releases/append-fb4039329d7d6de1/this-is-my-bed.mp3",
+      "sha256": "39d166c24ce7e160eea252e168e37ba59b34dd8e10387a3a4fed29806a52371f",
+      "text": "This is my bed."
+    },
+    "touch-your-nose": {
+      "url": "./assets/audio-releases/append-fb4039329d7d6de1/touch-your-nose.mp3",
+      "sha256": "123e7fe16285cc82357596d5838b00e6dedc22745425c33f11fd71bd22bb822d",
+      "text": "Touch your nose."
+    },
+    "towel": {
+      "url": "./assets/audio-releases/append-fb4039329d7d6de1/towel.mp3",
+      "sha256": "0331438fb526a24728bb9183630ebd3b8b2b4ae50aa5d02341f9205964cda073",
+      "text": "Towel."
+    },
+    "fish": {
+      "url": "./assets/audio-releases/append-9b7df2cefee8915a/fish.mp3",
+      "sha256": "3aad3fd50d4edcba7bd6ceda39b3dc70a45e001040285dd49dbd9f1c9ea06703",
+      "text": "Fish."
+    },
+    "duck": {
+      "url": "./assets/audio-releases/append-9b7df2cefee8915a/duck.mp3",
+      "sha256": "00f3cc73e7b8cb5c20481aee3d8cf1ea10c3991a6f15b15d8910272c9d17f103",
+      "text": "Duck."
+    },
+    "rabbit": {
+      "url": "./assets/audio-releases/append-9b7df2cefee8915a/rabbit.mp3",
+      "sha256": "c52d85d70f2f6945ebacb7b53d62e1cd3a195f58092005c71139a3e967f9cfa4",
+      "text": "Rabbit."
+    },
+    "elephant": {
+      "url": "./assets/audio-releases/append-9b7df2cefee8915a/elephant.mp3",
+      "sha256": "ed86339737e887ab65d6293d311bc36541a5af2b057dac957059d2cb4327e301",
+      "text": "Elephant."
+    },
+    "monkey": {
+      "url": "./assets/audio-releases/append-9b7df2cefee8915a/monkey.mp3",
+      "sha256": "21ce452d7e0510897308102e99697aed6272f2717403e921db475991aa0e498a",
+      "text": "Monkey."
+    },
+    "turtle": {
+      "url": "./assets/audio-releases/append-9b7df2cefee8915a/turtle.mp3",
+      "sha256": "e3fb0671349bdcc7ab8492bcfce54c05885b5de8665ad41d9910254f46e9aa94",
+      "text": "Turtle."
+    },
+    "apple": {
+      "url": "./assets/audio-releases/append-9b7df2cefee8915a/apple.mp3",
+      "sha256": "eebdd0176ca92b91703b70fab0a017e0bec3a8f6b311d2db3ad49a9a2833d6b8",
+      "text": "Apple."
+    },
+    "orange": {
+      "url": "./assets/audio-releases/append-9b7df2cefee8915a/orange.mp3",
+      "sha256": "687089c6fc77dffcab8366c6dc37d47ac70614f3d623e94761e9928658e4cf2f",
+      "text": "Orange."
+    },
+    "mango": {
+      "url": "./assets/audio-releases/append-9b7df2cefee8915a/mango.mp3",
+      "sha256": "0b22993d45f645c3dcf32b1b39c9864ef4e57281571d2ab7887616b14693d146",
+      "text": "Mango."
+    },
+    "watermelon": {
+      "url": "./assets/audio-releases/append-9b7df2cefee8915a/watermelon.mp3",
+      "sha256": "30cf14e81c48771ef1722c54057e2e0b161e015c467198c4700b89677a49090e",
+      "text": "Watermelon."
+    },
+    "papaya": {
+      "url": "./assets/audio-releases/append-9b7df2cefee8915a/papaya.mp3",
+      "sha256": "422d89bfe7fa8947b9b64b0103350df29fe06e5b5677dbb242de40363662b4eb",
+      "text": "Papaya."
+    },
+    "pineapple": {
+      "url": "./assets/audio-releases/append-9b7df2cefee8915a/pineapple.mp3",
+      "sha256": "94c3fa48d40ca6c81ee01005725c6fb3ab9cba5f74d5f3e260d59595431f9844",
+      "text": "Pineapple."
+    },
+    "grapes": {
+      "url": "./assets/audio-releases/append-9b7df2cefee8915a/grapes.mp3",
+      "sha256": "5d166fba409091ce67b2a7703fc97c74205d252dfe13d8e1c9b6c46d92e67ae8",
+      "text": "Grapes."
+    },
+    "strawberry": {
+      "url": "./assets/audio-releases/append-9b7df2cefee8915a/strawberry.mp3",
+      "sha256": "8e905f698e7f76d12d1daf340e3776ee7fbc865672b4bb418784f2e7cd6f84ea",
+      "text": "Strawberry."
+    },
+    "i-see-a-fish": {
+      "url": "./assets/audio-releases/append-9b7df2cefee8915a/i-see-a-fish.mp3",
+      "sha256": "30aa83430ca4b7db97b58f5371fc4f95095cc547d730e451cba856580ec0722e",
+      "text": "I see a fish."
+    },
+    "a-big-elephant": {
+      "url": "./assets/audio-releases/append-9b7df2cefee8915a/a-big-elephant.mp3",
+      "sha256": "d214e0ffe0547ad8efa039ab6d0aeffddb8a6f2b1df4703e6919001bd5e7cece",
+      "text": "A big elephant."
+    },
+    "a-banana-please": {
+      "url": "./assets/audio-releases/append-9b7df2cefee8915a/a-banana-please.mp3",
+      "sha256": "d77276cd4a5941c8f584d248c3bf2eaad968df1a527ec741216fb775adee2f14",
+      "text": "A banana, please."
+    },
+    "i-like-mango": {
+      "url": "./assets/audio-releases/append-9b7df2cefee8915a/i-like-mango.mp3",
+      "sha256": "2624a3291e677b1629979e4c3ba95dfaab29431c0aafa100ba2d5751846b1742",
+      "text": "I like mango."
+    },
+    "these-are-grapes": {
+      "url": "./assets/audio-releases/append-9b7df2cefee8915a/these-are-grapes.mp3",
+      "sha256": "8f7b2bce023c6dcc57b09adb79b0d46cb04d5c1a648b83fd57670aa5549ef9b5",
+      "text": "These are grapes."
+    }
+  },
+  "profiles": {
+    "base": "mixed-6aa36c8e31ff35e66cabdac8e17022219b95c3327f1a0810da8340b85c5ea7ed",
+    "append": {
+      "schemaVersion": 1,
+      "id": "kokoro-heart-reference-v2",
+      "version": "2.0.0",
+      "provider": "kokoro-local",
+      "model": {
+        "repository": "hexgrad/Kokoro-82M",
+        "revision": "f3ff3571791e39611d31c381e3a41a3af07b4987",
+        "files": [
+          {
+            "name": "config.json",
+            "sha256": "5abb01e2403b072bf03d04fde160443e209d7a0dad49a423be15196b9b43c17f"
+          },
+          {
+            "name": "kokoro-v1_0.pth",
+            "sha256": "496dba118d1a58f5f3db2efc88dbdc216e0483fc89fe6e47ee1f2c53f18ad1e4"
+          },
+          {
+            "name": "voices/af_heart.pt",
+            "sha256": "0ab5709b8ffab19bfd849cd11d98f75b60af7733253ad0d67b12382a102cb4ff"
+          }
+        ]
+      },
+      "voice": "af_heart",
+      "language": "en-US",
+      "languageCode": "a",
+      "speed": 0.9,
+      "inference": {
+        "device": "cpu",
+        "dtype": "float32",
+        "seed": 20261011,
+        "seedMode": "per-text",
+        "threads": 1
+      },
+      "readings": {},
+      "export": {
+        "format": "mp3",
+        "sampleRate": 24000,
+        "channels": 1,
+        "pcmSubtype": "PCM_16",
+        "bitRate": "96k",
+        "peakDb": -1,
+        "paddingSeconds": 0,
+        "trim": false
+      },
+      "dependencies": {
+        "kokoro": "0.9.4",
+        "misaki": "0.9.4",
+        "numpy": "2.4.6",
+        "soundfile": "0.14.0",
+        "huggingface_hub": "2.2.0",
+        "torch": "2.14.1",
+        "spacy": "3.8.16",
+        "en-core-web-sm": "3.8.0",
+        "espeakng-loader": "0.2.4"
+      },
+      "ffmpegVersion": "9.0.1",
+      "license": {
+        "name": "Apache-2.0",
+        "modelURL": "https://huggingface.co/hexgrad/Kokoro-82M",
+        "implementationURL": "https://github.com/hexgrad/kokoro",
+        "referenceDemo": "https://huggingface.co/spaces/hexgrad/Kokoro-TTS"
+      },
+      "scope": "Generic English words and short parent-child phrases; synthetic voice; no child recordings or voice cloning",
+      "listeningStatus": "candidate-awaiting-user-audition"
+    }
+  },
+  "listening": {
+    "status": "not-human-listened",
+    "authorization": "reuse published af_heart at 0.9; no new voice selection",
+    "sourceTask": "2026-10-19 user request animal and fruit chapters; continue existing published fixed Kokoro af_heart 0.9, no new voice selection or claim of human listening"
+  },
+  "wordAudio": {
+    "ball": {
+      "en-US": {
+        "url": "./assets/audio/ball.mp3",
+        "sha256": "3af87c144df8d67cf26ba52a7efae366210c52c6b97808a841b84dba7a3f7547",
+        "text": "Ball.",
+        "language": "en-US",
+        "bytes": 13940,
+        "mime": "audio/mpeg"
+      },
+      "zh-CN": {
+        "url": "./assets/audio-releases/kokoro-mandarin-zf001-v1-b2e9a267994c/zh-ball.mp3",
+        "sha256": "6d97a1650d1e13e08119d2e9fad59457009a656bf510c77332b1c4560834af5d",
+        "text": "球",
+        "language": "zh-CN",
+        "bytes": 11276,
+        "mime": "audio/mpeg"
+      }
+    },
+    "car": {
+      "en-US": {
+        "url": "./assets/audio/car.mp3",
+        "sha256": "c7f1f5433532a96bf3f35df0ddefdcaba86b9fb774b5f1f5dd3760ca52b72be7",
+        "text": "Car.",
+        "language": "en-US",
+        "bytes": 13004,
+        "mime": "audio/mpeg"
+      },
+      "zh-CN": {
+        "url": "./assets/audio-releases/kokoro-mandarin-zf001-v1-b2e9a267994c/zh-car.mp3",
+        "sha256": "aae09b73b35578f39bd5311ef1cffc6c8046c10d16050a5b15fd9335e2d9c46a",
+        "text": "小汽车",
+        "language": "zh-CN",
+        "bytes": 17900,
+        "mime": "audio/mpeg"
+      }
+    },
+    "teddy": {
+      "en-US": {
+        "url": "./assets/audio/teddy.mp3",
+        "sha256": "1c764ee3ff5e3f253f640680f0fc8da3a57437f65a4f754fde37817c689965dc",
+        "text": "Teddy.",
+        "language": "en-US",
+        "bytes": 13532,
+        "mime": "audio/mpeg"
+      },
+      "zh-CN": {
+        "url": "./assets/audio-releases/kokoro-mandarin-zf001-v1-b2e9a267994c/zh-teddy.mp3",
+        "sha256": "6e8ba9c8e9638b6a9c5fc610ea0e4b83457f1ea3b9f8ca0e02a61eb2f563bfd7",
+        "text": "玩具熊",
+        "language": "zh-CN",
+        "bytes": 19628,
+        "mime": "audio/mpeg"
+      }
+    },
+    "water": {
+      "en-US": {
+        "url": "./assets/audio/water.mp3",
+        "sha256": "e7738d4c92fce8c464a12dc74d34d5975c3d3f6b58cca2f4473ad7f10f1b39b0",
+        "text": "Water.",
+        "language": "en-US",
+        "bytes": 19052,
+        "mime": "audio/mpeg"
+      },
+      "zh-CN": {
+        "url": "./assets/audio-releases/kokoro-mandarin-zf001-v1-b2e9a267994c/zh-water.mp3",
+        "sha256": "96bdb03401be91ef4f21eb405cde1d090f51f3f45daa54c983bd31f8698bca52",
+        "text": "水",
+        "language": "zh-CN",
+        "bytes": 11276,
+        "mime": "audio/mpeg"
+      }
+    },
+    "cup": {
+      "en-US": {
+        "url": "./assets/audio/cup.mp3",
+        "sha256": "002f8909415eb35a77861bb2421e3509a732076b3cc8fb184665f298e1825baf",
+        "text": "Cup.",
+        "language": "en-US",
+        "bytes": 13100,
+        "mime": "audio/mpeg"
+      },
+      "zh-CN": {
+        "url": "./assets/audio-releases/kokoro-mandarin-zf001-v1-b2e9a267994c/zh-cup.mp3",
+        "sha256": "b6f9e8d8b24f3d6b3130c0e427d263f86e0ec39880ca2b50865d4924bd0925ba",
+        "text": "杯子",
+        "language": "zh-CN",
+        "bytes": 13580,
+        "mime": "audio/mpeg"
+      }
+    },
+    "drink": {
+      "en-US": {
+        "url": "./assets/audio/drink.mp3",
+        "sha256": "1f7957c91529cc48a35262b6bb2101eb7ac3316abf76dff26d33e844076f4cf5",
+        "text": "Drink.",
+        "language": "en-US",
+        "bytes": 14348,
+        "mime": "audio/mpeg"
+      },
+      "zh-CN": {
+        "url": "./assets/audio-releases/kokoro-mandarin-zf001-v1-b2e9a267994c/zh-drink.mp3",
+        "sha256": "2bf8723566c70f328f441f28f992cade08a78472d77dfc8cc2dd1324b9efd2de",
+        "text": "喝水",
+        "language": "zh-CN",
+        "bytes": 14156,
+        "mime": "audio/mpeg"
+      }
+    },
+    "rice": {
+      "en-US": {
+        "url": "./assets/audio/rice.mp3",
+        "sha256": "d5e54a6fc32e3431ed514cd997bfaf966b6c0ee500b6c4a8bfb0a6390dc5bf7b",
+        "text": "Rice.",
+        "language": "en-US",
+        "bytes": 14060,
+        "mime": "audio/mpeg"
+      },
+      "zh-CN": {
+        "url": "./assets/audio-releases/kokoro-mandarin-zf001-v1-b2e9a267994c/zh-rice.mp3",
+        "sha256": "e7ffc48821234214ae8e9936682a399dc84a4d674b7728e97df28083422fd38e",
+        "text": "米饭",
+        "language": "zh-CN",
+        "bytes": 13868,
+        "mime": "audio/mpeg"
+      }
+    },
+    "banana": {
+      "en-US": {
+        "url": "./assets/audio/banana.mp3",
+        "sha256": "3fc5472362bde7751debc2fee0556be8cc4212448454fe368da55006305aefeb",
+        "text": "Banana.",
+        "language": "en-US",
+        "bytes": 15884,
+        "mime": "audio/mpeg"
+      },
+      "zh-CN": {
+        "url": "./assets/audio-releases/kokoro-mandarin-zf001-v1-b2e9a267994c/zh-banana.mp3",
+        "sha256": "29450bcf98c2450e39fc0114097f275cdb6d64e1f54723d1e29625b4caebee4b",
+        "text": "香蕉",
+        "language": "zh-CN",
+        "bytes": 14156,
+        "mime": "audio/mpeg"
+      }
+    },
+    "egg": {
+      "en-US": {
+        "url": "./assets/audio/egg.mp3",
+        "sha256": "aebfeb038048c2bc1d48eb6df22ac4657861d87570f05a60fe8be2a9a0f8b047",
+        "text": "Egg.",
+        "language": "en-US",
+        "bytes": 13316,
+        "mime": "audio/mpeg"
+      },
+      "zh-CN": {
+        "url": "./assets/audio-releases/kokoro-mandarin-zf001-v1-b2e9a267994c/zh-egg.mp3",
+        "sha256": "427f742771c25487efaadaa94f98a93d6ecd2db12de4606f90ee93bed12ef48f",
+        "text": "鸡蛋",
+        "language": "zh-CN",
+        "bytes": 13580,
+        "mime": "audio/mpeg"
+      }
+    },
+    "bag": {
+      "en-US": {
+        "url": "./assets/audio/bag.mp3",
+        "sha256": "30a2ac9d54e68d91f78bfc00690ee889d5002d8196c32b3e8778dfac8cedfcc1",
+        "text": "Bag.",
+        "language": "en-US",
+        "bytes": 13700,
+        "mime": "audio/mpeg"
+      },
+      "zh-CN": {
+        "url": "./assets/audio-releases/kokoro-mandarin-zf001-v1-b2e9a267994c/zh-bag.mp3",
+        "sha256": "42d030c653c229349c9744ce42364a4d67fa729b52dca9caa8d031b94e4b2700",
+        "text": "书包",
+        "language": "zh-CN",
+        "bytes": 13580,
+        "mime": "audio/mpeg"
+      }
+    },
+    "shoes": {
+      "en-US": {
+        "url": "./assets/audio/shoes.mp3",
+        "sha256": "e05a9d1084454971775948133315519c64ec6d3d9f36efa8bb243112b4fcff3f",
+        "text": "Shoes.",
+        "language": "en-US",
+        "bytes": 15668,
+        "mime": "audio/mpeg"
+      },
+      "zh-CN": {
+        "url": "./assets/audio-releases/kokoro-mandarin-zf001-v1-b2e9a267994c/zh-shoes.mp3",
+        "sha256": "d3ecd824a77bc820e45e0bcb364f4d84c34d59b07f7868a869aa155f34a3dd78",
+        "text": "鞋",
+        "language": "zh-CN",
+        "bytes": 11276,
+        "mime": "audio/mpeg"
+      }
+    },
+    "hat": {
+      "en-US": {
+        "url": "./assets/audio/hat.mp3",
+        "sha256": "3963e90961f124a734ebaf69d8be7972e91f2bdc972af4d46fefd4f3f7968f32",
+        "text": "Hat.",
+        "language": "en-US",
+        "bytes": 13676,
+        "mime": "audio/mpeg"
+      },
+      "zh-CN": {
+        "url": "./assets/audio-releases/kokoro-mandarin-zf001-v1-b2e9a267994c/zh-hat.mp3",
+        "sha256": "38ff17a0537e1fc5f8887c2050ec7ccc545f6695bb9a343f88f95647211a03c2",
+        "text": "帽子",
+        "language": "zh-CN",
+        "bytes": 14156,
+        "mime": "audio/mpeg"
+      }
+    },
+    "book": {
+      "en-US": {
+        "url": "./assets/audio/book.mp3",
+        "sha256": "1200fa5463c116e7923d8b0ad988c08bc58fad9b133025be3416fcfc25837c96",
+        "text": "Book.",
+        "language": "en-US",
+        "bytes": 12356,
+        "mime": "audio/mpeg"
+      },
+      "zh-CN": {
+        "url": "./assets/audio-releases/kokoro-mandarin-zf001-v1-b2e9a267994c/zh-book.mp3",
+        "sha256": "14bc04f82cce46d00301ff81b3b51e3a4c95fee239602c2c59523c5f34d68267",
+        "text": "书",
+        "language": "zh-CN",
+        "bytes": 10988,
+        "mime": "audio/mpeg"
+      }
+    },
+    "chair": {
+      "en-US": {
+        "url": "./assets/audio/chair.mp3",
+        "sha256": "37458aabbb9c6f6b1a4362a42bee5f3a5c4b829bdb1821f5e9cb612673a182ad",
+        "text": "Chair.",
+        "language": "en-US",
+        "bytes": 13748,
+        "mime": "audio/mpeg"
+      },
+      "zh-CN": {
+        "url": "./assets/audio-releases/kokoro-mandarin-zf001-v1-b2e9a267994c/zh-chair.mp3",
+        "sha256": "94b2db16abc1096d147e94b82761f507031c0d9c907534262085fa68dec0fb40",
+        "text": "椅子",
+        "language": "zh-CN",
+        "bytes": 13292,
+        "mime": "audio/mpeg"
+      }
+    },
+    "table": {
+      "en-US": {
+        "url": "./assets/audio/table.mp3",
+        "sha256": "0564777b2169cc1fd50c8acf29ec0fd5bb033f53acc814dfdafbb41e076f110b",
+        "text": "Table.",
+        "language": "en-US",
+        "bytes": 15308,
+        "mime": "audio/mpeg"
+      },
+      "zh-CN": {
+        "url": "./assets/audio-releases/kokoro-mandarin-zf001-v1-b2e9a267994c/zh-table.mp3",
+        "sha256": "584e7f0fe47fd382b39f495d6ad5a033dbd5de18b802b18483d6cd4863f7cf74",
+        "text": "桌子",
+        "language": "zh-CN",
+        "bytes": 13580,
+        "mime": "audio/mpeg"
+      }
+    },
+    "help": {
+      "en-US": {
+        "url": "./assets/audio/help.mp3",
+        "sha256": "a918362d80eb337b04ee62fb3bb4ab87144c279924b3b691a1f115e27f421d9c",
+        "text": "Help.",
+        "language": "en-US",
+        "bytes": 13268,
+        "mime": "audio/mpeg"
+      },
+      "zh-CN": {
+        "url": "./assets/audio-releases/kokoro-mandarin-zf001-v1-b2e9a267994c/zh-help.mp3",
+        "sha256": "9819db32e1be065a5b067bf578bea23617d1fd74112ac9079f7a96b5f979e188",
+        "text": "求助",
+        "language": "zh-CN",
+        "bytes": 13868,
+        "mime": "audio/mpeg"
+      }
+    },
+    "open": {
+      "en-US": {
+        "url": "./assets/audio/open.mp3",
+        "sha256": "df0d0c8de2386cacfe896160e3bcd9d4b3c3b215e53c7956808e38e83cbc4f87",
+        "text": "Open.",
+        "language": "en-US",
+        "bytes": 15068,
+        "mime": "audio/mpeg"
+      },
+      "zh-CN": {
+        "url": "./assets/audio-releases/kokoro-mandarin-zf001-v1-b2e9a267994c/zh-open.mp3",
+        "sha256": "85af435ee0e04dabb1af667b3a83f7a5c8d6a48c3b00de0596d7497184b0b62a",
+        "text": "打开",
+        "language": "zh-CN",
+        "bytes": 13004,
+        "mime": "audio/mpeg"
+      }
+    },
+    "stop": {
+      "en-US": {
+        "url": "./assets/audio/stop.mp3",
+        "sha256": "7d940f13fbd90da974593210eaed64a1725615ad405b3890ab2dbf2ca642aac9",
+        "text": "Stop.",
+        "language": "en-US",
+        "bytes": 13484,
+        "mime": "audio/mpeg"
+      },
+      "zh-CN": {
+        "url": "./assets/audio-releases/kokoro-mandarin-zf001-v1-b2e9a267994c/zh-stop.mp3",
+        "sha256": "08a9fc7bb5da5a57aaec5156eecbaee949fcdcb3883d3b60b9521a844c21ef76",
+        "text": "停下",
+        "language": "zh-CN",
+        "bytes": 14444,
+        "mime": "audio/mpeg"
+      }
+    },
+    "bed": {
+      "en-US": {
+        "url": "./assets/audio-releases/append-fb4039329d7d6de1/bed.mp3",
+        "sha256": "05017c1f887ab5f84adad8a35a07944671a3637e9101de9ce665651b70efd8be",
+        "text": "Bed.",
+        "language": "en-US",
+        "bytes": 18476,
+        "mime": "audio/mpeg"
+      },
+      "zh-CN": {
+        "url": "./assets/audio-releases/kokoro-mandarin-zf001-v1-b2e9a267994c/zh-bed.mp3",
+        "sha256": "60682c7ccf5db8d5e0b6290124b18752b1a509ec0b6976e876869eaea0305074",
+        "text": "床",
+        "language": "zh-CN",
+        "bytes": 11276,
+        "mime": "audio/mpeg"
+      }
+    },
+    "door": {
+      "en-US": {
+        "url": "./assets/audio-releases/append-fb4039329d7d6de1/door.mp3",
+        "sha256": "4fffef301a41ccc75f30d061e5bbb2c2d96ac5daac46b2b1e6cfdfcb739b99d1",
+        "text": "Door.",
+        "language": "en-US",
+        "bytes": 18476,
+        "mime": "audio/mpeg"
+      },
+      "zh-CN": {
+        "url": "./assets/audio-releases/kokoro-mandarin-zf001-v1-b2e9a267994c/zh-door.mp3",
+        "sha256": "c0add69173e710e668813a40e98698fe63292e3b711368c2c4a192a13a08a63a",
+        "text": "门",
+        "language": "zh-CN",
+        "bytes": 10700,
+        "mime": "audio/mpeg"
+      }
+    },
+    "lamp": {
+      "en-US": {
+        "url": "./assets/audio-releases/append-fb4039329d7d6de1/lamp.mp3",
+        "sha256": "57437a2cbffcbd2e420c8ebbbd4f2b6a6f3f9a79ee1197f81e7c3db42f31b39e",
+        "text": "Lamp.",
+        "language": "en-US",
+        "bytes": 18764,
+        "mime": "audio/mpeg"
+      },
+      "zh-CN": {
+        "url": "./assets/audio-releases/kokoro-mandarin-zf001-v1-b2e9a267994c/zh-lamp.mp3",
+        "sha256": "b8facc627f8facaa7869664726d4f88a53274cb118ad764afb5cbe2093731e9b",
+        "text": "灯",
+        "language": "zh-CN",
+        "bytes": 10124,
+        "mime": "audio/mpeg"
+      }
+    },
+    "nose": {
+      "en-US": {
+        "url": "./assets/audio-releases/append-fb4039329d7d6de1/nose.mp3",
+        "sha256": "e2627c4fba81c0a03a1063d3456f4d51946a1672e31e43484b00ad46cd8bf403",
+        "text": "Nose.",
+        "language": "en-US",
+        "bytes": 20492,
+        "mime": "audio/mpeg"
+      },
+      "zh-CN": {
+        "url": "./assets/audio-releases/kokoro-mandarin-zf001-v1-b2e9a267994c/zh-nose.mp3",
+        "sha256": "451aec31d6acb554c0d3ce031bfef149444d64e54cd320ec3cdef6a1700cd763",
+        "text": "鼻子",
+        "language": "zh-CN",
+        "bytes": 13580,
+        "mime": "audio/mpeg"
+      }
+    },
+    "eyes": {
+      "en-US": {
+        "url": "./assets/audio-releases/append-fb4039329d7d6de1/eyes.mp3",
+        "sha256": "3b2fae226fd7a93f70df8c9bbf0fe8c37b5a725be5ae80e1d62cf1cfbd95ebdd",
+        "text": "Eyes.",
+        "language": "en-US",
+        "bytes": 19052,
+        "mime": "audio/mpeg"
+      },
+      "zh-CN": {
+        "url": "./assets/audio-releases/kokoro-mandarin-zf001-v1-b2e9a267994c/zh-eyes.mp3",
+        "sha256": "3ddf2c71b47c4495971427be5c9749d675ab17f21e76e6f79c8c81aab35db0a2",
+        "text": "眼睛",
+        "language": "zh-CN",
+        "bytes": 14444,
+        "mime": "audio/mpeg"
+      }
+    },
+    "ears": {
+      "en-US": {
+        "url": "./assets/audio-releases/append-fb4039329d7d6de1/ears.mp3",
+        "sha256": "4b7e4e3b3e7c3094155bd32761b3487922f746176d5ef69fed3bdb46efa246ec",
+        "text": "Ears.",
+        "language": "en-US",
+        "bytes": 19628,
+        "mime": "audio/mpeg"
+      },
+      "zh-CN": {
+        "url": "./assets/audio-releases/kokoro-mandarin-zf001-v1-b2e9a267994c/zh-ears.mp3",
+        "sha256": "e9dec10d76ff700b8be897d62e54771375c5238a596847ca0ac1efb34c3d776f",
+        "text": "耳朵",
+        "language": "zh-CN",
+        "bytes": 13004,
+        "mime": "audio/mpeg"
+      }
+    },
+    "hands": {
+      "en-US": {
+        "url": "./assets/audio-releases/append-fb4039329d7d6de1/hands.mp3",
+        "sha256": "5a9a72fc13c09a10d358539c4ccbe0040e7705569bf690842f85eb2b02e58079",
+        "text": "Hands.",
+        "language": "en-US",
+        "bytes": 20204,
+        "mime": "audio/mpeg"
+      },
+      "zh-CN": {
+        "url": "./assets/audio-releases/kokoro-mandarin-zf001-v1-b2e9a267994c/zh-hands.mp3",
+        "sha256": "35290900d723c0d7c329cd69b5f1e09514be73f9b2f482efa75f7d309d6fe825",
+        "text": "双手",
+        "language": "zh-CN",
+        "bytes": 14732,
+        "mime": "audio/mpeg"
+      }
+    },
+    "soap": {
+      "en-US": {
+        "url": "./assets/audio-releases/append-fb4039329d7d6de1/soap.mp3",
+        "sha256": "7cf2dc44a27cf6c508cc30a829068f887e58248bb82802bef732a6ebe860c18c",
+        "text": "Soap.",
+        "language": "en-US",
+        "bytes": 18764,
+        "mime": "audio/mpeg"
+      },
+      "zh-CN": {
+        "url": "./assets/audio-releases/kokoro-mandarin-zf001-v1-b2e9a267994c/zh-soap.mp3",
+        "sha256": "261de6edf19575507d47fb69ae13ad570b32e91dca94f83ddca689d0fba6ba9d",
+        "text": "肥皂",
+        "language": "zh-CN",
+        "bytes": 13292,
+        "mime": "audio/mpeg"
+      }
+    },
+    "towel": {
+      "en-US": {
+        "url": "./assets/audio-releases/append-fb4039329d7d6de1/towel.mp3",
+        "sha256": "0331438fb526a24728bb9183630ebd3b8b2b4ae50aa5d02341f9205964cda073",
+        "text": "Towel.",
+        "language": "en-US",
+        "bytes": 18764,
+        "mime": "audio/mpeg"
+      },
+      "zh-CN": {
+        "url": "./assets/audio-releases/kokoro-mandarin-zf001-v1-b2e9a267994c/zh-towel.mp3",
+        "sha256": "97b759488b08449a0b43c9a37d2ca783f7b329f805a6d04b5c7bed2f2b20f750",
+        "text": "毛巾",
+        "language": "zh-CN",
+        "bytes": 14156,
+        "mime": "audio/mpeg"
+      }
+    },
+    "cat": {
+      "en-US": {
+        "url": "./assets/audio-releases/append-fb4039329d7d6de1/cat.mp3",
+        "sha256": "016f4923a41acd49bbc1d9906a0c20e7fbf95dc6f11965efe8ed78384fd170e8",
+        "text": "Cat.",
+        "language": "en-US",
+        "bytes": 18188,
+        "mime": "audio/mpeg"
+      },
+      "zh-CN": {
+        "url": "./assets/audio-releases/kokoro-mandarin-zf001-v1-b2e9a267994c/zh-cat.mp3",
+        "sha256": "c09d3ebe24475dc9d41c66f5430ad3b97fc277fc9fd8d92e96b864950fd2a31b",
+        "text": "猫",
+        "language": "zh-CN",
+        "bytes": 10700,
+        "mime": "audio/mpeg"
+      }
+    },
+    "dog": {
+      "en-US": {
+        "url": "./assets/audio-releases/append-fb4039329d7d6de1/dog.mp3",
+        "sha256": "c6e013ab319b4e022a491296c376fca5e305bb6b207e165792a1f83890e48254",
+        "text": "Dog.",
+        "language": "en-US",
+        "bytes": 18764,
+        "mime": "audio/mpeg"
+      },
+      "zh-CN": {
+        "url": "./assets/audio-releases/kokoro-mandarin-zf001-v1-b2e9a267994c/zh-dog.mp3",
+        "sha256": "097ee9555a20e717c3f28ed425833d5486dae069bb9114dfc83ebc8025f62a5e",
+        "text": "狗",
+        "language": "zh-CN",
+        "bytes": 10700,
+        "mime": "audio/mpeg"
+      }
+    },
+    "bird": {
+      "en-US": {
+        "url": "./assets/audio-releases/append-fb4039329d7d6de1/bird.mp3",
+        "sha256": "94ce21cbc104be025e9e34536ad84147865439dbf7a0a417da10b432ed58f5eb",
+        "text": "Bird.",
+        "language": "en-US",
+        "bytes": 19340,
+        "mime": "audio/mpeg"
+      },
+      "zh-CN": {
+        "url": "./assets/audio-releases/kokoro-mandarin-zf001-v1-b2e9a267994c/zh-bird.mp3",
+        "sha256": "174a783cab8b12ec9915c5668128374043fa74f0ef91361440250cf83d9e25bb",
+        "text": "鸟",
+        "language": "zh-CN",
+        "bytes": 10988,
+        "mime": "audio/mpeg"
+      }
+    },
+    "station": {
+      "en-US": {
+        "url": "./assets/audio-releases/append-fb4039329d7d6de1/station.mp3",
+        "sha256": "c4f9b9aac855b1b410d10aefaa2a3bfb044920495b83c9c25551f19f8436b2a8",
+        "text": "Station.",
+        "language": "en-US",
+        "bytes": 20492,
+        "mime": "audio/mpeg"
+      },
+      "zh-CN": {
+        "url": "./assets/audio-releases/kokoro-mandarin-zf001-v1-b2e9a267994c/zh-station.mp3",
+        "sha256": "9fa33aa40617395abcc764fa8524c4fae7457bfab6a59b32fb590597e41d3f7c",
+        "text": "车站",
+        "language": "zh-CN",
+        "bytes": 13580,
+        "mime": "audio/mpeg"
+      }
+    },
+    "gate": {
+      "en-US": {
+        "url": "./assets/audio-releases/append-fb4039329d7d6de1/gate.mp3",
+        "sha256": "1c7fc8fb80b1fb4d290037eb214fd018c22450673db5b95dd59e757fb9a8ec4b",
+        "text": "Gate.",
+        "language": "en-US",
+        "bytes": 18764,
+        "mime": "audio/mpeg"
+      },
+      "zh-CN": {
+        "url": "./assets/audio-releases/kokoro-mandarin-zf001-v1-b2e9a267994c/zh-gate.mp3",
+        "sha256": "b27874ab84f2a44a957a24b1882b701777310bda4e1542252dca141eab2e78d7",
+        "text": "闸机",
+        "language": "zh-CN",
+        "bytes": 14156,
+        "mime": "audio/mpeg"
+      }
+    },
+    "seat": {
+      "en-US": {
+        "url": "./assets/audio-releases/append-fb4039329d7d6de1/seat.mp3",
+        "sha256": "8a04282b292f15a3e21b9713d7aba608c94b3dd1b89ccd5368d30f652cb133bf",
+        "text": "Seat.",
+        "language": "en-US",
+        "bytes": 18764,
+        "mime": "audio/mpeg"
+      },
+      "zh-CN": {
+        "url": "./assets/audio-releases/kokoro-mandarin-zf001-v1-b2e9a267994c/zh-seat.mp3",
+        "sha256": "c08ec470db07f4e7988a45a02b7e0bb3854c2e4505f93ec6190faa3a8b57fb18",
+        "text": "座位",
+        "language": "zh-CN",
+        "bytes": 13292,
+        "mime": "audio/mpeg"
+      }
+    },
+    "fish": {
+      "en-US": {
+        "url": "./assets/audio-releases/append-9b7df2cefee8915a/fish.mp3",
+        "sha256": "3aad3fd50d4edcba7bd6ceda39b3dc70a45e001040285dd49dbd9f1c9ea06703",
+        "text": "Fish.",
+        "language": "en-US",
+        "bytes": 19340,
+        "mime": "audio/mpeg"
+      },
+      "zh-CN": {
+        "url": "./assets/audio-releases/kokoro-mandarin-zf001-v1-b2e9a267994c/zh-fish.mp3",
+        "sha256": "ab8698cfa642626446634faa23cbb46e5fae4906f7960a6a4eb0fcbc89314e86",
+        "text": "鱼",
+        "language": "zh-CN",
+        "bytes": 10700,
+        "mime": "audio/mpeg"
+      }
+    },
+    "duck": {
+      "en-US": {
+        "url": "./assets/audio-releases/append-9b7df2cefee8915a/duck.mp3",
+        "sha256": "00f3cc73e7b8cb5c20481aee3d8cf1ea10c3991a6f15b15d8910272c9d17f103",
+        "text": "Duck.",
+        "language": "en-US",
+        "bytes": 18188,
+        "mime": "audio/mpeg"
+      },
+      "zh-CN": {
+        "url": "./assets/audio-releases/kokoro-mandarin-zf001-v1-b2e9a267994c/zh-duck.mp3",
+        "sha256": "0b54d1982ffb412b8a873206cf7cd86ae938dfdf4bccba1f3957e15aa2e595d9",
+        "text": "鸭子",
+        "language": "zh-CN",
+        "bytes": 13580,
+        "mime": "audio/mpeg"
+      }
+    },
+    "rabbit": {
+      "en-US": {
+        "url": "./assets/audio-releases/append-9b7df2cefee8915a/rabbit.mp3",
+        "sha256": "c52d85d70f2f6945ebacb7b53d62e1cd3a195f58092005c71139a3e967f9cfa4",
+        "text": "Rabbit.",
+        "language": "en-US",
+        "bytes": 19628,
+        "mime": "audio/mpeg"
+      },
+      "zh-CN": {
+        "url": "./assets/audio-releases/kokoro-mandarin-zf001-v1-b2e9a267994c/zh-rabbit.mp3",
+        "sha256": "3865d2fde216bc2a2423f8f3262273cc9d12d4f90564359d1c2d0de3e1044ef1",
+        "text": "兔子",
+        "language": "zh-CN",
+        "bytes": 14732,
+        "mime": "audio/mpeg"
+      }
+    },
+    "elephant": {
+      "en-US": {
+        "url": "./assets/audio-releases/append-9b7df2cefee8915a/elephant.mp3",
+        "sha256": "ed86339737e887ab65d6293d311bc36541a5af2b057dac957059d2cb4327e301",
+        "text": "Elephant.",
+        "language": "en-US",
+        "bytes": 20492,
+        "mime": "audio/mpeg"
+      },
+      "zh-CN": {
+        "url": "./assets/audio-releases/kokoro-mandarin-zf001-v1-b2e9a267994c/zh-elephant.mp3",
+        "sha256": "28d604023dbd2a1d3816bdcc13b72986d41be9766bb9009e27fab83c88f5405b",
+        "text": "大象",
+        "language": "zh-CN",
+        "bytes": 14156,
+        "mime": "audio/mpeg"
+      }
+    },
+    "monkey": {
+      "en-US": {
+        "url": "./assets/audio-releases/append-9b7df2cefee8915a/monkey.mp3",
+        "sha256": "21ce452d7e0510897308102e99697aed6272f2717403e921db475991aa0e498a",
+        "text": "Monkey.",
+        "language": "en-US",
+        "bytes": 20780,
+        "mime": "audio/mpeg"
+      },
+      "zh-CN": {
+        "url": "./assets/audio-releases/kokoro-mandarin-zf001-v1-b2e9a267994c/zh-monkey.mp3",
+        "sha256": "a6091482df4730eacb7d4a8d3c1e6d5b2e24c893ecfc2104268263b0cbf243f3",
+        "text": "猴子",
+        "language": "zh-CN",
+        "bytes": 14156,
+        "mime": "audio/mpeg"
+      }
+    },
+    "turtle": {
+      "en-US": {
+        "url": "./assets/audio-releases/append-9b7df2cefee8915a/turtle.mp3",
+        "sha256": "e3fb0671349bdcc7ab8492bcfce54c05885b5de8665ad41d9910254f46e9aa94",
+        "text": "Turtle.",
+        "language": "en-US",
+        "bytes": 18476,
+        "mime": "audio/mpeg"
+      },
+      "zh-CN": {
+        "url": "./assets/audio-releases/kokoro-mandarin-zf001-v1-b2e9a267994c/zh-turtle.mp3",
+        "sha256": "ce0cf9629360e1e52cb53717606807cb502398c70a5f44d0488857f4ede3887f",
+        "text": "乌龟",
+        "language": "zh-CN",
+        "bytes": 13292,
+        "mime": "audio/mpeg"
+      }
+    },
+    "apple": {
+      "en-US": {
+        "url": "./assets/audio-releases/append-9b7df2cefee8915a/apple.mp3",
+        "sha256": "eebdd0176ca92b91703b70fab0a017e0bec3a8f6b311d2db3ad49a9a2833d6b8",
+        "text": "Apple.",
+        "language": "en-US",
+        "bytes": 19340,
+        "mime": "audio/mpeg"
+      },
+      "zh-CN": {
+        "url": "./assets/audio-releases/kokoro-mandarin-zf001-v1-b2e9a267994c/zh-apple.mp3",
+        "sha256": "9ceb8682bf2d22950773715e3780ecb8247654a30117826c6724ed5d7c45e65c",
+        "text": "苹果",
+        "language": "zh-CN",
+        "bytes": 14156,
+        "mime": "audio/mpeg"
+      }
+    },
+    "orange": {
+      "en-US": {
+        "url": "./assets/audio-releases/append-9b7df2cefee8915a/orange.mp3",
+        "sha256": "687089c6fc77dffcab8366c6dc37d47ac70614f3d623e94761e9928658e4cf2f",
+        "text": "Orange.",
+        "language": "en-US",
+        "bytes": 21356,
+        "mime": "audio/mpeg"
+      },
+      "zh-CN": {
+        "url": "./assets/audio-releases/kokoro-mandarin-zf001-v1-b2e9a267994c/zh-orange.mp3",
+        "sha256": "0ca5056d49c31143ac0451f1e90d979f474088e748348ea9af59a37fa9b88eaa",
+        "text": "橙子",
+        "language": "zh-CN",
+        "bytes": 14156,
+        "mime": "audio/mpeg"
+      }
+    },
+    "mango": {
+      "en-US": {
+        "url": "./assets/audio-releases/append-9b7df2cefee8915a/mango.mp3",
+        "sha256": "0b22993d45f645c3dcf32b1b39c9864ef4e57281571d2ab7887616b14693d146",
+        "text": "Mango.",
+        "language": "en-US",
+        "bytes": 20780,
+        "mime": "audio/mpeg"
+      },
+      "zh-CN": {
+        "url": "./assets/audio-releases/kokoro-mandarin-zf001-v1-b2e9a267994c/zh-mango.mp3",
+        "sha256": "52f5a945289bb6ceb5cf8b3f112ae991ba7893940c50bab113ce95075093eafb",
+        "text": "芒果",
+        "language": "zh-CN",
+        "bytes": 14156,
+        "mime": "audio/mpeg"
+      }
+    },
+    "watermelon": {
+      "en-US": {
+        "url": "./assets/audio-releases/append-9b7df2cefee8915a/watermelon.mp3",
+        "sha256": "30cf14e81c48771ef1722c54057e2e0b161e015c467198c4700b89677a49090e",
+        "text": "Watermelon.",
+        "language": "en-US",
+        "bytes": 21356,
+        "mime": "audio/mpeg"
+      },
+      "zh-CN": {
+        "url": "./assets/audio-releases/kokoro-mandarin-zf001-v1-b2e9a267994c/zh-watermelon.mp3",
+        "sha256": "325026c7565598f5a9944d262f24a8cefe9e36afec59700aa440e35ae89038e6",
+        "text": "西瓜",
+        "language": "zh-CN",
+        "bytes": 13868,
+        "mime": "audio/mpeg"
+      }
+    },
+    "papaya": {
+      "en-US": {
+        "url": "./assets/audio-releases/append-9b7df2cefee8915a/papaya.mp3",
+        "sha256": "422d89bfe7fa8947b9b64b0103350df29fe06e5b5677dbb242de40363662b4eb",
+        "text": "Papaya.",
+        "language": "en-US",
+        "bytes": 21068,
+        "mime": "audio/mpeg"
+      },
+      "zh-CN": {
+        "url": "./assets/audio-releases/kokoro-mandarin-zf001-v1-b2e9a267994c/zh-papaya.mp3",
+        "sha256": "5c93f5af415e2cd6849362c2dff2dba932c078a4f1b564b6fcaf3ef70e82d26d",
+        "text": "木瓜",
+        "language": "zh-CN",
+        "bytes": 13292,
+        "mime": "audio/mpeg"
+      }
+    },
+    "pineapple": {
+      "en-US": {
+        "url": "./assets/audio-releases/append-9b7df2cefee8915a/pineapple.mp3",
+        "sha256": "94c3fa48d40ca6c81ee01005725c6fb3ab9cba5f74d5f3e260d59595431f9844",
+        "text": "Pineapple.",
+        "language": "en-US",
+        "bytes": 20492,
+        "mime": "audio/mpeg"
+      },
+      "zh-CN": {
+        "url": "./assets/audio-releases/kokoro-mandarin-zf001-v1-b2e9a267994c/zh-pineapple.mp3",
+        "sha256": "bec6c8ceaa2191f4502ab3cf05eefb11f5b0a467f6fce3cef84a8659e08081bb",
+        "text": "菠萝",
+        "language": "zh-CN",
+        "bytes": 13580,
+        "mime": "audio/mpeg"
+      }
+    },
+    "grapes": {
+      "en-US": {
+        "url": "./assets/audio-releases/append-9b7df2cefee8915a/grapes.mp3",
+        "sha256": "5d166fba409091ce67b2a7703fc97c74205d252dfe13d8e1c9b6c46d92e67ae8",
+        "text": "Grapes.",
+        "language": "en-US",
+        "bytes": 19916,
+        "mime": "audio/mpeg"
+      },
+      "zh-CN": {
+        "url": "./assets/audio-releases/kokoro-mandarin-zf001-v1-b2e9a267994c/zh-grapes.mp3",
+        "sha256": "7d371e3482486deca2e89a6b6d33a83cac61a255d0c9c0c56da8936cf97975ad",
+        "text": "葡萄",
+        "language": "zh-CN",
+        "bytes": 13580,
+        "mime": "audio/mpeg"
+      }
+    },
+    "strawberry": {
+      "en-US": {
+        "url": "./assets/audio-releases/append-9b7df2cefee8915a/strawberry.mp3",
+        "sha256": "8e905f698e7f76d12d1daf340e3776ee7fbc865672b4bb418784f2e7cd6f84ea",
+        "text": "Strawberry.",
+        "language": "en-US",
+        "bytes": 21356,
+        "mime": "audio/mpeg"
+      },
+      "zh-CN": {
+        "url": "./assets/audio-releases/kokoro-mandarin-zf001-v1-b2e9a267994c/zh-strawberry.mp3",
+        "sha256": "b44e2b7a68348a37b306a20eb30492d843f404a5a22aaccb8f3e2c7b7accfd03",
+        "text": "草莓",
+        "language": "zh-CN",
+        "bytes": 13868,
+        "mime": "audio/mpeg"
+      }
+    },
+    "color-red": {
+      "en-US": {
+        "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-red.mp3",
+        "sha256": "c3a8b7ad07ff95f9fea367ea727244021087e3a487833b2457edebc0bda0fb29",
+        "text": "Red.",
+        "language": "en-US",
+        "bytes": 19052,
+        "mime": "audio/mpeg"
+      },
+      "zh-CN": {
+        "url": "./assets/audio-releases/kokoro-mandarin-zf001-v1-b2e9a267994c/zh-color-red.mp3",
+        "sha256": "db53345bba5c4b4e9ef900ca940d22d6787f3ea3093042a37a3d6f361a977c59",
+        "text": "红色",
+        "language": "zh-CN",
+        "bytes": 13868,
+        "mime": "audio/mpeg"
+      }
+    },
+    "color-yellow": {
+      "en-US": {
+        "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-yellow.mp3",
+        "sha256": "c08cb31d109271f1d0a22f5c885c1bfe024eed1faa429ab430d1ae4c97a82ae4",
+        "text": "Yellow.",
+        "language": "en-US",
+        "bytes": 19916,
+        "mime": "audio/mpeg"
+      },
+      "zh-CN": {
+        "url": "./assets/audio-releases/kokoro-mandarin-zf001-v1-b2e9a267994c/zh-color-yellow.mp3",
+        "sha256": "e4be393a95db637bf67ebb6f4422b880c6644270d8f8bfc020af23500e67dc7f",
+        "text": "黄色",
+        "language": "zh-CN",
+        "bytes": 13868,
+        "mime": "audio/mpeg"
+      }
+    },
+    "color-blue": {
+      "en-US": {
+        "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-blue.mp3",
+        "sha256": "b8cce8ad4b661a609971822a825ce7dcd0389aa2afbae52ed53311479bb33f21",
+        "text": "Blue.",
+        "language": "en-US",
+        "bytes": 18764,
+        "mime": "audio/mpeg"
+      },
+      "zh-CN": {
+        "url": "./assets/audio-releases/kokoro-mandarin-zf001-v1-b2e9a267994c/zh-color-blue.mp3",
+        "sha256": "ac88fb843bdece7fc16e38f30ed8263cbba482d61fc765dda6c622371b89e3db",
+        "text": "蓝色",
+        "language": "zh-CN",
+        "bytes": 13580,
+        "mime": "audio/mpeg"
+      }
+    },
+    "color-green": {
+      "en-US": {
+        "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-green.mp3",
+        "sha256": "d0712f249cbd8e717a5cc607ccfb9323a5594f2d7a8327ab7439c7b0b34b4a59",
+        "text": "Green.",
+        "language": "en-US",
+        "bytes": 19628,
+        "mime": "audio/mpeg"
+      },
+      "zh-CN": {
+        "url": "./assets/audio-releases/kokoro-mandarin-zf001-v1-b2e9a267994c/zh-color-green.mp3",
+        "sha256": "b9164d170c822465e138fe3c46b926d7ed13a4fcd3ef43f65f6bc6a0d83b1aef",
+        "text": "绿色",
+        "language": "zh-CN",
+        "bytes": 14156,
+        "mime": "audio/mpeg"
+      }
+    },
+    "color-orange": {
+      "en-US": {
+        "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-orange.mp3",
+        "sha256": "687089c6fc77dffcab8366c6dc37d47ac70614f3d623e94761e9928658e4cf2f",
+        "text": "Orange.",
+        "language": "en-US",
+        "bytes": 21356,
+        "mime": "audio/mpeg"
+      },
+      "zh-CN": {
+        "url": "./assets/audio-releases/kokoro-mandarin-zf001-v1-b2e9a267994c/zh-color-orange.mp3",
+        "sha256": "de8cd71cb2ef5f084e792834af81e8cb2288ec41dbdd3d71340261f843450890",
+        "text": "橙色",
+        "language": "zh-CN",
+        "bytes": 13868,
+        "mime": "audio/mpeg"
+      }
+    },
+    "color-purple": {
+      "en-US": {
+        "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-purple.mp3",
+        "sha256": "026d41e47639ed2a7ffaed394ec6dd4288279fdb9e0814ce41111040b17528a6",
+        "text": "Purple.",
+        "language": "en-US",
+        "bytes": 19340,
+        "mime": "audio/mpeg"
+      },
+      "zh-CN": {
+        "url": "./assets/audio-releases/kokoro-mandarin-zf001-v1-b2e9a267994c/zh-color-purple.mp3",
+        "sha256": "cf594f91c4d391e21981f231806d916bc01836ad560e7c5fbb6df05f2a3e87a7",
+        "text": "紫色",
+        "language": "zh-CN",
+        "bytes": 13004,
+        "mime": "audio/mpeg"
+      }
+    },
+    "color-pink": {
+      "en-US": {
+        "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-pink.mp3",
+        "sha256": "7b60caa2b2720d2b0aa2d33349c58c655277e04b766bc6edffd4700531582ae6",
+        "text": "Pink.",
+        "language": "en-US",
+        "bytes": 18764,
+        "mime": "audio/mpeg"
+      },
+      "zh-CN": {
+        "url": "./assets/audio-releases/kokoro-mandarin-zf001-v1-b2e9a267994c/zh-color-pink.mp3",
+        "sha256": "9a8806b127e875202017c2594e72a3f762cd0c92f3ed12c1a8a583dab346fb07",
+        "text": "粉色",
+        "language": "zh-CN",
+        "bytes": 14444,
+        "mime": "audio/mpeg"
+      }
+    },
+    "color-brown": {
+      "en-US": {
+        "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-brown.mp3",
+        "sha256": "9026fa8dc581926971ecba492d527a0efcb65f31c81e8ef27f3c7248aa53fded",
+        "text": "Brown.",
+        "language": "en-US",
+        "bytes": 19628,
+        "mime": "audio/mpeg"
+      },
+      "zh-CN": {
+        "url": "./assets/audio-releases/kokoro-mandarin-zf001-v1-b2e9a267994c/zh-color-brown.mp3",
+        "sha256": "d92a39e2d3085335824279a1b8f6810c0180af4426e4a32147dee82d0db30789",
+        "text": "棕色",
+        "language": "zh-CN",
+        "bytes": 13868,
+        "mime": "audio/mpeg"
+      }
+    },
+    "color-black": {
+      "en-US": {
+        "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-black.mp3",
+        "sha256": "6efb2aca30145bb37ccfd6b04a9e02b21d8e6f347f21518590f9c6c2b03fe029",
+        "text": "Black.",
+        "language": "en-US",
+        "bytes": 18188,
+        "mime": "audio/mpeg"
+      },
+      "zh-CN": {
+        "url": "./assets/audio-releases/kokoro-mandarin-zf001-v1-b2e9a267994c/zh-color-black.mp3",
+        "sha256": "dddd29a637aefac64412e849f5b8e7c78ab32e6c44832bd72a5b8f2382c7aba8",
+        "text": "黑色",
+        "language": "zh-CN",
+        "bytes": 13292,
+        "mime": "audio/mpeg"
+      }
+    },
+    "color-white": {
+      "en-US": {
+        "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-white.mp3",
+        "sha256": "71c4a4703c8b729f5a7a41e641a795b10ba2124b290ff916b25fb18f921dc3d5",
+        "text": "White.",
+        "language": "en-US",
+        "bytes": 18188,
+        "mime": "audio/mpeg"
+      },
+      "zh-CN": {
+        "url": "./assets/audio-releases/kokoro-mandarin-zf001-v1-b2e9a267994c/zh-color-white.mp3",
+        "sha256": "1219dcf0158cf6bec2e43cb2745a167b717c681ee42be60b26d937a354117dda",
+        "text": "白色",
+        "language": "zh-CN",
+        "bytes": 13580,
+        "mime": "audio/mpeg"
+      }
+    },
+    "color-gray": {
+      "en-US": {
+        "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-gray.mp3",
+        "sha256": "9d7a05ef67cc37156619f35e785b8c2c493226c00deba0f65f8e37e7ed93326e",
+        "text": "Gray.",
+        "language": "en-US",
+        "bytes": 19340,
+        "mime": "audio/mpeg"
+      },
+      "zh-CN": {
+        "url": "./assets/audio-releases/kokoro-mandarin-zf001-v1-b2e9a267994c/zh-color-gray.mp3",
+        "sha256": "2587765a3c179bd3bebc80e8dc7f3456f988b01b18644e842664848450fd032b",
+        "text": "灰色",
+        "language": "zh-CN",
+        "bytes": 13580,
+        "mime": "audio/mpeg"
+      }
+    },
+    "color-light-red": {
+      "en-US": {
+        "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-light-red.mp3",
+        "sha256": "70b1ad753387eebf392fc25fef20be9dfb06202987ab16dff8e59b3aa5feba1a",
+        "text": "Light red.",
+        "language": "en-US",
+        "bytes": 21356,
+        "mime": "audio/mpeg"
+      },
+      "zh-CN": {
+        "url": "./assets/audio-releases/kokoro-mandarin-zf001-v1-b2e9a267994c/zh-color-light-red.mp3",
+        "sha256": "42c4819fe4be0c9d4001d792726ff3aa05ca0a22775e84341aad73876cdfd0dc",
+        "text": "浅红色",
+        "language": "zh-CN",
+        "bytes": 18764,
+        "mime": "audio/mpeg"
+      }
+    },
+    "color-dark-red": {
+      "en-US": {
+        "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-dark-red.mp3",
+        "sha256": "9d314c9c65c94d8d809c6e99b8b198feba012b382422327113eac7ce9ba214a1",
+        "text": "Dark red.",
+        "language": "en-US",
+        "bytes": 21068,
+        "mime": "audio/mpeg"
+      },
+      "zh-CN": {
+        "url": "./assets/audio-releases/kokoro-mandarin-zf001-v1-b2e9a267994c/zh-color-dark-red.mp3",
+        "sha256": "6d12b286e875566c699f46dc7265c9010c71e59e62cd9f453669b40d5cdeb5ed",
+        "text": "深红色",
+        "language": "zh-CN",
+        "bytes": 18764,
+        "mime": "audio/mpeg"
+      }
+    },
+    "color-coral": {
+      "en-US": {
+        "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-coral.mp3",
+        "sha256": "97c263caf1cdb5658c820d8243c28521f13f63908949a0357a8dba2532ad9ac9",
+        "text": "Coral.",
+        "language": "en-US",
+        "bytes": 19340,
+        "mime": "audio/mpeg"
+      },
+      "zh-CN": {
+        "url": "./assets/audio-releases/kokoro-mandarin-zf001-v1-b2e9a267994c/zh-color-coral.mp3",
+        "sha256": "a8af6b33970ae073a7a98bc31a582e76001efeb74b6201fd38af4b0de63068c8",
+        "text": "珊瑚色",
+        "language": "zh-CN",
+        "bytes": 19916,
+        "mime": "audio/mpeg"
+      }
+    },
+    "color-maroon": {
+      "en-US": {
+        "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-maroon.mp3",
+        "sha256": "f0886c081ce1bdffb4d81aa02d5d94a1d5ecb26a1fc76a7ec3af1c1b93f8bbfa",
+        "text": "Maroon.",
+        "language": "en-US",
+        "bytes": 20492,
+        "mime": "audio/mpeg"
+      },
+      "zh-CN": {
+        "url": "./assets/audio-releases/kokoro-mandarin-zf001-v1-b2e9a267994c/zh-color-maroon.mp3",
+        "sha256": "996e9febb6b8db43359b06436e3e8086f1717eb4a2c6ea42649b953c53c86461",
+        "text": "酒红色",
+        "language": "zh-CN",
+        "bytes": 17612,
+        "mime": "audio/mpeg"
+      }
+    },
+    "color-light-yellow": {
+      "en-US": {
+        "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-light-yellow.mp3",
+        "sha256": "fa58020a7bda6d6ca524108e786b85ea158506679d3acb9451b185a3e429d41c",
+        "text": "Light yellow.",
+        "language": "en-US",
+        "bytes": 21644,
+        "mime": "audio/mpeg"
+      },
+      "zh-CN": {
+        "url": "./assets/audio-releases/kokoro-mandarin-zf001-v1-b2e9a267994c/zh-color-light-yellow.mp3",
+        "sha256": "672c20907f819b226bd03349d045f03b1c811ffe800a04a6e3e317a86df2e867",
+        "text": "浅黄色",
+        "language": "zh-CN",
+        "bytes": 19052,
+        "mime": "audio/mpeg"
+      }
+    },
+    "color-gold": {
+      "en-US": {
+        "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-gold.mp3",
+        "sha256": "0228eda3d915fae167b366773afbfa197925696517f25c3fdcfba4780c5eae98",
+        "text": "Gold.",
+        "language": "en-US",
+        "bytes": 19340,
+        "mime": "audio/mpeg"
+      },
+      "zh-CN": {
+        "url": "./assets/audio-releases/kokoro-mandarin-zf001-v1-b2e9a267994c/zh-color-gold.mp3",
+        "sha256": "b197238f711bc256f139b3011aceaf5cdff5d70adf7fcf46cd658635a07a7496",
+        "text": "金黄色",
+        "language": "zh-CN",
+        "bytes": 17900,
+        "mime": "audio/mpeg"
+      }
+    },
+    "color-light-blue": {
+      "en-US": {
+        "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-light-blue.mp3",
+        "sha256": "296f9b94bdc656e1456cdcae8a6bc449c8e3eddb4e966bdbe174e76376937b87",
+        "text": "Light blue.",
+        "language": "en-US",
+        "bytes": 20780,
+        "mime": "audio/mpeg"
+      },
+      "zh-CN": {
+        "url": "./assets/audio-releases/kokoro-mandarin-zf001-v1-b2e9a267994c/zh-color-light-blue.mp3",
+        "sha256": "45c7630867e4fb0cd74370b2c5acfc656aca437f047d488df3ad9d7faef070c0",
+        "text": "浅蓝色",
+        "language": "zh-CN",
+        "bytes": 18188,
+        "mime": "audio/mpeg"
+      }
+    },
+    "color-dark-blue": {
+      "en-US": {
+        "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-dark-blue.mp3",
+        "sha256": "f8b94717697dd9ae67b7c87e4fa8a52c04b4ff530ffca17f49b0293a95116cba",
+        "text": "Dark blue.",
+        "language": "en-US",
+        "bytes": 20780,
+        "mime": "audio/mpeg"
+      },
+      "zh-CN": {
+        "url": "./assets/audio-releases/kokoro-mandarin-zf001-v1-b2e9a267994c/zh-color-dark-blue.mp3",
+        "sha256": "01ec3c3a0381a2ac572627dd8955d3f6feb2026f58c2bdffc5dff1834149831f",
+        "text": "深蓝色",
+        "language": "zh-CN",
+        "bytes": 17900,
+        "mime": "audio/mpeg"
+      }
+    },
+    "color-sky-blue": {
+      "en-US": {
+        "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-sky-blue.mp3",
+        "sha256": "7552ddbcd9b6f7cdc0783f537cfe3c2ed19cf8651ceed192d92ef0b0fda174c2",
+        "text": "Sky blue.",
+        "language": "en-US",
+        "bytes": 21068,
+        "mime": "audio/mpeg"
+      },
+      "zh-CN": {
+        "url": "./assets/audio-releases/kokoro-mandarin-zf001-v1-b2e9a267994c/zh-color-sky-blue.mp3",
+        "sha256": "cc744e8697534a45a799753a2d6d6a2f730d34f6975e6d12e906a0188bcfa5ef",
+        "text": "天蓝色",
+        "language": "zh-CN",
+        "bytes": 18764,
+        "mime": "audio/mpeg"
+      }
+    },
+    "color-navy": {
+      "en-US": {
+        "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-navy.mp3",
+        "sha256": "42e478ff4fee5d65d40a807fae1cd74b81462833e767c9f7ad70d7de52d5c9cc",
+        "text": "Navy.",
+        "language": "en-US",
+        "bytes": 19628,
+        "mime": "audio/mpeg"
+      },
+      "zh-CN": {
+        "url": "./assets/audio-releases/kokoro-mandarin-zf001-v1-b2e9a267994c/zh-color-navy.mp3",
+        "sha256": "5c287faeaf20961c82d89f21975f877e08c915169b00bbfb9a273752913f7f0b",
+        "text": "海军蓝",
+        "language": "zh-CN",
+        "bytes": 19340,
+        "mime": "audio/mpeg"
+      }
+    },
+    "color-light-green": {
+      "en-US": {
+        "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-light-green.mp3",
+        "sha256": "e3a51d25fa96cc3d7d5ef5ed73a6de5fbd6b44b177395a48c56d00127f77c1ac",
+        "text": "Light green.",
+        "language": "en-US",
+        "bytes": 21356,
+        "mime": "audio/mpeg"
+      },
+      "zh-CN": {
+        "url": "./assets/audio-releases/kokoro-mandarin-zf001-v1-b2e9a267994c/zh-color-light-green.mp3",
+        "sha256": "f977bf141fb28a90ce5765884340f0d7f13eee7c715cf202de26a0b0ba740272",
+        "text": "浅绿色",
+        "language": "zh-CN",
+        "bytes": 18188,
+        "mime": "audio/mpeg"
+      }
+    },
+    "color-dark-green": {
+      "en-US": {
+        "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-dark-green.mp3",
+        "sha256": "3db7c47375dd1c329d208e3c3269742f307749dc9a7a9190e38db5577e1c991f",
+        "text": "Dark green.",
+        "language": "en-US",
+        "bytes": 21356,
+        "mime": "audio/mpeg"
+      },
+      "zh-CN": {
+        "url": "./assets/audio-releases/kokoro-mandarin-zf001-v1-b2e9a267994c/zh-color-dark-green.mp3",
+        "sha256": "0470ea341cf29fe05508ab02371dd53819c5c801bbde8dc232936f31254f9003",
+        "text": "深绿色",
+        "language": "zh-CN",
+        "bytes": 18476,
+        "mime": "audio/mpeg"
+      }
+    },
+    "color-lime": {
+      "en-US": {
+        "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-lime.mp3",
+        "sha256": "f705b647f12feecfb80ef315c419012efd92a85a63448ec0f86adb874a62a6aa",
+        "text": "Lime.",
+        "language": "en-US",
+        "bytes": 19916,
+        "mime": "audio/mpeg"
+      },
+      "zh-CN": {
+        "url": "./assets/audio-releases/kokoro-mandarin-zf001-v1-b2e9a267994c/zh-color-lime.mp3",
+        "sha256": "90bdb45a16b61486ada67865e0bdc5efab448806e3cdbbbd83577a31bbdc176a",
+        "text": "青柠绿",
+        "language": "zh-CN",
+        "bytes": 18188,
+        "mime": "audio/mpeg"
+      }
+    },
+    "color-olive": {
+      "en-US": {
+        "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-olive.mp3",
+        "sha256": "3814d8261fbc961a53115b05acff9e51d186df20083937ea6b78365ca0c37189",
+        "text": "Olive.",
+        "language": "en-US",
+        "bytes": 19628,
+        "mime": "audio/mpeg"
+      },
+      "zh-CN": {
+        "url": "./assets/audio-releases/kokoro-mandarin-zf001-v1-b2e9a267994c/zh-color-olive.mp3",
+        "sha256": "f78ca5f32509e51edae87e422606ac4920671f30db9edea9c8312ce5518f470c",
+        "text": "橄榄绿",
+        "language": "zh-CN",
+        "bytes": 19052,
+        "mime": "audio/mpeg"
+      }
+    },
+    "color-light-orange": {
+      "en-US": {
+        "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-light-orange.mp3",
+        "sha256": "a12a3c77bcfbce4b7d0510ce4024f18d42bb7856e3006ce40552e5b78d9c4aaf",
+        "text": "Light orange.",
+        "language": "en-US",
+        "bytes": 23084,
+        "mime": "audio/mpeg"
+      },
+      "zh-CN": {
+        "url": "./assets/audio-releases/kokoro-mandarin-zf001-v1-b2e9a267994c/zh-color-light-orange.mp3",
+        "sha256": "3aea1a7ab6a3208c2d30ab62ee5fbd35791f1ff05efcc00a46321bed79c3e682",
+        "text": "浅橙色",
+        "language": "zh-CN",
+        "bytes": 19628,
+        "mime": "audio/mpeg"
+      }
+    },
+    "color-dark-orange": {
+      "en-US": {
+        "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-dark-orange.mp3",
+        "sha256": "6391e9a48664fbdd1e3b29725d411c7fdb58621a30bb656db2607ab3a4035e09",
+        "text": "Dark orange.",
+        "language": "en-US",
+        "bytes": 22508,
+        "mime": "audio/mpeg"
+      },
+      "zh-CN": {
+        "url": "./assets/audio-releases/kokoro-mandarin-zf001-v1-b2e9a267994c/zh-color-dark-orange.mp3",
+        "sha256": "2561e508173bdd4b2061e236d261729043a32fdcce048fa007780f6f917fd209",
+        "text": "深橙色",
+        "language": "zh-CN",
+        "bytes": 19628,
+        "mime": "audio/mpeg"
+      }
+    },
+    "color-light-purple": {
+      "en-US": {
+        "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-light-purple.mp3",
+        "sha256": "96ef475eb70010883fffbdf09c3c7a7884a57968bd4078e38a12954c3bfd4345",
+        "text": "Light purple.",
+        "language": "en-US",
+        "bytes": 22508,
+        "mime": "audio/mpeg"
+      },
+      "zh-CN": {
+        "url": "./assets/audio-releases/kokoro-mandarin-zf001-v1-b2e9a267994c/zh-color-light-purple.mp3",
+        "sha256": "4772aa7a2e58bb5a33c2305e2541e6752a9739d82effa6eb690247c345e4083e",
+        "text": "浅紫色",
+        "language": "zh-CN",
+        "bytes": 18764,
+        "mime": "audio/mpeg"
+      }
+    },
+    "color-dark-purple": {
+      "en-US": {
+        "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-dark-purple.mp3",
+        "sha256": "1a9f2755ce0d7993494e63e55abaedc7de26da5b8589c1d5d8a21c9cd61b5811",
+        "text": "Dark purple.",
+        "language": "en-US",
+        "bytes": 22220,
+        "mime": "audio/mpeg"
+      },
+      "zh-CN": {
+        "url": "./assets/audio-releases/kokoro-mandarin-zf001-v1-b2e9a267994c/zh-color-dark-purple.mp3",
+        "sha256": "a6adcfe7ae47b97b6041c52b6edc0b6bd21f28f6c23fcf50960bd0ce56e44e46",
+        "text": "深紫色",
+        "language": "zh-CN",
+        "bytes": 18476,
+        "mime": "audio/mpeg"
+      }
+    },
+    "color-lavender": {
+      "en-US": {
+        "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-lavender.mp3",
+        "sha256": "36408c8697675970968da052da35ebe3b3b0a01109e6cd14afa9011f6cee909f",
+        "text": "Lavender.",
+        "language": "en-US",
+        "bytes": 20492,
+        "mime": "audio/mpeg"
+      },
+      "zh-CN": {
+        "url": "./assets/audio-releases/kokoro-mandarin-zf001-v1-b2e9a267994c/zh-color-lavender.mp3",
+        "sha256": "3e41cffdcbb88c09ac87d60f9110b8141ea762b6a4f2e2855635b3138126a88b",
+        "text": "薰衣草紫",
+        "language": "zh-CN",
+        "bytes": 26252,
+        "mime": "audio/mpeg"
+      }
+    },
+    "color-light-pink": {
+      "en-US": {
+        "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-light-pink.mp3",
+        "sha256": "bfa6cfbc6074b91271d0bda17633512f22b00628f6932c7931abb48a81edf3ec",
+        "text": "Light pink.",
+        "language": "en-US",
+        "bytes": 21068,
+        "mime": "audio/mpeg"
+      },
+      "zh-CN": {
+        "url": "./assets/audio-releases/kokoro-mandarin-zf001-v1-b2e9a267994c/zh-color-light-pink.mp3",
+        "sha256": "65f2438d1074cfbed39d483ed19016f7e6d38c53f7f12c438b4745583358b1bb",
+        "text": "浅粉色",
+        "language": "zh-CN",
+        "bytes": 19052,
+        "mime": "audio/mpeg"
+      }
+    },
+    "color-dark-pink": {
+      "en-US": {
+        "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-dark-pink.mp3",
+        "sha256": "93296d1fc0e03c3e9fe5711885ec54e00d3e304f27804d31aa66cb4b0f360f98",
+        "text": "Dark pink.",
+        "language": "en-US",
+        "bytes": 21068,
+        "mime": "audio/mpeg"
+      },
+      "zh-CN": {
+        "url": "./assets/audio-releases/kokoro-mandarin-zf001-v1-b2e9a267994c/zh-color-dark-pink.mp3",
+        "sha256": "8ab23a75436cf41e2db0da5d6de965d378339d99e336c6206f002d7a1ae09d1a",
+        "text": "深粉色",
+        "language": "zh-CN",
+        "bytes": 19052,
+        "mime": "audio/mpeg"
+      }
+    },
+    "color-light-brown": {
+      "en-US": {
+        "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-light-brown.mp3",
+        "sha256": "eec7e04429a9af33390b369d2254080800b34ffac06fee9ffe20fcd667f11cd3",
+        "text": "Light brown.",
+        "language": "en-US",
+        "bytes": 21644,
+        "mime": "audio/mpeg"
+      },
+      "zh-CN": {
+        "url": "./assets/audio-releases/kokoro-mandarin-zf001-v1-b2e9a267994c/zh-color-light-brown.mp3",
+        "sha256": "123c6206e42ca8ba480c6aa8a1320c795fffbb501304d8687b68fe61b1e0bedc",
+        "text": "浅棕色",
+        "language": "zh-CN",
+        "bytes": 18764,
+        "mime": "audio/mpeg"
+      }
+    },
+    "color-dark-brown": {
+      "en-US": {
+        "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-dark-brown.mp3",
+        "sha256": "1fd2b17a2f393376bcf29a8e3f9d612c1aa721ea0c370d4e6b0cb5f2fecacd2a",
+        "text": "Dark brown.",
+        "language": "en-US",
+        "bytes": 21644,
+        "mime": "audio/mpeg"
+      },
+      "zh-CN": {
+        "url": "./assets/audio-releases/kokoro-mandarin-zf001-v1-b2e9a267994c/zh-color-dark-brown.mp3",
+        "sha256": "a9c30e237711bbe6e0514285f3e0bb6b77b53e25263d9d7f43ff19b77f88c9e4",
+        "text": "深棕色",
+        "language": "zh-CN",
+        "bytes": 17900,
+        "mime": "audio/mpeg"
+      }
+    },
+    "color-teal": {
+      "en-US": {
+        "url": "./assets/audio-releases/append-52baa1c2e56eef82/color-teal.mp3",
+        "sha256": "8d1ef7a0b6187ed2feac18b43baef0560fdc374bb88073920b121ab0559c1fa3",
+        "text": "Teal.",
+        "language": "en-US",
+        "bytes": 19340,
+        "mime": "audio/mpeg"
+      },
+      "zh-CN": {
+        "url": "./assets/audio-releases/kokoro-mandarin-zf001-v1-b2e9a267994c/zh-color-teal.mp3",
+        "sha256": "d956e3c4dc508548c074becdd1da364865321f187124f2bbfda785abc85266ac",
+        "text": "蓝绿色",
+        "language": "zh-CN",
+        "bytes": 17900,
+        "mime": "audio/mpeg"
+      }
+    }
+  },
+  "wordAudioMetadata": {
+    "schemaVersion": 1,
+    "sequenceGapMs": 320,
+    "mandarinReleaseId": "kokoro-mandarin-zf001-v1-b2e9a267994c",
+    "profileHash": "7eb17fc7dc2597eb5a40603c2f754927da09f96ec0f945247e612454ba868565",
+    "profile": {
+      "schemaVersion": 1,
+      "id": "kokoro-mandarin-zf001-v1",
+      "version": "1.0.0",
+      "provider": "kokoro-local",
+      "model": {
+        "repository": "hexgrad/Kokoro-82M-v1.1-zh",
+        "revision": "01e7505bd6a7a2ac4975463114c3a7650a9f7218",
+        "files": [
+          {
+            "name": "config.json",
+            "sha256": "bc333efa5ce4ceff433c8c8e5d027a1eca0166001e4e4a62bea2d26ff7a46890"
+          },
+          {
+            "name": "kokoro-v1_1-zh.pth",
+            "sha256": "b1d8410fa44dfb5c15471fd6c4225ea6b4e9ac7fa03c98e8bea47a9928476e2b"
+          },
+          {
+            "name": "voices/zf_001.pt",
+            "sha256": "9bdc9a87e13e9bb1ea3e7803259c2ecbfebaeeb2ff80b5d0c76df1a464c1c962"
+          }
+        ]
+      },
+      "voice": "zf_001",
+      "language": "zh-CN",
+      "languageCode": "z",
+      "speed": 0.9,
+      "inference": {
+        "device": "cpu",
+        "dtype": "float32",
+        "seed": 20261011,
+        "seedMode": "per-text",
+        "threads": 1
+      },
+      "readings": {},
+      "export": {
+        "format": "mp3",
+        "sampleRate": 24000,
+        "channels": 1,
+        "pcmSubtype": "PCM_16",
+        "bitRate": "96k",
+        "peakDb": -1,
+        "paddingSeconds": 0,
+        "trim": false
+      },
+      "dependencies": {
+        "kokoro": "0.9.4",
+        "misaki": "0.9.4",
+        "numpy": "2.4.6",
+        "soundfile": "0.14.0",
+        "huggingface_hub": "2.2.0",
+        "torch": "2.14.1",
+        "spacy": "3.8.16",
+        "en-core-web-sm": "3.8.0",
+        "espeakng-loader": "0.2.4",
+        "cn2an": "0.5.24",
+        "jieba": "0.42.1",
+        "ordered-set": "4.1.0",
+        "pypinyin": "0.55.0",
+        "pypinyin-dict": "0.9.0",
+        "proces": "0.1.7"
+      },
+      "ffmpegVersion": "9.0.1",
+      "license": {
+        "name": "Apache-2.0",
+        "modelURL": "https://huggingface.co/hexgrad/Kokoro-82M-v1.1-zh",
+        "implementationURL": "https://github.com/hexgrad/kokoro",
+        "referenceDemo": "https://huggingface.co/spaces/hexgrad/Kokoro-TTS"
+      },
+      "scope": "Chinese translations of active generic word/color cards only; Mandarin-specific zf_001 voice; no sentence translations, recordings, voice cloning or runtime AI",
+      "listeningStatus": "not-human-listened"
+    },
+    "machineValidation": {
+      "machinePassed": true,
+      "clips": 82,
+      "warnings": [],
+      "listening": {
+        "status": "pending",
+        "claim": "Machine checks are not an auditory quality review"
+      }
+    },
+    "humanListeningPerformed": false,
+    "scope": "Active word/color cards only; no sentence translations or quiz-answer hints",
+    "englishReleaseId": "active11-fb4039329d7d6de1"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 1,
+  "id": "at-home",
+  "version": "1.7.0",
+  "title": "我的家",
+  "catalog": "catalog.v1.json",
+  "resources": [
+    {
+      "path": "audio/bed.mp3",
+      "sha256": "05017c1f887ab5f84adad8a35a07944671a3637e9101de9ce665651b70efd8be",
+      "mime": "audio/mpeg",
+      "bytes": 18476
+    },
+    {
+      "path": "audio/door.mp3",
+      "sha256": "4fffef301a41ccc75f30d061e5bbb2c2d96ac5daac46b2b1e6cfdfcb739b99d1",
+      "mime": "audio/mpeg",
+      "bytes": 18476
+    },
+    {
+      "path": "audio/lamp.mp3",
+      "sha256": "57437a2cbffcbd2e420c8ebbbd4f2b6a6f3f9a79ee1197f81e7c3db42f31b39e",
+      "mime": "audio/mpeg",
+      "bytes": 18764
+    },
+    {
+      "path": "audio/this-is-my-bed.mp3",
+      "sha256": "39d166c24ce7e160eea252e168e37ba59b34dd8e10387a3a4fed29806a52371f",
+      "mime": "audio/mpeg",
+      "bytes": 23372
+    },
+    {
+      "path": "audio/zh-bed.mp3",
+      "sha256": "60682c7ccf5db8d5e0b6290124b18752b1a509ec0b6976e876869eaea0305074",
+      "mime": "audio/mpeg",
+      "bytes": 11276
+    },
+    {
+      "path": "audio/zh-door.mp3",
+      "sha256": "c0add69173e710e668813a40e98698fe63292e3b711368c2c4a192a13a08a63a",
+      "mime": "audio/mpeg",
+      "bytes": 10700
+    },
+    {
+      "path": "audio/zh-lamp.mp3",
+      "sha256": "b8facc627f8facaa7869664726d4f88a53274cb118ad764afb5cbe2093731e9b",
+      "mime": "audio/mpeg",
+      "bytes": 10124
+    },
+    {
+      "path": "audio-manifest.v1.json",
+      "sha256": "f999baa91e7f02f17787218bf100971af7d03c294dad1adc24115015911e783f",
+      "mime": "application/json",
+      "bytes": 77647
+    },
+    {
+      "path": "catalog.v1.json",
+      "sha256": "88a68c57ca38f4a35bc90a999952fff2c511e4f6ae2e3f38afd15f467068a308",
+      "mime": "application/json",
+      "bytes": 15478
+    },
+    {
+      "path": "colors.v1.json",
+      "sha256": "e35e0a13024649a91e199059fa969c27dc793e8a6ea77a46b98ea6754315154d",
+      "mime": "application/json",
+      "bytes": 13616
+    },
+    {
+      "path": "courses.v1.json",
+      "sha256": "b9708d819782db8cbe5c182abce2ed004c7c9c9df46c120c9a140056748c22e4",
+      "mime": "application/json",
+      "bytes": 15982
+    },
+    {
+      "path": "images/bed.png",
+      "sha256": "858822ece509977862301c8ca70cadd30d938e611948e27c9302ed31eec1d55b",
+      "mime": "image/png",
+      "bytes": 12574
+    },
+    {
+      "path": "images/door.png",
+      "sha256": "f8343888609cd3dfccbb1af25e7c1d1f9ab3f0ef56ea5e26b133b380b3af6b74",
+      "mime": "image/png",
+      "bytes": 8579
+    },
+    {
+      "path": "images/lamp.png",
+      "sha256": "74cb46a990073af292e50a687016db7a423c0a30285ab50693a25f8b71e44786",
+      "mime": "image/png",
+      "bytes": 20188
+    },
+    {
+      "path": "licenses.v1.json",
+      "sha256": "29f46c469fcd6cb60600cee2f3a6f14c5f8e47d38925828e4739344f1214f71b",
+      "mime": "application/json",
+      "bytes": 15134
+    },
+    {
+      "path": "resource-contract.json",
+      "sha256": "b576cd5e76c21fe5d678029bb11f85322e0211335907159adc29e26c4ebfa812",
+      "mime": "application/json",
+      "bytes": 3641
+    }
+  ]
+}
