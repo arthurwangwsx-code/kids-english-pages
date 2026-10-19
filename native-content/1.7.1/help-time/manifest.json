@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 1,
+  "id": "help-time",
+  "version": "1.7.1",
+  "title": "请帮帮我",
+  "catalog": "catalog.v1.json",
+  "resources": [
+    {
+      "path": "audio/help-please.mp3",
+      "sha256": "2abfe90707a7626c977a6394dc7498e7294a2e4c32785c57ac4380f9640148db",
+      "mime": "audio/mpeg",
+      "bytes": 17972
+    },
+    {
+      "path": "audio/help.mp3",
+      "sha256": "a918362d80eb337b04ee62fb3bb4ab87144c279924b3b691a1f115e27f421d9c",
+      "mime": "audio/mpeg",
+      "bytes": 13268
+    },
+    {
+      "path": "audio/open.mp3",
+      "sha256": "df0d0c8de2386cacfe896160e3bcd9d4b3c3b215e53c7956808e38e83cbc4f87",
+      "mime": "audio/mpeg",
+      "bytes": 15068
+    },
+    {
+      "path": "audio/stop.mp3",
+      "sha256": "7d940f13fbd90da974593210eaed64a1725615ad405b3890ab2dbf2ca642aac9",
+      "mime": "audio/mpeg",
+      "bytes": 13484
+    },
+    {
+      "path": "audio/zh-help.mp3",
+      "sha256": "9819db32e1be065a5b067bf578bea23617d1fd74112ac9079f7a96b5f979e188",
+      "mime": "audio/mpeg",
+      "bytes": 13868
+    },
+    {
+      "path": "audio/zh-open.mp3",
+      "sha256": "85af435ee0e04dabb1af667b3a83f7a5c8d6a48c3b00de0596d7497184b0b62a",
+      "mime": "audio/mpeg",
+      "bytes": 13004
+    },
+    {
+      "path": "audio/zh-stop.mp3",
+      "sha256": "08a9fc7bb5da5a57aaec5156eecbaee949fcdcb3883d3b60b9521a844c21ef76",
+      "mime": "audio/mpeg",
+      "bytes": 14444
+    },
+    {
+      "path": "audio-manifest.v1.json",
+      "sha256": "f999baa91e7f02f17787218bf100971af7d03c294dad1adc24115015911e783f",
+      "mime": "application/json",
+      "bytes": 77647
+    },
+    {
+      "path": "catalog.v1.json",
+      "sha256": "c78e603a0586e155fcfbed0cd102f8e054d6c662d70f46ccd466a83807ce8927",
+      "mime": "application/json",
+      "bytes": 15502
+    },
+    {
+      "path": "colors.v1.json",
+      "sha256": "e35e0a13024649a91e199059fa969c27dc793e8a6ea77a46b98ea6754315154d",
+      "mime": "application/json",
+      "bytes": 13616
+    },
+    {
+      "path": "courses.v1.json",
+      "sha256": "20210406b55f11973fdb144b6e19c82b96e06335773260642bed405ad09e3f99",
+      "mime": "application/json",
+      "bytes": 16006
+    },
+    {
+      "path": "images/help.png",
+      "sha256": "5be3426820619e8bec327f2a93b294fdcd2a2642177bf03c0ad29c11c62e9a07",
+      "mime": "image/png",
+      "bytes": 25607
+    },
+    {
+      "path": "images/open.png",
+      "sha256": "0b7a5ca072a74ee16aa4565ca173c6f2db0e88fddb8971421a907eeb4434b4c5",
+      "mime": "image/png",
+      "bytes": 27473
+    },
+    {
+      "path": "images/stop.png",
+      "sha256": "7f2c5120a3d56d2346d603b27b582e637f7803f7a002583c229b2b8864a495c4",
+      "mime": "image/png",
+      "bytes": 18870
+    },
+    {
+      "path": "licenses.v1.json",
+      "sha256": "3dd6a10813373075f9a8da2c6dcc830edecc252fd070103ee51f4eab1e7538cf",
+      "mime": "application/json",
+      "bytes": 15134
+    },
+    {
+      "path": "resource-contract.json",
+      "sha256": "79d310d86fc9e248770d53868f1948c70b1e6402264667a398736e62eda54731",
+      "mime": "application/json",
+      "bytes": 3511
+    }
+  ]
+}

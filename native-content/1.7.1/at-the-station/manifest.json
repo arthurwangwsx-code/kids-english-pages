@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 1,
+  "id": "at-the-station",
+  "version": "1.7.1",
+  "title": "乘轨道交通",
+  "catalog": "catalog.v1.json",
+  "resources": [
+    {
+      "path": "audio/gate.mp3",
+      "sha256": "1c7fc8fb80b1fb4d290037eb214fd018c22450673db5b95dd59e757fb9a8ec4b",
+      "mime": "audio/mpeg",
+      "bytes": 18764
+    },
+    {
+      "path": "audio/lets-sit-down.mp3",
+      "sha256": "6fb54c58860c5a069dada8184cc041f871775746cd48e9b5b903e8266182aca8",
+      "mime": "audio/mpeg",
+      "bytes": 23948
+    },
+    {
+      "path": "audio/seat.mp3",
+      "sha256": "8a04282b292f15a3e21b9713d7aba608c94b3dd1b89ccd5368d30f652cb133bf",
+      "mime": "audio/mpeg",
+      "bytes": 18764
+    },
+    {
+      "path": "audio/station.mp3",
+      "sha256": "c4f9b9aac855b1b410d10aefaa2a3bfb044920495b83c9c25551f19f8436b2a8",
+      "mime": "audio/mpeg",
+      "bytes": 20492
+    },
+    {
+      "path": "audio/zh-gate.mp3",
+      "sha256": "b27874ab84f2a44a957a24b1882b701777310bda4e1542252dca141eab2e78d7",
+      "mime": "audio/mpeg",
+      "bytes": 14156
+    },
+    {
+      "path": "audio/zh-seat.mp3",
+      "sha256": "c08ec470db07f4e7988a45a02b7e0bb3854c2e4505f93ec6190faa3a8b57fb18",
+      "mime": "audio/mpeg",
+      "bytes": 13292
+    },
+    {
+      "path": "audio/zh-station.mp3",
+      "sha256": "9fa33aa40617395abcc764fa8524c4fae7457bfab6a59b32fb590597e41d3f7c",
+      "mime": "audio/mpeg",
+      "bytes": 13580
+    },
+    {
+      "path": "audio-manifest.v1.json",
+      "sha256": "f999baa91e7f02f17787218bf100971af7d03c294dad1adc24115015911e783f",
+      "mime": "application/json",
+      "bytes": 77647
+    },
+    {
+      "path": "catalog.v1.json",
+      "sha256": "c78e603a0586e155fcfbed0cd102f8e054d6c662d70f46ccd466a83807ce8927",
+      "mime": "application/json",
+      "bytes": 15502
+    },
+    {
+      "path": "colors.v1.json",
+      "sha256": "e35e0a13024649a91e199059fa969c27dc793e8a6ea77a46b98ea6754315154d",
+      "mime": "application/json",
+      "bytes": 13616
+    },
+    {
+      "path": "courses.v1.json",
+      "sha256": "20210406b55f11973fdb144b6e19c82b96e06335773260642bed405ad09e3f99",
+      "mime": "application/json",
+      "bytes": 16006
+    },
+    {
+      "path": "images/gate.png",
+      "sha256": "0dc2b7cf44f8baaff64069e553eaaa86d08245621106db81f004599325612e0c",
+      "mime": "image/png",
+      "bytes": 16717
+    },
+    {
+      "path": "images/seat.png",
+      "sha256": "7506b61e3bd69cab25514193c69f3ec95e4e276acef356e276a3a113b96b3377",
+      "mime": "image/png",
+      "bytes": 13395
+    },
+    {
+      "path": "images/station.png",
+      "sha256": "099c504976911e0100e34f73043b050993edf3899725547882f828c3f5e4aca8",
+      "mime": "image/png",
+      "bytes": 15082
+    },
+    {
+      "path": "licenses.v1.json",
+      "sha256": "3dd6a10813373075f9a8da2c6dcc830edecc252fd070103ee51f4eab1e7538cf",
+      "mime": "application/json",
+      "bytes": 15134
+    },
+    {
+      "path": "resource-contract.json",
+      "sha256": "d9c8433414e36b18047073cc8ba5c450456d88bdb16dde80b8143cee6e0f619e",
+      "mime": "application/json",
+      "bytes": 3670
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "courseVersion": "1.7.1",
+  "renderer": "librsvg / rsvg-convert; 720px original SVG rasterization",
+  "sourceFiles": {
+    "AUDIO-SOURCES.txt": "0300553a80ad678819854a39ee05dde7d2605976688edf9713b8838945a65234",
+    "KOKORO-LICENSE.txt": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+    "assets/audio-releases/append-fb4039329d7d6de1/gate.mp3": "1c7fc8fb80b1fb4d290037eb214fd018c22450673db5b95dd59e757fb9a8ec4b",
+    "assets/audio-releases/append-fb4039329d7d6de1/lets-sit-down.mp3": "6fb54c58860c5a069dada8184cc041f871775746cd48e9b5b903e8266182aca8",
+    "assets/audio-releases/append-fb4039329d7d6de1/seat.mp3": "8a04282b292f15a3e21b9713d7aba608c94b3dd1b89ccd5368d30f652cb133bf",
+    "assets/audio-releases/append-fb4039329d7d6de1/station.mp3": "c4f9b9aac855b1b410d10aefaa2a3bfb044920495b83c9c25551f19f8436b2a8",
+    "assets/audio-releases/kokoro-mandarin-zf001-v1-b2e9a267994c/zh-gate.mp3": "b27874ab84f2a44a957a24b1882b701777310bda4e1542252dca141eab2e78d7",
+    "assets/audio-releases/kokoro-mandarin-zf001-v1-b2e9a267994c/zh-seat.mp3": "c08ec470db07f4e7988a45a02b7e0bb3854c2e4505f93ec6190faa3a8b57fb18",
+    "assets/audio-releases/kokoro-mandarin-zf001-v1-b2e9a267994c/zh-station.mp3": "9fa33aa40617395abcc764fa8524c4fae7457bfab6a59b32fb590597e41d3f7c",
+    "assets/icon.svg": "078c3a5b5872e5121b174b9aaa62c8d63be9a2a1d1de9a8be8be15ebf0a66047",
+    "assets/images/gate.svg": "36215500fb0295c689ff5ec68c7f108872b00f9908918590fc431e6f8a810340",
+    "assets/images/seat.svg": "e2ede462ac18519d9a3a99f3f7108d86ac87f697c02ff35bf7fbfeb311d322ce",
+    "assets/images/station.svg": "e308506d024cc5210eae1119d917769ae65f54a852a1a20bcc5db9a3670503bd",
+    "audio-manifest.v1.json": "f999baa91e7f02f17787218bf100971af7d03c294dad1adc24115015911e783f",
+    "catalog.v1.json": "c78e603a0586e155fcfbed0cd102f8e054d6c662d70f46ccd466a83807ce8927",
+    "colors.v1.json": "e35e0a13024649a91e199059fa969c27dc793e8a6ea77a46b98ea6754315154d",
+    "courses.v1.json": "20210406b55f11973fdb144b6e19c82b96e06335773260642bed405ad09e3f99"
+  },
+  "files": {
+    "audio/gate.mp3": "1c7fc8fb80b1fb4d290037eb214fd018c22450673db5b95dd59e757fb9a8ec4b",
+    "audio/lets-sit-down.mp3": "6fb54c58860c5a069dada8184cc041f871775746cd48e9b5b903e8266182aca8",
+    "audio/seat.mp3": "8a04282b292f15a3e21b9713d7aba608c94b3dd1b89ccd5368d30f652cb133bf",
+    "audio/station.mp3": "c4f9b9aac855b1b410d10aefaa2a3bfb044920495b83c9c25551f19f8436b2a8",
+    "audio/zh-gate.mp3": "b27874ab84f2a44a957a24b1882b701777310bda4e1542252dca141eab2e78d7",
+    "audio/zh-seat.mp3": "c08ec470db07f4e7988a45a02b7e0bb3854c2e4505f93ec6190faa3a8b57fb18",
+    "audio/zh-station.mp3": "9fa33aa40617395abcc764fa8524c4fae7457bfab6a59b32fb590597e41d3f7c",
+    "audio-manifest.v1.json": "f999baa91e7f02f17787218bf100971af7d03c294dad1adc24115015911e783f",
+    "catalog.v1.json": "c78e603a0586e155fcfbed0cd102f8e054d6c662d70f46ccd466a83807ce8927",
+    "colors.v1.json": "e35e0a13024649a91e199059fa969c27dc793e8a6ea77a46b98ea6754315154d",
+    "courses.v1.json": "20210406b55f11973fdb144b6e19c82b96e06335773260642bed405ad09e3f99",
+    "images/gate.png": "0dc2b7cf44f8baaff64069e553eaaa86d08245621106db81f004599325612e0c",
+    "images/seat.png": "7506b61e3bd69cab25514193c69f3ec95e4e276acef356e276a3a113b96b3377",
+    "images/station.png": "099c504976911e0100e34f73043b050993edf3899725547882f828c3f5e4aca8",
+    "licenses.v1.json": "3dd6a10813373075f9a8da2c6dcc830edecc252fd070103ee51f4eab1e7538cf"
+  },
+  "resourceSelection": {
+    "schemaVersion": 1,
+    "mode": "subset",
+    "lessonIds": [
+      "at-the-station"
+    ],
+    "colorIds": [],
+    "railIds": [],
+    "includeNeeds": false
+  }
+}

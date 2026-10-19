@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 1,
+  "id": "wash-hands",
+  "version": "1.7.1",
+  "title": "洗手时间",
+  "catalog": "catalog.v1.json",
+  "resources": [
+    {
+      "path": "audio/hands.mp3",
+      "sha256": "5a9a72fc13c09a10d358539c4ccbe0040e7705569bf690842f85eb2b02e58079",
+      "mime": "audio/mpeg",
+      "bytes": 20204
+    },
+    {
+      "path": "audio/lets-wash-our-hands.mp3",
+      "sha256": "10e0f32f727709c5f67da31c9f27bcda762b5fcc4848f7a803dd3320fca91196",
+      "mime": "audio/mpeg",
+      "bytes": 25388
+    },
+    {
+      "path": "audio/soap.mp3",
+      "sha256": "7cf2dc44a27cf6c508cc30a829068f887e58248bb82802bef732a6ebe860c18c",
+      "mime": "audio/mpeg",
+      "bytes": 18764
+    },
+    {
+      "path": "audio/towel.mp3",
+      "sha256": "0331438fb526a24728bb9183630ebd3b8b2b4ae50aa5d02341f9205964cda073",
+      "mime": "audio/mpeg",
+      "bytes": 18764
+    },
+    {
+      "path": "audio/zh-hands.mp3",
+      "sha256": "35290900d723c0d7c329cd69b5f1e09514be73f9b2f482efa75f7d309d6fe825",
+      "mime": "audio/mpeg",
+      "bytes": 14732
+    },
+    {
+      "path": "audio/zh-soap.mp3",
+      "sha256": "261de6edf19575507d47fb69ae13ad570b32e91dca94f83ddca689d0fba6ba9d",
+      "mime": "audio/mpeg",
+      "bytes": 13292
+    },
+    {
+      "path": "audio/zh-towel.mp3",
+      "sha256": "97b759488b08449a0b43c9a37d2ca783f7b329f805a6d04b5c7bed2f2b20f750",
+      "mime": "audio/mpeg",
+      "bytes": 14156
+    },
+    {
+      "path": "audio-manifest.v1.json",
+      "sha256": "f999baa91e7f02f17787218bf100971af7d03c294dad1adc24115015911e783f",
+      "mime": "application/json",
+      "bytes": 77647
+    },
+    {
+      "path": "catalog.v1.json",
+      "sha256": "c78e603a0586e155fcfbed0cd102f8e054d6c662d70f46ccd466a83807ce8927",
+      "mime": "application/json",
+      "bytes": 15502
+    },
+    {
+      "path": "colors.v1.json",
+      "sha256": "e35e0a13024649a91e199059fa969c27dc793e8a6ea77a46b98ea6754315154d",
+      "mime": "application/json",
+      "bytes": 13616
+    },
+    {
+      "path": "courses.v1.json",
+      "sha256": "20210406b55f11973fdb144b6e19c82b96e06335773260642bed405ad09e3f99",
+      "mime": "application/json",
+      "bytes": 16006
+    },
+    {
+      "path": "images/hands.png",
+      "sha256": "9116ab5cb20f5469ee2b848cbe18f8ed470689e8c86bc3352d028c32ed58f626",
+      "mime": "image/png",
+      "bytes": 41235
+    },
+    {
+      "path": "images/soap.png",
+      "sha256": "6a78930f96ec29378f4e87c15baee2b749b305cbc896f46c5d5f73fbf596fdbb",
+      "mime": "image/png",
+      "bytes": 24468
+    },
+    {
+      "path": "images/towel.png",
+      "sha256": "66ad282c8ff45c1e1a1b5e67ac2af8b91d50706623790f7da0c1caa995db2f72",
+      "mime": "image/png",
+      "bytes": 8107
+    },
+    {
+      "path": "licenses.v1.json",
+      "sha256": "3dd6a10813373075f9a8da2c6dcc830edecc252fd070103ee51f4eab1e7538cf",
+      "mime": "application/json",
+      "bytes": 15134
+    },
+    {
+      "path": "resource-contract.json",
+      "sha256": "a3d647788345c351dd3006bee6e9c303b0128c5896a11406ccacf464f254bd6f",
+      "mime": "application/json",
+      "bytes": 3672
+    }
+  ]
+}

@@ -1,0 +1,481 @@
+{
+  "schemaVersion": 1,
+  "version": "1.0.0",
+  "first": [
+    "red",
+    "yellow",
+    "blue",
+    "green",
+    "orange",
+    "purple"
+  ],
+  "next": [
+    "pink",
+    "brown",
+    "black",
+    "white",
+    "gray"
+  ],
+  "colors": [
+    {
+      "id": "red",
+      "en": "Red",
+      "zh": "红色",
+      "hex": "#E52D45",
+      "family": "red",
+      "tier": 1,
+      "audioId": "color-red",
+      "image": "assets/images/color-red.svg",
+      "life": "和家长找一件红色玩具。"
+    },
+    {
+      "id": "yellow",
+      "en": "Yellow",
+      "zh": "黄色",
+      "hex": "#FFD43B",
+      "family": "yellow",
+      "tier": 1,
+      "audioId": "color-yellow",
+      "image": "assets/images/color-yellow.svg",
+      "life": "找找黄色的积木或熟香蕉。"
+    },
+    {
+      "id": "blue",
+      "en": "Blue",
+      "zh": "蓝色",
+      "hex": "#2877C9",
+      "family": "blue",
+      "tier": 1,
+      "audioId": "color-blue",
+      "image": "assets/images/color-blue.svg",
+      "life": "找找蓝色的杯子或衣服。"
+    },
+    {
+      "id": "green",
+      "en": "Green",
+      "zh": "绿色",
+      "hex": "#43A362",
+      "family": "green",
+      "tier": 1,
+      "audioId": "color-green",
+      "image": "assets/images/color-green.svg",
+      "life": "和家长看看绿色的叶子，不采摘、不入口。"
+    },
+    {
+      "id": "orange",
+      "en": "Orange",
+      "zh": "橙色",
+      "hex": "#F58B34",
+      "family": "orange",
+      "tier": 1,
+      "audioId": "color-orange",
+      "image": "assets/images/color-orange.svg",
+      "life": "找找橙色的玩具或橙子。"
+    },
+    {
+      "id": "purple",
+      "en": "Purple",
+      "zh": "紫色",
+      "hex": "#8858BA",
+      "family": "purple",
+      "tier": 1,
+      "audioId": "color-purple",
+      "image": "assets/images/color-purple.svg",
+      "life": "找找紫色的图画或积木。"
+    },
+    {
+      "id": "pink",
+      "en": "Pink",
+      "zh": "粉色",
+      "hex": "#EE9DB7",
+      "family": "pink",
+      "tier": 2,
+      "audioId": "color-pink",
+      "image": "assets/images/color-pink.svg",
+      "life": "看看衣服或图画里有没有粉色。"
+    },
+    {
+      "id": "brown",
+      "en": "Brown",
+      "zh": "棕色",
+      "hex": "#956442",
+      "family": "brown",
+      "tier": 2,
+      "audioId": "color-brown",
+      "image": "assets/images/color-brown.svg",
+      "life": "找找棕色的纸盒或木桌。"
+    },
+    {
+      "id": "black",
+      "en": "Black",
+      "zh": "黑色",
+      "hex": "#25262C",
+      "family": "black",
+      "tier": 2,
+      "audioId": "color-black",
+      "image": "assets/images/color-black.svg",
+      "life": "找找书上黑色的字。"
+    },
+    {
+      "id": "white",
+      "en": "White",
+      "zh": "白色",
+      "hex": "#F9F8F1",
+      "family": "white",
+      "tier": 2,
+      "audioId": "color-white",
+      "image": "assets/images/color-white.svg",
+      "life": "看看一张白纸；白色也有深浅。"
+    },
+    {
+      "id": "gray",
+      "en": "Gray",
+      "zh": "灰色",
+      "hex": "#92969B",
+      "family": "gray",
+      "tier": 2,
+      "audioId": "color-gray",
+      "image": "assets/images/color-gray.svg",
+      "life": "找找灰色的布或安全的玩具。"
+    },
+    {
+      "id": "light-red",
+      "en": "Light red",
+      "zh": "浅红色",
+      "hex": "#F39B9E",
+      "family": "red",
+      "tier": 3,
+      "audioId": "color-light-red",
+      "image": "assets/images/color-light-red.svg",
+      "life": "和家长看看实物或图画中相近的颜色。叫法不一样也没关系。"
+    },
+    {
+      "id": "dark-red",
+      "en": "Dark red",
+      "zh": "深红色",
+      "hex": "#9C2837",
+      "family": "red",
+      "tier": 3,
+      "audioId": "color-dark-red",
+      "image": "assets/images/color-dark-red.svg",
+      "life": "和家长看看实物或图画中相近的颜色。叫法不一样也没关系。"
+    },
+    {
+      "id": "coral",
+      "en": "Coral",
+      "zh": "珊瑚色",
+      "hex": "#F27B6C",
+      "family": "red",
+      "tier": 3,
+      "audioId": "color-coral",
+      "image": "assets/images/color-coral.svg",
+      "life": "和家长看看实物或图画中相近的颜色。叫法不一样也没关系。"
+    },
+    {
+      "id": "maroon",
+      "en": "Maroon",
+      "zh": "酒红色",
+      "hex": "#7E253A",
+      "family": "red",
+      "tier": 3,
+      "audioId": "color-maroon",
+      "image": "assets/images/color-maroon.svg",
+      "life": "和家长看看实物或图画中相近的颜色。叫法不一样也没关系。"
+    },
+    {
+      "id": "light-yellow",
+      "en": "Light yellow",
+      "zh": "浅黄色",
+      "hex": "#FFF2AB",
+      "family": "yellow",
+      "tier": 3,
+      "audioId": "color-light-yellow",
+      "image": "assets/images/color-light-yellow.svg",
+      "life": "和家长看看实物或图画中相近的颜色。叫法不一样也没关系。"
+    },
+    {
+      "id": "gold",
+      "en": "Gold",
+      "zh": "金黄色",
+      "hex": "#D5AA32",
+      "family": "yellow",
+      "tier": 3,
+      "audioId": "color-gold",
+      "image": "assets/images/color-gold.svg",
+      "life": "和家长看看实物或图画中相近的颜色。叫法不一样也没关系。"
+    },
+    {
+      "id": "light-blue",
+      "en": "Light blue",
+      "zh": "浅蓝色",
+      "hex": "#A2CDE8",
+      "family": "blue",
+      "tier": 3,
+      "audioId": "color-light-blue",
+      "image": "assets/images/color-light-blue.svg",
+      "life": "和家长看看实物或图画中相近的颜色。叫法不一样也没关系。"
+    },
+    {
+      "id": "dark-blue",
+      "en": "Dark blue",
+      "zh": "深蓝色",
+      "hex": "#24538E",
+      "family": "blue",
+      "tier": 3,
+      "audioId": "color-dark-blue",
+      "image": "assets/images/color-dark-blue.svg",
+      "life": "和家长看看实物或图画中相近的颜色。叫法不一样也没关系。"
+    },
+    {
+      "id": "sky-blue",
+      "en": "Sky blue",
+      "zh": "天蓝色",
+      "hex": "#73BFE5",
+      "family": "blue",
+      "tier": 3,
+      "audioId": "color-sky-blue",
+      "image": "assets/images/color-sky-blue.svg",
+      "life": "和家长看看实物或图画中相近的颜色。叫法不一样也没关系。"
+    },
+    {
+      "id": "navy",
+      "en": "Navy",
+      "zh": "海军蓝",
+      "hex": "#253753",
+      "family": "blue",
+      "tier": 3,
+      "audioId": "color-navy",
+      "image": "assets/images/color-navy.svg",
+      "life": "和家长看看实物或图画中相近的颜色。叫法不一样也没关系。"
+    },
+    {
+      "id": "light-green",
+      "en": "Light green",
+      "zh": "浅绿色",
+      "hex": "#B7DFA2",
+      "family": "green",
+      "tier": 3,
+      "audioId": "color-light-green",
+      "image": "assets/images/color-light-green.svg",
+      "life": "和家长看看实物或图画中相近的颜色。叫法不一样也没关系。"
+    },
+    {
+      "id": "dark-green",
+      "en": "Dark green",
+      "zh": "深绿色",
+      "hex": "#256342",
+      "family": "green",
+      "tier": 3,
+      "audioId": "color-dark-green",
+      "image": "assets/images/color-dark-green.svg",
+      "life": "和家长看看实物或图画中相近的颜色。叫法不一样也没关系。"
+    },
+    {
+      "id": "lime",
+      "en": "Lime",
+      "zh": "青柠绿",
+      "hex": "#89C83C",
+      "family": "green",
+      "tier": 3,
+      "audioId": "color-lime",
+      "image": "assets/images/color-lime.svg",
+      "life": "和家长看看实物或图画中相近的颜色。叫法不一样也没关系。"
+    },
+    {
+      "id": "olive",
+      "en": "Olive",
+      "zh": "橄榄绿",
+      "hex": "#858B3D",
+      "family": "green",
+      "tier": 3,
+      "audioId": "color-olive",
+      "image": "assets/images/color-olive.svg",
+      "life": "和家长看看实物或图画中相近的颜色。叫法不一样也没关系。"
+    },
+    {
+      "id": "light-orange",
+      "en": "Light orange",
+      "zh": "浅橙色",
+      "hex": "#F8C395",
+      "family": "orange",
+      "tier": 3,
+      "audioId": "color-light-orange",
+      "image": "assets/images/color-light-orange.svg",
+      "life": "和家长看看实物或图画中相近的颜色。叫法不一样也没关系。"
+    },
+    {
+      "id": "dark-orange",
+      "en": "Dark orange",
+      "zh": "深橙色",
+      "hex": "#C5682C",
+      "family": "orange",
+      "tier": 3,
+      "audioId": "color-dark-orange",
+      "image": "assets/images/color-dark-orange.svg",
+      "life": "和家长看看实物或图画中相近的颜色。叫法不一样也没关系。"
+    },
+    {
+      "id": "light-purple",
+      "en": "Light purple",
+      "zh": "浅紫色",
+      "hex": "#CDB1E6",
+      "family": "purple",
+      "tier": 3,
+      "audioId": "color-light-purple",
+      "image": "assets/images/color-light-purple.svg",
+      "life": "和家长看看实物或图画中相近的颜色。叫法不一样也没关系。"
+    },
+    {
+      "id": "dark-purple",
+      "en": "Dark purple",
+      "zh": "深紫色",
+      "hex": "#603B83",
+      "family": "purple",
+      "tier": 3,
+      "audioId": "color-dark-purple",
+      "image": "assets/images/color-dark-purple.svg",
+      "life": "和家长看看实物或图画中相近的颜色。叫法不一样也没关系。"
+    },
+    {
+      "id": "lavender",
+      "en": "Lavender",
+      "zh": "薰衣草紫",
+      "hex": "#C5B9DC",
+      "family": "purple",
+      "tier": 3,
+      "audioId": "color-lavender",
+      "image": "assets/images/color-lavender.svg",
+      "life": "和家长看看实物或图画中相近的颜色。叫法不一样也没关系。"
+    },
+    {
+      "id": "light-pink",
+      "en": "Light pink",
+      "zh": "浅粉色",
+      "hex": "#F7D4DF",
+      "family": "pink",
+      "tier": 3,
+      "audioId": "color-light-pink",
+      "image": "assets/images/color-light-pink.svg",
+      "life": "和家长看看实物或图画中相近的颜色。叫法不一样也没关系。"
+    },
+    {
+      "id": "dark-pink",
+      "en": "Dark pink",
+      "zh": "深粉色",
+      "hex": "#C85B8B",
+      "family": "pink",
+      "tier": 3,
+      "audioId": "color-dark-pink",
+      "image": "assets/images/color-dark-pink.svg",
+      "life": "和家长看看实物或图画中相近的颜色。叫法不一样也没关系。"
+    },
+    {
+      "id": "light-brown",
+      "en": "Light brown",
+      "zh": "浅棕色",
+      "hex": "#C4A381",
+      "family": "brown",
+      "tier": 3,
+      "audioId": "color-light-brown",
+      "image": "assets/images/color-light-brown.svg",
+      "life": "和家长看看实物或图画中相近的颜色。叫法不一样也没关系。"
+    },
+    {
+      "id": "dark-brown",
+      "en": "Dark brown",
+      "zh": "深棕色",
+      "hex": "#5C4033",
+      "family": "brown",
+      "tier": 3,
+      "audioId": "color-dark-brown",
+      "image": "assets/images/color-dark-brown.svg",
+      "life": "和家长看看实物或图画中相近的颜色。叫法不一样也没关系。"
+    },
+    {
+      "id": "teal",
+      "en": "Teal",
+      "zh": "蓝绿色",
+      "hex": "#278C8C",
+      "family": "blue-green",
+      "tier": 3,
+      "audioId": "color-teal",
+      "image": "assets/images/color-teal.svg",
+      "life": "蓝与绿之间可以有很多叫法。"
+    }
+  ],
+  "rail": {
+    "verifiedOn": "2026-10-18",
+    "sourcePage": "https://www.mymrt.com.my/projects/travel-with-mrt/",
+    "sourcePDF": "https://www.mymrt.com.my/wp-content/uploads/2026/07/Network-Alignment-Map-2026.pdf",
+    "sourceTitle": "MRT Corp · Network Alignment Map 2026",
+    "note": "已实际查看该版图例。以下是已运营线路的原创学习色卡，不是导航图；线路标识色不等于车身颜色。HEX 是近似教学样本，不是官方色值规范。色名边界会重叠，屏幕也会有色差。出行请另查运营方最新资讯。",
+    "lines": [
+      {
+        "id": "ampang",
+        "number": "3",
+        "name": "LRT Ampang Line",
+        "zh": "安邦线",
+        "mode": "LRT",
+        "color": "orange",
+        "family": "orange",
+        "hex": "#F37619",
+        "colorName": "Orange · 橙色"
+      },
+      {
+        "id": "sri-petaling",
+        "number": "4",
+        "name": "LRT Sri Petaling Line",
+        "zh": "大城堡线",
+        "mode": "LRT",
+        "color": "maroon",
+        "family": "red",
+        "hex": "#852638",
+        "colorName": "Maroon · 酒红色"
+      },
+      {
+        "id": "kelana-jaya",
+        "number": "5",
+        "name": "LRT Kelana Jaya Line",
+        "zh": "格拉那再也线",
+        "mode": "LRT",
+        "color": "red",
+        "family": "red",
+        "hex": "#ED1746",
+        "colorName": "Red · 偏粉的红色"
+      },
+      {
+        "id": "kl-monorail",
+        "number": "8",
+        "name": "KL Monorail",
+        "zh": "吉隆坡单轨",
+        "mode": "Monorail",
+        "color": "lime",
+        "family": "green",
+        "hex": "#7FC31C",
+        "colorName": "Lime green · 青柠绿"
+      },
+      {
+        "id": "kajang",
+        "number": "9",
+        "name": "MRT Kajang Line",
+        "zh": "加影线",
+        "mode": "MRT",
+        "color": "green",
+        "family": "green",
+        "hex": "#008641",
+        "colorName": "Green · 绿色"
+      },
+      {
+        "id": "putrajaya",
+        "number": "12",
+        "name": "MRT Putrajaya Line",
+        "zh": "布城线",
+        "mode": "MRT",
+        "color": "yellow",
+        "family": "yellow",
+        "hex": "#FFD000",
+        "colorName": "Yellow · 黄色"
+      }
+    ]
+  }
+}

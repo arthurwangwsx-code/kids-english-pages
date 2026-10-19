@@ -1,0 +1,718 @@
+{
+  "schemaVersion": 1,
+  "version": "1.2.0",
+  "contentVersion": "1.7.1",
+  "domains": [
+    {
+      "id": "everyday",
+      "title": "生活英语",
+      "description": "在真实生活中听一听、指一指、一起玩。全部主题都可直接选择。"
+    },
+    {
+      "id": "colors",
+      "title": "色彩观察",
+      "description": "35张双语色卡，按兴趣观察，不要求分清所有近似色。"
+    },
+    {
+      "id": "rail",
+      "title": "轨道探索",
+      "description": "六条巴生谷轨道线路与颜色卡，供亲子观察，不作出行导航。"
+    }
+  ],
+  "categories": [
+    {
+      "id": "home-play",
+      "domainId": "everyday",
+      "title": "在家玩耍"
+    },
+    {
+      "id": "daily-care",
+      "domainId": "everyday",
+      "title": "生活照护"
+    },
+    {
+      "id": "my-body",
+      "domainId": "everyday",
+      "title": "认识自己"
+    },
+    {
+      "id": "nature-friends",
+      "domainId": "everyday",
+      "title": "自然朋友"
+    },
+    {
+      "id": "going-out",
+      "domainId": "everyday",
+      "title": "出门与相处"
+    },
+    {
+      "id": "color-noticing",
+      "domainId": "colors",
+      "title": "颜色小发现"
+    },
+    {
+      "id": "lrt-lines",
+      "domainId": "rail",
+      "title": "轻快铁 LRT"
+    },
+    {
+      "id": "mrt-lines",
+      "domainId": "rail",
+      "title": "捷运 MRT"
+    },
+    {
+      "id": "monorail-lines",
+      "domainId": "rail",
+      "title": "单轨 Monorail"
+    },
+    {
+      "id": "fruit-table",
+      "domainId": "everyday",
+      "title": "水果探索"
+    }
+  ],
+  "levels": [
+    {
+      "id": "first-look",
+      "title": "初次探索",
+      "description": "可选难度标签，适合第一次看看听听；不是年龄限制或入课门槛。"
+    },
+    {
+      "id": "notice-more",
+      "title": "多看一点",
+      "description": "按兴趣发现更多细节；不要求先完成其他课程。"
+    }
+  ],
+  "courses": [
+    {
+      "id": "toys",
+      "title": "玩具时间",
+      "subtitle": "选一个玩具，听一听，再和家长一起找。",
+      "domainId": "everyday",
+      "categoryId": "home-play",
+      "levelId": "first-look",
+      "tags": [
+        "ball",
+        "car",
+        "teddy",
+        "球",
+        "小汽车",
+        "玩具熊",
+        "A ball!"
+      ],
+      "activityKinds": [
+        "hello",
+        "explore",
+        "listen-find",
+        "repeat",
+        "offline-game"
+      ],
+      "reference": {
+        "kind": "lesson",
+        "id": "toys"
+      }
+    },
+    {
+      "id": "water-time",
+      "title": "喝水时间",
+      "subtitle": "喝口水，也说一句谢谢",
+      "domainId": "everyday",
+      "categoryId": "daily-care",
+      "levelId": "first-look",
+      "tags": [
+        "water",
+        "cup",
+        "drink",
+        "水",
+        "杯子",
+        "喝水",
+        "Water, please."
+      ],
+      "activityKinds": [
+        "hello",
+        "explore",
+        "listen-find",
+        "repeat",
+        "offline-game"
+      ],
+      "reference": {
+        "kind": "lesson",
+        "id": "water-time"
+      }
+    },
+    {
+      "id": "meal",
+      "title": "吃饭时间",
+      "subtitle": "看一看我们的小餐盘",
+      "domainId": "everyday",
+      "categoryId": "daily-care",
+      "levelId": "first-look",
+      "tags": [
+        "rice",
+        "banana",
+        "egg",
+        "米饭",
+        "香蕉",
+        "鸡蛋",
+        "More, please."
+      ],
+      "activityKinds": [
+        "hello",
+        "explore",
+        "listen-find",
+        "repeat",
+        "offline-game"
+      ],
+      "reference": {
+        "kind": "lesson",
+        "id": "meal"
+      }
+    },
+    {
+      "id": "outside",
+      "title": "出门时间",
+      "subtitle": "带上小书包，一起出发",
+      "domainId": "everyday",
+      "categoryId": "going-out",
+      "levelId": "first-look",
+      "tags": [
+        "bag",
+        "shoes",
+        "hat",
+        "书包",
+        "鞋",
+        "帽子",
+        "My bag."
+      ],
+      "activityKinds": [
+        "hello",
+        "explore",
+        "listen-find",
+        "repeat",
+        "offline-game"
+      ],
+      "reference": {
+        "kind": "lesson",
+        "id": "outside"
+      }
+    },
+    {
+      "id": "school",
+      "title": "幼儿园时间",
+      "subtitle": "发现书、椅子和小桌子",
+      "domainId": "everyday",
+      "categoryId": "going-out",
+      "levelId": "first-look",
+      "tags": [
+        "book",
+        "chair",
+        "table",
+        "书",
+        "椅子",
+        "桌子",
+        "Sit down."
+      ],
+      "activityKinds": [
+        "hello",
+        "explore",
+        "listen-find",
+        "repeat",
+        "offline-game"
+      ],
+      "reference": {
+        "kind": "lesson",
+        "id": "school"
+      }
+    },
+    {
+      "id": "help-time",
+      "title": "请帮帮我",
+      "subtitle": "想要帮忙，大胆说出来",
+      "domainId": "everyday",
+      "categoryId": "going-out",
+      "levelId": "first-look",
+      "tags": [
+        "help",
+        "open",
+        "stop",
+        "求助",
+        "打开",
+        "停下",
+        "Help, please."
+      ],
+      "activityKinds": [
+        "hello",
+        "explore",
+        "listen-find",
+        "repeat",
+        "offline-game"
+      ],
+      "reference": {
+        "kind": "lesson",
+        "id": "help-time"
+      }
+    },
+    {
+      "id": "at-home",
+      "title": "我的家",
+      "subtitle": "在家里发现熟悉的小物件",
+      "domainId": "everyday",
+      "categoryId": "home-play",
+      "levelId": "first-look",
+      "tags": [
+        "bed",
+        "door",
+        "lamp",
+        "床",
+        "门",
+        "灯",
+        "This is my bed."
+      ],
+      "activityKinds": [
+        "hello",
+        "explore",
+        "listen-find",
+        "repeat",
+        "offline-game"
+      ],
+      "reference": {
+        "kind": "lesson",
+        "id": "at-home"
+      }
+    },
+    {
+      "id": "my-face",
+      "title": "我的脸",
+      "subtitle": "照照镜子，认识小脸蛋",
+      "domainId": "everyday",
+      "categoryId": "my-body",
+      "levelId": "first-look",
+      "tags": [
+        "nose",
+        "eyes",
+        "ears",
+        "鼻子",
+        "眼睛",
+        "耳朵",
+        "Touch your nose."
+      ],
+      "activityKinds": [
+        "hello",
+        "explore",
+        "listen-find",
+        "repeat",
+        "offline-game"
+      ],
+      "reference": {
+        "kind": "lesson",
+        "id": "my-face"
+      }
+    },
+    {
+      "id": "wash-hands",
+      "title": "洗手时间",
+      "subtitle": "小手、肥皂和毛巾一起准备好",
+      "domainId": "everyday",
+      "categoryId": "daily-care",
+      "levelId": "first-look",
+      "tags": [
+        "hands",
+        "soap",
+        "towel",
+        "双手",
+        "肥皂",
+        "毛巾",
+        "Let's wash our hands."
+      ],
+      "activityKinds": [
+        "hello",
+        "explore",
+        "listen-find",
+        "repeat",
+        "offline-game"
+      ],
+      "reference": {
+        "kind": "lesson",
+        "id": "wash-hands"
+      }
+    },
+    {
+      "id": "animal-friends",
+      "title": "小动物",
+      "subtitle": "从玩偶和图片里找朋友",
+      "domainId": "everyday",
+      "categoryId": "nature-friends",
+      "levelId": "first-look",
+      "tags": [
+        "cat",
+        "dog",
+        "bird",
+        "猫",
+        "狗",
+        "鸟",
+        "I see a cat."
+      ],
+      "activityKinds": [
+        "hello",
+        "explore",
+        "listen-find",
+        "repeat",
+        "offline-game"
+      ],
+      "reference": {
+        "kind": "lesson",
+        "id": "animal-friends"
+      }
+    },
+    {
+      "id": "at-the-station",
+      "title": "乘轨道交通",
+      "subtitle": "看图片，假装一起乘车",
+      "domainId": "everyday",
+      "categoryId": "going-out",
+      "levelId": "first-look",
+      "tags": [
+        "station",
+        "gate",
+        "seat",
+        "车站",
+        "闸机",
+        "座位",
+        "Let's sit down."
+      ],
+      "activityKinds": [
+        "hello",
+        "explore",
+        "listen-find",
+        "repeat",
+        "offline-game"
+      ],
+      "reference": {
+        "kind": "lesson",
+        "id": "at-the-station"
+      }
+    },
+    {
+      "id": "fruit-tropical",
+      "title": "更多水果",
+      "subtitle": "菠萝、葡萄和草莓，看看外形与颜色",
+      "domainId": "everyday",
+      "categoryId": "fruit-table",
+      "levelId": "first-look",
+      "tags": [
+        "pineapple",
+        "grapes",
+        "strawberry",
+        "菠萝",
+        "葡萄",
+        "草莓",
+        "These are grapes."
+      ],
+      "activityKinds": [
+        "hello",
+        "explore",
+        "listen-find",
+        "repeat",
+        "offline-game"
+      ],
+      "reference": {
+        "kind": "lesson",
+        "id": "fruit-tropical"
+      }
+    },
+    {
+      "id": "fruit-sharing",
+      "title": "一起认识水果",
+      "subtitle": "芒果、西瓜和木瓜，在餐桌上相遇",
+      "domainId": "everyday",
+      "categoryId": "fruit-table",
+      "levelId": "first-look",
+      "tags": [
+        "mango",
+        "watermelon",
+        "papaya",
+        "芒果",
+        "西瓜",
+        "木瓜",
+        "I like mango."
+      ],
+      "activityKinds": [
+        "hello",
+        "explore",
+        "listen-find",
+        "repeat",
+        "offline-game"
+      ],
+      "reference": {
+        "kind": "lesson",
+        "id": "fruit-sharing"
+      }
+    },
+    {
+      "id": "fruit-everyday",
+      "title": "熟悉的水果",
+      "subtitle": "苹果、香蕉和橙子，看看整颗水果",
+      "domainId": "everyday",
+      "categoryId": "fruit-table",
+      "levelId": "first-look",
+      "tags": [
+        "apple",
+        "banana",
+        "orange",
+        "苹果",
+        "香蕉",
+        "橙子",
+        "A banana, please."
+      ],
+      "activityKinds": [
+        "hello",
+        "explore",
+        "listen-find",
+        "repeat",
+        "offline-game"
+      ],
+      "reference": {
+        "kind": "lesson",
+        "id": "fruit-everyday"
+      }
+    },
+    {
+      "id": "animal-big",
+      "title": "更多动物朋友",
+      "subtitle": "大象、猴子和乌龟，各有自己的样子",
+      "domainId": "everyday",
+      "categoryId": "nature-friends",
+      "levelId": "first-look",
+      "tags": [
+        "elephant",
+        "monkey",
+        "turtle",
+        "大象",
+        "猴子",
+        "乌龟",
+        "A big elephant."
+      ],
+      "activityKinds": [
+        "hello",
+        "explore",
+        "listen-find",
+        "repeat",
+        "offline-game"
+      ],
+      "reference": {
+        "kind": "lesson",
+        "id": "animal-big"
+      }
+    },
+    {
+      "id": "animal-water",
+      "title": "小小动物",
+      "subtitle": "鱼、鸭子和兔子，谁是你的图片朋友",
+      "domainId": "everyday",
+      "categoryId": "nature-friends",
+      "levelId": "first-look",
+      "tags": [
+        "fish",
+        "duck",
+        "rabbit",
+        "鱼",
+        "鸭子",
+        "兔子",
+        "I see a fish."
+      ],
+      "activityKinds": [
+        "hello",
+        "explore",
+        "listen-find",
+        "repeat",
+        "offline-game"
+      ],
+      "reference": {
+        "kind": "lesson",
+        "id": "animal-water"
+      }
+    },
+    {
+      "id": "colors-world",
+      "title": "颜色小世界",
+      "subtitle": "35张双语色卡，先从喜欢的颜色开始",
+      "domainId": "colors",
+      "categoryId": "color-noticing",
+      "levelId": "notice-more",
+      "tags": [
+        "颜色",
+        "color",
+        "colour",
+        "red",
+        "blue",
+        "green",
+        "35"
+      ],
+      "activityKinds": [
+        "color-explore"
+      ],
+      "reference": {
+        "kind": "colors",
+        "id": "all"
+      }
+    },
+    {
+      "id": "rail-ampang",
+      "title": "安邦线",
+      "subtitle": "LRT Ampang Line · Orange · 橙色",
+      "domainId": "rail",
+      "categoryId": "lrt-lines",
+      "levelId": "notice-more",
+      "tags": [
+        "3",
+        "LRT",
+        "LRT Ampang Line",
+        "orange",
+        "Orange · 橙色"
+      ],
+      "activityKinds": [
+        "rail-explore"
+      ],
+      "reference": {
+        "kind": "rail",
+        "id": "ampang"
+      }
+    },
+    {
+      "id": "rail-sri-petaling",
+      "title": "大城堡线",
+      "subtitle": "LRT Sri Petaling Line · Maroon · 酒红色",
+      "domainId": "rail",
+      "categoryId": "lrt-lines",
+      "levelId": "notice-more",
+      "tags": [
+        "4",
+        "LRT",
+        "LRT Sri Petaling Line",
+        "maroon",
+        "red",
+        "Maroon · 酒红色"
+      ],
+      "activityKinds": [
+        "rail-explore"
+      ],
+      "reference": {
+        "kind": "rail",
+        "id": "sri-petaling"
+      }
+    },
+    {
+      "id": "rail-kelana-jaya",
+      "title": "格拉那再也线",
+      "subtitle": "LRT Kelana Jaya Line · Red · 偏粉的红色",
+      "domainId": "rail",
+      "categoryId": "lrt-lines",
+      "levelId": "notice-more",
+      "tags": [
+        "5",
+        "LRT",
+        "LRT Kelana Jaya Line",
+        "red",
+        "Red · 偏粉的红色"
+      ],
+      "activityKinds": [
+        "rail-explore"
+      ],
+      "reference": {
+        "kind": "rail",
+        "id": "kelana-jaya"
+      }
+    },
+    {
+      "id": "rail-kl-monorail",
+      "title": "吉隆坡单轨",
+      "subtitle": "KL Monorail · Lime green · 青柠绿",
+      "domainId": "rail",
+      "categoryId": "monorail-lines",
+      "levelId": "notice-more",
+      "tags": [
+        "8",
+        "Monorail",
+        "KL Monorail",
+        "lime",
+        "green",
+        "Lime green · 青柠绿"
+      ],
+      "activityKinds": [
+        "rail-explore"
+      ],
+      "reference": {
+        "kind": "rail",
+        "id": "kl-monorail"
+      }
+    },
+    {
+      "id": "rail-kajang",
+      "title": "加影线",
+      "subtitle": "MRT Kajang Line · Green · 绿色",
+      "domainId": "rail",
+      "categoryId": "mrt-lines",
+      "levelId": "notice-more",
+      "tags": [
+        "9",
+        "MRT",
+        "MRT Kajang Line",
+        "green",
+        "Green · 绿色"
+      ],
+      "activityKinds": [
+        "rail-explore"
+      ],
+      "reference": {
+        "kind": "rail",
+        "id": "kajang"
+      }
+    },
+    {
+      "id": "rail-putrajaya",
+      "title": "布城线",
+      "subtitle": "MRT Putrajaya Line · Yellow · 黄色",
+      "domainId": "rail",
+      "categoryId": "mrt-lines",
+      "levelId": "notice-more",
+      "tags": [
+        "12",
+        "MRT",
+        "MRT Putrajaya Line",
+        "yellow",
+        "Yellow · 黄色"
+      ],
+      "activityKinds": [
+        "rail-explore"
+      ],
+      "reference": {
+        "kind": "rail",
+        "id": "putrajaya"
+      }
+    },
+    {
+      "id": "color-train",
+      "title": "颜色小火车",
+      "subtitle": "听一听，让彩色朋友坐上小火车",
+      "domainId": "colors",
+      "categoryId": "color-noticing",
+      "levelId": "first-look",
+      "tags": [
+        "red",
+        "blue",
+        "yellow",
+        "红色",
+        "蓝色",
+        "黄色",
+        "亲子游戏"
+      ],
+      "activityKinds": [
+        "game"
+      ],
+      "reference": {
+        "kind": "game",
+        "id": "color-train"
+      }
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 1,
+  "id": "animal-big",
+  "version": "1.7.1",
+  "title": "更多动物朋友",
+  "catalog": "catalog.v1.json",
+  "resources": [
+    {
+      "path": "audio/a-big-elephant.mp3",
+      "sha256": "d214e0ffe0547ad8efa039ab6d0aeffddb8a6f2b1df4703e6919001bd5e7cece",
+      "mime": "audio/mpeg",
+      "bytes": 23084
+    },
+    {
+      "path": "audio/elephant.mp3",
+      "sha256": "ed86339737e887ab65d6293d311bc36541a5af2b057dac957059d2cb4327e301",
+      "mime": "audio/mpeg",
+      "bytes": 20492
+    },
+    {
+      "path": "audio/monkey.mp3",
+      "sha256": "21ce452d7e0510897308102e99697aed6272f2717403e921db475991aa0e498a",
+      "mime": "audio/mpeg",
+      "bytes": 20780
+    },
+    {
+      "path": "audio/turtle.mp3",
+      "sha256": "e3fb0671349bdcc7ab8492bcfce54c05885b5de8665ad41d9910254f46e9aa94",
+      "mime": "audio/mpeg",
+      "bytes": 18476
+    },
+    {
+      "path": "audio/zh-elephant.mp3",
+      "sha256": "28d604023dbd2a1d3816bdcc13b72986d41be9766bb9009e27fab83c88f5405b",
+      "mime": "audio/mpeg",
+      "bytes": 14156
+    },
+    {
+      "path": "audio/zh-monkey.mp3",
+      "sha256": "a6091482df4730eacb7d4a8d3c1e6d5b2e24c893ecfc2104268263b0cbf243f3",
+      "mime": "audio/mpeg",
+      "bytes": 14156
+    },
+    {
+      "path": "audio/zh-turtle.mp3",
+      "sha256": "ce0cf9629360e1e52cb53717606807cb502398c70a5f44d0488857f4ede3887f",
+      "mime": "audio/mpeg",
+      "bytes": 13292
+    },
+    {
+      "path": "audio-manifest.v1.json",
+      "sha256": "f999baa91e7f02f17787218bf100971af7d03c294dad1adc24115015911e783f",
+      "mime": "application/json",
+      "bytes": 77647
+    },
+    {
+      "path": "catalog.v1.json",
+      "sha256": "c78e603a0586e155fcfbed0cd102f8e054d6c662d70f46ccd466a83807ce8927",
+      "mime": "application/json",
+      "bytes": 15502
+    },
+    {
+      "path": "colors.v1.json",
+      "sha256": "e35e0a13024649a91e199059fa969c27dc793e8a6ea77a46b98ea6754315154d",
+      "mime": "application/json",
+      "bytes": 13616
+    },
+    {
+      "path": "courses.v1.json",
+      "sha256": "20210406b55f11973fdb144b6e19c82b96e06335773260642bed405ad09e3f99",
+      "mime": "application/json",
+      "bytes": 16006
+    },
+    {
+      "path": "images/elephant.png",
+      "sha256": "8626ba5b7b58fd3c71068dd110c60d53a06e7820a84e32a38f0fc77c3353916b",
+      "mime": "image/png",
+      "bytes": 26055
+    },
+    {
+      "path": "images/monkey.png",
+      "sha256": "21b783c15c0dc2d79fd67e2e362fdf1f17b470eaf700d0b25bd17521e859c743",
+      "mime": "image/png",
+      "bytes": 36357
+    },
+    {
+      "path": "images/turtle.png",
+      "sha256": "e6b65b47bc35f774c7845c4dc6d18d7beb6b0b1eb972902f31df586a6b66bdae",
+      "mime": "image/png",
+      "bytes": 31081
+    },
+    {
+      "path": "licenses.v1.json",
+      "sha256": "3dd6a10813373075f9a8da2c6dcc830edecc252fd070103ee51f4eab1e7538cf",
+      "mime": "application/json",
+      "bytes": 15134
+    },
+    {
+      "path": "resource-contract.json",
+      "sha256": "a5207e41aa21c13ab184977d17a269f71afe99f4ffad45fc3cbd2639be97090e",
+      "mime": "application/json",
+      "bytes": 3698
+    }
+  ]
+}

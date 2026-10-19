@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 1,
+  "id": "animal-friends",
+  "version": "1.7.1",
+  "title": "小动物",
+  "catalog": "catalog.v1.json",
+  "resources": [
+    {
+      "path": "audio/bird.mp3",
+      "sha256": "94ce21cbc104be025e9e34536ad84147865439dbf7a0a417da10b432ed58f5eb",
+      "mime": "audio/mpeg",
+      "bytes": 19340
+    },
+    {
+      "path": "audio/cat.mp3",
+      "sha256": "016f4923a41acd49bbc1d9906a0c20e7fbf95dc6f11965efe8ed78384fd170e8",
+      "mime": "audio/mpeg",
+      "bytes": 18188
+    },
+    {
+      "path": "audio/dog.mp3",
+      "sha256": "c6e013ab319b4e022a491296c376fca5e305bb6b207e165792a1f83890e48254",
+      "mime": "audio/mpeg",
+      "bytes": 18764
+    },
+    {
+      "path": "audio/i-see-a-cat.mp3",
+      "sha256": "884cdfc5916e6d59b885a9573bc1e5d1dae26653001ca6023b62c361b89cfac2",
+      "mime": "audio/mpeg",
+      "bytes": 22508
+    },
+    {
+      "path": "audio/zh-bird.mp3",
+      "sha256": "174a783cab8b12ec9915c5668128374043fa74f0ef91361440250cf83d9e25bb",
+      "mime": "audio/mpeg",
+      "bytes": 10988
+    },
+    {
+      "path": "audio/zh-cat.mp3",
+      "sha256": "c09d3ebe24475dc9d41c66f5430ad3b97fc277fc9fd8d92e96b864950fd2a31b",
+      "mime": "audio/mpeg",
+      "bytes": 10700
+    },
+    {
+      "path": "audio/zh-dog.mp3",
+      "sha256": "097ee9555a20e717c3f28ed425833d5486dae069bb9114dfc83ebc8025f62a5e",
+      "mime": "audio/mpeg",
+      "bytes": 10700
+    },
+    {
+      "path": "audio-manifest.v1.json",
+      "sha256": "f999baa91e7f02f17787218bf100971af7d03c294dad1adc24115015911e783f",
+      "mime": "application/json",
+      "bytes": 77647
+    },
+    {
+      "path": "catalog.v1.json",
+      "sha256": "c78e603a0586e155fcfbed0cd102f8e054d6c662d70f46ccd466a83807ce8927",
+      "mime": "application/json",
+      "bytes": 15502
+    },
+    {
+      "path": "colors.v1.json",
+      "sha256": "e35e0a13024649a91e199059fa969c27dc793e8a6ea77a46b98ea6754315154d",
+      "mime": "application/json",
+      "bytes": 13616
+    },
+    {
+      "path": "courses.v1.json",
+      "sha256": "20210406b55f11973fdb144b6e19c82b96e06335773260642bed405ad09e3f99",
+      "mime": "application/json",
+      "bytes": 16006
+    },
+    {
+      "path": "images/bird.png",
+      "sha256": "3a8170630be86c749ac19e1a0566c8b5a6c540cbc3eb2b735709acd3ad12e859",
+      "mime": "image/png",
+      "bytes": 20724
+    },
+    {
+      "path": "images/cat.png",
+      "sha256": "1fb6ad6d3f5e398807d902bacc0c19324202c98a3d5d6ca898fd8e273cbd9c40",
+      "mime": "image/png",
+      "bytes": 29406
+    },
+    {
+      "path": "images/dog.png",
+      "sha256": "4acbc430e796363123a52b14f302177e7e596a2ba7b0c83e066064267862407a",
+      "mime": "image/png",
+      "bytes": 32397
+    },
+    {
+      "path": "licenses.v1.json",
+      "sha256": "3dd6a10813373075f9a8da2c6dcc830edecc252fd070103ee51f4eab1e7538cf",
+      "mime": "application/json",
+      "bytes": 15134
+    },
+    {
+      "path": "resource-contract.json",
+      "sha256": "cb9eefea536039d74fcfb1da670261ee62e4327cfe95b0ae2cc32888a3db40da",
+      "mime": "application/json",
+      "bytes": 3636
+    }
+  ]
+}

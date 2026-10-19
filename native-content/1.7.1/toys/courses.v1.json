@@ -1,0 +1,583 @@
+{
+  "schemaVersion": 1,
+  "version": "1.7.1",
+  "language": "en-US",
+  "audio": {
+    "ball": "Ball.",
+    "car": "Car.",
+    "teddy": "Teddy.",
+    "water": "Water.",
+    "cup": "Cup.",
+    "drink": "Drink.",
+    "rice": "Rice.",
+    "banana": "Banana.",
+    "egg": "Egg.",
+    "bag": "Bag.",
+    "shoes": "Shoes.",
+    "hat": "Hat.",
+    "book": "Book.",
+    "chair": "Chair.",
+    "table": "Table.",
+    "help": "Help.",
+    "open": "Open.",
+    "stop": "Stop.",
+    "hello": "Hello!",
+    "bye": "Bye-bye!",
+    "a-ball": "A ball!",
+    "water-please": "Water, please.",
+    "more-please": "More, please.",
+    "my-bag": "My bag.",
+    "sit-down": "Sit down.",
+    "help-please": "Help, please.",
+    "toilet-please": "Toilet, please.",
+    "color-red": "Red.",
+    "color-yellow": "Yellow.",
+    "color-blue": "Blue.",
+    "color-green": "Green.",
+    "color-orange": "Orange.",
+    "color-purple": "Purple.",
+    "color-pink": "Pink.",
+    "color-brown": "Brown.",
+    "color-black": "Black.",
+    "color-white": "White.",
+    "color-gray": "Gray.",
+    "color-light-red": "Light red.",
+    "color-dark-red": "Dark red.",
+    "color-coral": "Coral.",
+    "color-maroon": "Maroon.",
+    "color-light-yellow": "Light yellow.",
+    "color-gold": "Gold.",
+    "color-light-blue": "Light blue.",
+    "color-dark-blue": "Dark blue.",
+    "color-sky-blue": "Sky blue.",
+    "color-navy": "Navy.",
+    "color-light-green": "Light green.",
+    "color-dark-green": "Dark green.",
+    "color-lime": "Lime.",
+    "color-olive": "Olive.",
+    "color-light-orange": "Light orange.",
+    "color-dark-orange": "Dark orange.",
+    "color-light-purple": "Light purple.",
+    "color-dark-purple": "Dark purple.",
+    "color-lavender": "Lavender.",
+    "color-light-pink": "Light pink.",
+    "color-dark-pink": "Dark pink.",
+    "color-light-brown": "Light brown.",
+    "color-dark-brown": "Dark brown.",
+    "color-teal": "Teal.",
+    "bed": "Bed.",
+    "door": "Door.",
+    "lamp": "Lamp.",
+    "nose": "Nose.",
+    "eyes": "Eyes.",
+    "ears": "Ears.",
+    "hands": "Hands.",
+    "soap": "Soap.",
+    "towel": "Towel.",
+    "cat": "Cat.",
+    "dog": "Dog.",
+    "bird": "Bird.",
+    "station": "Station.",
+    "gate": "Gate.",
+    "seat": "Seat.",
+    "this-is-my-bed": "This is my bed.",
+    "touch-your-nose": "Touch your nose.",
+    "lets-wash-our-hands": "Let's wash our hands.",
+    "i-see-a-cat": "I see a cat.",
+    "lets-sit-down": "Let's sit down.",
+    "fish": "Fish.",
+    "duck": "Duck.",
+    "rabbit": "Rabbit.",
+    "elephant": "Elephant.",
+    "monkey": "Monkey.",
+    "turtle": "Turtle.",
+    "apple": "Apple.",
+    "orange": "Orange.",
+    "mango": "Mango.",
+    "watermelon": "Watermelon.",
+    "papaya": "Papaya.",
+    "pineapple": "Pineapple.",
+    "grapes": "Grapes.",
+    "strawberry": "Strawberry.",
+    "i-see-a-fish": "I see a fish.",
+    "a-big-elephant": "A big elephant.",
+    "a-banana-please": "A banana, please.",
+    "i-like-mango": "I like mango.",
+    "these-are-grapes": "These are grapes."
+  },
+  "lessons": [
+    {
+      "id": "toys",
+      "title": "玩具时间",
+      "subtitle": "选一个玩具，听一听，再和家长一起找。",
+      "words": [
+        {
+          "id": "ball",
+          "zh": "球"
+        },
+        {
+          "id": "car",
+          "zh": "小汽车"
+        },
+        {
+          "id": "teddy",
+          "zh": "玩具熊"
+        }
+      ],
+      "phrase": {
+        "id": "a-ball",
+        "text": "A ball!",
+        "zh": "一个球！"
+      },
+      "game": {
+        "title": "滚一滚球",
+        "text": "家长和孩子面对面坐下，慢慢把球滚给对方。家长说 “ball”，再说 “A ball!”。孩子可以指一指、接住球，或者自愿跟着说。"
+      }
+    },
+    {
+      "id": "water-time",
+      "title": "喝水时间",
+      "subtitle": "喝口水，也说一句谢谢",
+      "words": [
+        {
+          "id": "water",
+          "zh": "水"
+        },
+        {
+          "id": "cup",
+          "zh": "杯子"
+        },
+        {
+          "id": "drink",
+          "zh": "喝水"
+        }
+      ],
+      "phrase": {
+        "id": "water-please",
+        "text": "Water, please.",
+        "zh": "我想喝水，请给我水。"
+      },
+      "game": {
+        "title": "给小熊倒杯水",
+        "text": "家长准备不烫的饮用水和不易碎的杯子，一起指一指杯子和水。家长说 “Water, please.”，再帮孩子喝一口。也可以用空杯子假装给玩具熊喝水。"
+      }
+    },
+    {
+      "id": "meal",
+      "title": "吃饭时间",
+      "subtitle": "看一看我们的小餐盘",
+      "words": [
+        {
+          "id": "rice",
+          "zh": "米饭"
+        },
+        {
+          "id": "banana",
+          "zh": "香蕉"
+        },
+        {
+          "id": "egg",
+          "zh": "鸡蛋"
+        }
+      ],
+      "phrase": {
+        "id": "more-please",
+        "text": "More, please.",
+        "zh": "请再给我一点。"
+      },
+      "game": {
+        "title": "餐盘里找一找",
+        "text": "在家长准备的餐点旁，指一指米饭、香蕉或鸡蛋。家长说出对应英语，再示范 “More, please.”。按平时饮食习惯进餐，孩子只指一指也可以。"
+      }
+    },
+    {
+      "id": "outside",
+      "title": "出门时间",
+      "subtitle": "带上小书包，一起出发",
+      "words": [
+        {
+          "id": "bag",
+          "zh": "书包"
+        },
+        {
+          "id": "shoes",
+          "zh": "鞋"
+        },
+        {
+          "id": "hat",
+          "zh": "帽子"
+        }
+      ],
+      "phrase": {
+        "id": "my-bag",
+        "text": "My bag.",
+        "zh": "我的书包。"
+      },
+      "game": {
+        "title": "出门前小帮手",
+        "text": "把孩子的书包、鞋子和帽子放在面前。家长慢慢说 “bag”，请孩子指一指；再抱起书包说 “My bag.”。一起穿鞋、戴帽，准备好再出门。"
+      }
+    },
+    {
+      "id": "school",
+      "title": "幼儿园时间",
+      "subtitle": "发现书、椅子和小桌子",
+      "words": [
+        {
+          "id": "book",
+          "zh": "书"
+        },
+        {
+          "id": "chair",
+          "zh": "椅子"
+        },
+        {
+          "id": "table",
+          "zh": "桌子"
+        }
+      ],
+      "phrase": {
+        "id": "sit-down",
+        "text": "Sit down.",
+        "zh": "请坐下。"
+      },
+      "game": {
+        "title": "坐下来读一本书",
+        "text": "找一张适合孩子的稳固椅子，在小桌子旁放一本绘本。家长说 “Sit down.”，和孩子坐下来，指一指 book、chair 和 table，再一起翻一页。"
+      }
+    },
+    {
+      "id": "help-time",
+      "title": "请帮帮我",
+      "subtitle": "想要帮忙，大胆说出来",
+      "words": [
+        {
+          "id": "help",
+          "zh": "求助"
+        },
+        {
+          "id": "open",
+          "zh": "打开"
+        },
+        {
+          "id": "stop",
+          "zh": "停下"
+        }
+      ],
+      "phrase": {
+        "id": "help-please",
+        "text": "Help, please.",
+        "zh": "请帮帮我。"
+      },
+      "game": {
+        "title": "一起打开小盒子",
+        "text": "家长准备一个安全、容易打开的盒子。示范 “Help, please.”，再一起 open。孩子说或示意 stop 时，家长就停下来。想要帮忙，指一指或用中文说也很好。"
+      }
+    },
+    {
+      "id": "at-home",
+      "title": "我的家",
+      "subtitle": "在家里发现熟悉的小物件",
+      "words": [
+        {
+          "id": "bed",
+          "zh": "床"
+        },
+        {
+          "id": "door",
+          "zh": "门"
+        },
+        {
+          "id": "lamp",
+          "zh": "灯"
+        }
+      ],
+      "phrase": {
+        "id": "this-is-my-bed",
+        "text": "This is my bed.",
+        "zh": "这是我的床。"
+      },
+      "game": {
+        "title": "家里找一找",
+        "text": "成人陪同指一指床、门和灯，再说 “This is my bed.”。可以给玩偶介绍房间；不操作门铰链、插座或灯具开关。"
+      }
+    },
+    {
+      "id": "my-face",
+      "title": "我的脸",
+      "subtitle": "照照镜子，认识小脸蛋",
+      "words": [
+        {
+          "id": "nose",
+          "zh": "鼻子"
+        },
+        {
+          "id": "eyes",
+          "zh": "眼睛"
+        },
+        {
+          "id": "ears",
+          "zh": "耳朵"
+        }
+      ],
+      "phrase": {
+        "id": "touch-your-nose",
+        "text": "Touch your nose.",
+        "zh": "摸摸你的鼻子。"
+      },
+      "game": {
+        "title": "镜子里的小伙伴",
+        "text": "成人和孩子在镜子前模仿轻轻摸鼻子，说 “Touch your nose.”。眼睛和耳朵只指一指，不触碰眼睛，也不把东西放入耳朵。"
+      }
+    },
+    {
+      "id": "wash-hands",
+      "title": "洗手时间",
+      "subtitle": "小手、肥皂和毛巾一起准备好",
+      "words": [
+        {
+          "id": "hands",
+          "zh": "双手"
+        },
+        {
+          "id": "soap",
+          "zh": "肥皂"
+        },
+        {
+          "id": "towel",
+          "zh": "毛巾"
+        }
+      ],
+      "phrase": {
+        "id": "lets-wash-our-hands",
+        "text": "Let's wash our hands.",
+        "zh": "我们洗洗手吧。"
+      },
+      "game": {
+        "title": "一起洗洗小手",
+        "text": "在成人陪同的正常洗手时间，指认 hands、soap 和 towel，说 “Let’s wash our hands.”。成人检查水温、照看湿滑地面；肥皂不能入口。"
+      }
+    },
+    {
+      "id": "animal-friends",
+      "title": "小动物",
+      "subtitle": "从玩偶和图片里找朋友",
+      "words": [
+        {
+          "id": "cat",
+          "zh": "猫"
+        },
+        {
+          "id": "dog",
+          "zh": "狗"
+        },
+        {
+          "id": "bird",
+          "zh": "鸟"
+        }
+      ],
+      "phrase": {
+        "id": "i-see-a-cat",
+        "text": "I see a cat.",
+        "zh": "我看到一只猫。"
+      },
+      "game": {
+        "title": "动物朋友在哪里",
+        "text": "用玩偶、绘本或图片找猫、狗和鸟。成人指着图片说 “I see a cat.”，孩子可以指一指或模仿动作；不靠近陌生的真实动物。"
+      }
+    },
+    {
+      "id": "at-the-station",
+      "title": "乘轨道交通",
+      "subtitle": "看图片，假装一起乘车",
+      "words": [
+        {
+          "id": "station",
+          "zh": "车站"
+        },
+        {
+          "id": "gate",
+          "zh": "闸机"
+        },
+        {
+          "id": "seat",
+          "zh": "座位"
+        }
+      ],
+      "phrase": {
+        "id": "lets-sit-down",
+        "text": "Let's sit down.",
+        "zh": "我们坐下吧。"
+      },
+      "game": {
+        "title": "家里的小车站",
+        "text": "看图片找车站、交通闸机和座位，在家把椅子排好，假装乘车并说 “Let’s sit down.”。实际出行紧随照护者，不在闸机或站台找物，不分散安全注意。"
+      }
+    },
+    {
+      "id": "animal-water",
+      "title": "小小动物",
+      "subtitle": "鱼、鸭子和兔子，谁是你的图片朋友",
+      "words": [
+        {
+          "id": "fish",
+          "zh": "鱼"
+        },
+        {
+          "id": "duck",
+          "zh": "鸭子"
+        },
+        {
+          "id": "rabbit",
+          "zh": "兔子"
+        }
+      ],
+      "phrase": {
+        "id": "i-see-a-fish",
+        "text": "I see a fish.",
+        "zh": "我看到一条鱼。"
+      },
+      "game": {
+        "title": "玩偶找朋友",
+        "text": "成人摆出鱼、鸭子、兔子的图片或大玩偶，说 “I see a fish.”，孩子指一指或做游泳、摇摆、跳跳的动作。三种动物一起认，并不都住在水里；只用图片，不去水边或接触陌生动物。"
+      }
+    },
+    {
+      "id": "animal-big",
+      "title": "更多动物朋友",
+      "subtitle": "大象、猴子和乌龟，各有自己的样子",
+      "words": [
+        {
+          "id": "elephant",
+          "zh": "大象"
+        },
+        {
+          "id": "monkey",
+          "zh": "猴子"
+        },
+        {
+          "id": "turtle",
+          "zh": "乌龟"
+        }
+      ],
+      "phrase": {
+        "id": "a-big-elephant",
+        "text": "A big elephant.",
+        "zh": "一头大象。"
+      },
+      "game": {
+        "title": "动物动作小剧场",
+        "text": "看图片找大象的长鼻子、猴子的尾巴和乌龟的壳。成人用手臂模仿长鼻子，说 “A big elephant.”；孩子可指图或模仿。留出平地空间，不攀爬、不模仿接近真实动物。"
+      }
+    },
+    {
+      "id": "fruit-everyday",
+      "title": "熟悉的水果",
+      "subtitle": "苹果、香蕉和橙子，看看整颗水果",
+      "words": [
+        {
+          "id": "apple",
+          "zh": "苹果"
+        },
+        {
+          "id": "banana",
+          "zh": "香蕉"
+        },
+        {
+          "id": "orange",
+          "zh": "橙子"
+        }
+      ],
+      "phrase": {
+        "id": "a-banana-please",
+        "text": "A banana, please.",
+        "zh": "请给我一根香蕉。"
+      },
+      "game": {
+        "title": "水果小商店",
+        "text": "用水果图片或玩具摆小商店，成人问想要哪个，示范 “A banana, please.”，孩子可以指图。香蕉也是吃饭时间学过的同一个词。真实水果由成人清洗、去皮切好，坐稳再吃；不把整块水果当玩具入口。"
+      }
+    },
+    {
+      "id": "fruit-sharing",
+      "title": "一起认识水果",
+      "subtitle": "芒果、西瓜和木瓜，在餐桌上相遇",
+      "words": [
+        {
+          "id": "mango",
+          "zh": "芒果"
+        },
+        {
+          "id": "watermelon",
+          "zh": "西瓜"
+        },
+        {
+          "id": "papaya",
+          "zh": "木瓜"
+        }
+      ],
+      "phrase": {
+        "id": "i-like-mango",
+        "text": "I like mango.",
+        "zh": "我喜欢芒果。"
+      },
+      "game": {
+        "title": "水果图片配配对",
+        "text": "成人准备整果和切面图片，一起找芒果、西瓜、木瓜，说 “I like mango.”，孩子可选喜欢的一张。图片中学习即可；如品尝，成人处理果皮、果核和籽，切成适合孩子的小块并全程照看，不强迫尝试。"
+      }
+    },
+    {
+      "id": "fruit-tropical",
+      "title": "更多水果",
+      "subtitle": "菠萝、葡萄和草莓，看看外形与颜色",
+      "words": [
+        {
+          "id": "pineapple",
+          "zh": "菠萝"
+        },
+        {
+          "id": "grapes",
+          "zh": "葡萄"
+        },
+        {
+          "id": "strawberry",
+          "zh": "草莓"
+        }
+      ],
+      "phrase": {
+        "id": "these-are-grapes",
+        "text": "These are grapes.",
+        "zh": "这些是葡萄。"
+      },
+      "game": {
+        "title": "水果轮廓找一找",
+        "text": "用图片找菠萝的叶子、成串的葡萄和草莓上的小籽。成人指着葡萄说 “These are grapes.”，孩子可以拿相同图片配对。真实水果先由成人处理；葡萄沿长向切成四份，不给整颗葡萄，坐稳并全程照看。"
+      }
+    }
+  ],
+  "colorWorld": {
+    "file": "colors.v1.json"
+  },
+  "chapters": [
+    {
+      "id": "animal-world",
+      "title": "动物单词学习",
+      "subtitle": "从熟悉的小动物到更多图片朋友，每次选一小节",
+      "lessonIds": [
+        "animal-friends",
+        "animal-water",
+        "animal-big"
+      ]
+    },
+    {
+      "id": "fruit-world",
+      "title": "水果单词学习",
+      "subtitle": "认识整果与切面，香蕉也能和以前的词一起复习",
+      "lessonIds": [
+        "fruit-everyday",
+        "fruit-sharing",
+        "fruit-tropical"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 1,
+  "id": "water-time",
+  "version": "1.7.1",
+  "title": "喝水时间",
+  "catalog": "catalog.v1.json",
+  "resources": [
+    {
+      "path": "audio/cup.mp3",
+      "sha256": "002f8909415eb35a77861bb2421e3509a732076b3cc8fb184665f298e1825baf",
+      "mime": "audio/mpeg",
+      "bytes": 13100
+    },
+    {
+      "path": "audio/drink.mp3",
+      "sha256": "1f7957c91529cc48a35262b6bb2101eb7ac3316abf76dff26d33e844076f4cf5",
+      "mime": "audio/mpeg",
+      "bytes": 14348
+    },
+    {
+      "path": "audio/water-please.mp3",
+      "sha256": "12aaa8cc7dd053333607ce86c9ee0c9ff9f9f3268a97101b9f44b85ad2576daf",
+      "mime": "audio/mpeg",
+      "bytes": 23660
+    },
+    {
+      "path": "audio/water.mp3",
+      "sha256": "e7738d4c92fce8c464a12dc74d34d5975c3d3f6b58cca2f4473ad7f10f1b39b0",
+      "mime": "audio/mpeg",
+      "bytes": 19052
+    },
+    {
+      "path": "audio/zh-cup.mp3",
+      "sha256": "b6f9e8d8b24f3d6b3130c0e427d263f86e0ec39880ca2b50865d4924bd0925ba",
+      "mime": "audio/mpeg",
+      "bytes": 13580
+    },
+    {
+      "path": "audio/zh-drink.mp3",
+      "sha256": "2bf8723566c70f328f441f28f992cade08a78472d77dfc8cc2dd1324b9efd2de",
+      "mime": "audio/mpeg",
+      "bytes": 14156
+    },
+    {
+      "path": "audio/zh-water.mp3",
+      "sha256": "96bdb03401be91ef4f21eb405cde1d090f51f3f45daa54c983bd31f8698bca52",
+      "mime": "audio/mpeg",
+      "bytes": 11276
+    },
+    {
+      "path": "audio-manifest.v1.json",
+      "sha256": "f999baa91e7f02f17787218bf100971af7d03c294dad1adc24115015911e783f",
+      "mime": "application/json",
+      "bytes": 77647
+    },
+    {
+      "path": "catalog.v1.json",
+      "sha256": "c78e603a0586e155fcfbed0cd102f8e054d6c662d70f46ccd466a83807ce8927",
+      "mime": "application/json",
+      "bytes": 15502
+    },
+    {
+      "path": "colors.v1.json",
+      "sha256": "e35e0a13024649a91e199059fa969c27dc793e8a6ea77a46b98ea6754315154d",
+      "mime": "application/json",
+      "bytes": 13616
+    },
+    {
+      "path": "courses.v1.json",
+      "sha256": "20210406b55f11973fdb144b6e19c82b96e06335773260642bed405ad09e3f99",
+      "mime": "application/json",
+      "bytes": 16006
+    },
+    {
+      "path": "images/cup.png",
+      "sha256": "49c3d7b44435f843efdc48af2a447b423fb32559c24d65a5db9d4e942607f368",
+      "mime": "image/png",
+      "bytes": 25367
+    },
+    {
+      "path": "images/drink.png",
+      "sha256": "ef5c476d49a8bb4dae4d0024458710a946e4c728ff450c124085c744da87de0d",
+      "mime": "image/png",
+      "bytes": 23584
+    },
+    {
+      "path": "images/water.png",
+      "sha256": "0689a3530100e030be3cb2581829a687eda85defb368940c446d53d8a3d70057",
+      "mime": "image/png",
+      "bytes": 21472
+    },
+    {
+      "path": "licenses.v1.json",
+      "sha256": "3dd6a10813373075f9a8da2c6dcc830edecc252fd070103ee51f4eab1e7538cf",
+      "mime": "application/json",
+      "bytes": 15134
+    },
+    {
+      "path": "resource-contract.json",
+      "sha256": "6032eb85cbb55c78a69a3a11d9beafadff96cc0dc84aae3e54bf821374da15cd",
+      "mime": "application/json",
+      "bytes": 3520
+    }
+  ]
+}

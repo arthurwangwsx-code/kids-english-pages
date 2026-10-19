@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "courseVersion": "1.7.1",
+  "renderer": "librsvg / rsvg-convert; 720px original SVG rasterization",
+  "sourceFiles": {
+    "AUDIO-SOURCES.txt": "0300553a80ad678819854a39ee05dde7d2605976688edf9713b8838945a65234",
+    "KOKORO-LICENSE.txt": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+    "assets/audio-releases/append-fb4039329d7d6de1/bird.mp3": "94ce21cbc104be025e9e34536ad84147865439dbf7a0a417da10b432ed58f5eb",
+    "assets/audio-releases/append-fb4039329d7d6de1/cat.mp3": "016f4923a41acd49bbc1d9906a0c20e7fbf95dc6f11965efe8ed78384fd170e8",
+    "assets/audio-releases/append-fb4039329d7d6de1/dog.mp3": "c6e013ab319b4e022a491296c376fca5e305bb6b207e165792a1f83890e48254",
+    "assets/audio-releases/append-fb4039329d7d6de1/i-see-a-cat.mp3": "884cdfc5916e6d59b885a9573bc1e5d1dae26653001ca6023b62c361b89cfac2",
+    "assets/audio-releases/kokoro-mandarin-zf001-v1-b2e9a267994c/zh-bird.mp3": "174a783cab8b12ec9915c5668128374043fa74f0ef91361440250cf83d9e25bb",
+    "assets/audio-releases/kokoro-mandarin-zf001-v1-b2e9a267994c/zh-cat.mp3": "c09d3ebe24475dc9d41c66f5430ad3b97fc277fc9fd8d92e96b864950fd2a31b",
+    "assets/audio-releases/kokoro-mandarin-zf001-v1-b2e9a267994c/zh-dog.mp3": "097ee9555a20e717c3f28ed425833d5486dae069bb9114dfc83ebc8025f62a5e",
+    "assets/icon.svg": "078c3a5b5872e5121b174b9aaa62c8d63be9a2a1d1de9a8be8be15ebf0a66047",
+    "assets/images/bird.svg": "6af3e16b33f9dce0a310b74bce8473e67d467bdaf0cb1a193990313ad4c07147",
+    "assets/images/cat.svg": "1697e00a480bee1560d6631a4bee18e9b989b6258fd32c2cdef66f39a89f257b",
+    "assets/images/dog.svg": "f56f63614538904eabf17fa08d5b5b6a1248d64844b3041f60ef383ad6696777",
+    "audio-manifest.v1.json": "f999baa91e7f02f17787218bf100971af7d03c294dad1adc24115015911e783f",
+    "catalog.v1.json": "c78e603a0586e155fcfbed0cd102f8e054d6c662d70f46ccd466a83807ce8927",
+    "colors.v1.json": "e35e0a13024649a91e199059fa969c27dc793e8a6ea77a46b98ea6754315154d",
+    "courses.v1.json": "20210406b55f11973fdb144b6e19c82b96e06335773260642bed405ad09e3f99"
+  },
+  "files": {
+    "audio/bird.mp3": "94ce21cbc104be025e9e34536ad84147865439dbf7a0a417da10b432ed58f5eb",
+    "audio/cat.mp3": "016f4923a41acd49bbc1d9906a0c20e7fbf95dc6f11965efe8ed78384fd170e8",
+    "audio/dog.mp3": "c6e013ab319b4e022a491296c376fca5e305bb6b207e165792a1f83890e48254",
+    "audio/i-see-a-cat.mp3": "884cdfc5916e6d59b885a9573bc1e5d1dae26653001ca6023b62c361b89cfac2",
+    "audio/zh-bird.mp3": "174a783cab8b12ec9915c5668128374043fa74f0ef91361440250cf83d9e25bb",
+    "audio/zh-cat.mp3": "c09d3ebe24475dc9d41c66f5430ad3b97fc277fc9fd8d92e96b864950fd2a31b",
+    "audio/zh-dog.mp3": "097ee9555a20e717c3f28ed425833d5486dae069bb9114dfc83ebc8025f62a5e",
+    "audio-manifest.v1.json": "f999baa91e7f02f17787218bf100971af7d03c294dad1adc24115015911e783f",
+    "catalog.v1.json": "c78e603a0586e155fcfbed0cd102f8e054d6c662d70f46ccd466a83807ce8927",
+    "colors.v1.json": "e35e0a13024649a91e199059fa969c27dc793e8a6ea77a46b98ea6754315154d",
+    "courses.v1.json": "20210406b55f11973fdb144b6e19c82b96e06335773260642bed405ad09e3f99",
+    "images/bird.png": "3a8170630be86c749ac19e1a0566c8b5a6c540cbc3eb2b735709acd3ad12e859",
+    "images/cat.png": "1fb6ad6d3f5e398807d902bacc0c19324202c98a3d5d6ca898fd8e273cbd9c40",
+    "images/dog.png": "4acbc430e796363123a52b14f302177e7e596a2ba7b0c83e066064267862407a",
+    "licenses.v1.json": "3dd6a10813373075f9a8da2c6dcc830edecc252fd070103ee51f4eab1e7538cf"
+  },
+  "resourceSelection": {
+    "schemaVersion": 1,
+    "mode": "subset",
+    "lessonIds": [
+      "animal-friends"
+    ],
+    "colorIds": [],
+    "railIds": [],
+    "includeNeeds": false
+  }
+}

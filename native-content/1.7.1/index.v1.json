@@ -1,0 +1,466 @@
+{
+  "schemaVersion": 2,
+  "contentVersion": "1.7.1",
+  "transportScope": "public-static-runtime-only",
+  "publicURL": "https://raw.githubusercontent.com/arthurwangwsx-code/kids-english-pages/native-resources-v1.7.1/native-content/1.7.1/",
+  "packages": [
+    {
+      "id": "toys",
+      "version": "1.7.1",
+      "title": "玩具时间",
+      "basePath": "toys/",
+      "manifestPath": "manifest.json",
+      "manifestSHA256": "5d6c13c4f4a62f5b942aa33f403dc1ce14fe6fc02ff34e52844d849c2511f734",
+      "resources": 16,
+      "bytes": 345162,
+      "selection": {
+        "schemaVersion": 1,
+        "mode": "subset",
+        "lessonIds": [
+          "toys"
+        ],
+        "colorIds": [],
+        "railIds": [],
+        "includeNeeds": false
+      },
+      "kind": "media"
+    },
+    {
+      "id": "water-time",
+      "version": "1.7.1",
+      "title": "喝水时间",
+      "basePath": "water-time/",
+      "manifestPath": "manifest.json",
+      "manifestSHA256": "d3ed3a2a7ea6a76a039744890f0d40cc0dab7e4da1985795387b8c0c6d83db3b",
+      "resources": 16,
+      "bytes": 321020,
+      "selection": {
+        "schemaVersion": 1,
+        "mode": "subset",
+        "lessonIds": [
+          "water-time"
+        ],
+        "colorIds": [],
+        "railIds": [],
+        "includeNeeds": false
+      },
+      "kind": "media"
+    },
+    {
+      "id": "meal",
+      "version": "1.7.1",
+      "title": "吃饭时间",
+      "basePath": "meal/",
+      "manifestPath": "manifest.json",
+      "manifestSHA256": "874439729ec1d7621d26249054762da12f171061dfe099713b4206499c687f8b",
+      "resources": 16,
+      "bytes": 316551,
+      "selection": {
+        "schemaVersion": 1,
+        "mode": "subset",
+        "lessonIds": [
+          "meal"
+        ],
+        "colorIds": [],
+        "railIds": [],
+        "includeNeeds": false
+      },
+      "kind": "media"
+    },
+    {
+      "id": "outside",
+      "version": "1.7.1",
+      "title": "出门时间",
+      "basePath": "outside/",
+      "manifestPath": "manifest.json",
+      "manifestSHA256": "589f6b993010aae5caea6e8440490e82a3125487132664cc81193bd17c94a975",
+      "resources": 16,
+      "bytes": 306093,
+      "selection": {
+        "schemaVersion": 1,
+        "mode": "subset",
+        "lessonIds": [
+          "outside"
+        ],
+        "colorIds": [],
+        "railIds": [],
+        "includeNeeds": false
+      },
+      "kind": "media"
+    },
+    {
+      "id": "school",
+      "version": "1.7.1",
+      "title": "幼儿园时间",
+      "basePath": "school/",
+      "manifestPath": "manifest.json",
+      "manifestSHA256": "69dedc7bea6ccbe54cb06f894033fad3c7c992e45e4daf577a7f7f97cd66cc98",
+      "resources": 16,
+      "bytes": 278330,
+      "selection": {
+        "schemaVersion": 1,
+        "mode": "subset",
+        "lessonIds": [
+          "school"
+        ],
+        "colorIds": [],
+        "railIds": [],
+        "includeNeeds": false
+      },
+      "kind": "media"
+    },
+    {
+      "id": "help-time",
+      "version": "1.7.1",
+      "title": "请帮帮我",
+      "basePath": "help-time/",
+      "manifestPath": "manifest.json",
+      "manifestSHA256": "454704bbe41e86441f3d7cb83eb279660e386da8eecf2185bbb38e88bfe95595",
+      "resources": 16,
+      "bytes": 314474,
+      "selection": {
+        "schemaVersion": 1,
+        "mode": "subset",
+        "lessonIds": [
+          "help-time"
+        ],
+        "colorIds": [],
+        "railIds": [],
+        "includeNeeds": false
+      },
+      "kind": "media"
+    },
+    {
+      "id": "at-home",
+      "version": "1.7.1",
+      "title": "我的家",
+      "basePath": "at-home/",
+      "manifestPath": "manifest.json",
+      "manifestSHA256": "f3a362dfe1a042fc01730f9b2206483cfb39d7156717790faaece1b74ea1aa77",
+      "resources": 16,
+      "bytes": 294075,
+      "selection": {
+        "schemaVersion": 1,
+        "mode": "subset",
+        "lessonIds": [
+          "at-home"
+        ],
+        "colorIds": [],
+        "railIds": [],
+        "includeNeeds": false
+      },
+      "kind": "media"
+    },
+    {
+      "id": "my-face",
+      "version": "1.7.1",
+      "title": "我的脸",
+      "basePath": "my-face/",
+      "manifestPath": "manifest.json",
+      "manifestSHA256": "5d7d040b6b4f77c38e2a24ae11f18f5087326845521b44df8f97380de1d4f540",
+      "resources": 16,
+      "bytes": 358707,
+      "selection": {
+        "schemaVersion": 1,
+        "mode": "subset",
+        "lessonIds": [
+          "my-face"
+        ],
+        "colorIds": [],
+        "railIds": [],
+        "includeNeeds": false
+      },
+      "kind": "media"
+    },
+    {
+      "id": "wash-hands",
+      "version": "1.7.1",
+      "title": "洗手时间",
+      "basePath": "wash-hands/",
+      "manifestPath": "manifest.json",
+      "manifestSHA256": "cc869b0ef553e3f063547b4fa03ace4696768301d440d30bf8ae999bec87ff3a",
+      "resources": 16,
+      "bytes": 340687,
+      "selection": {
+        "schemaVersion": 1,
+        "mode": "subset",
+        "lessonIds": [
+          "wash-hands"
+        ],
+        "colorIds": [],
+        "railIds": [],
+        "includeNeeds": false
+      },
+      "kind": "media"
+    },
+    {
+      "id": "animal-friends",
+      "version": "1.7.1",
+      "title": "小动物",
+      "basePath": "animal-friends/",
+      "manifestPath": "manifest.json",
+      "manifestSHA256": "2a2e9d4c254c4dd1525cda3d01a88933170e46bc5249bc6d14b5e278fc3607b0",
+      "resources": 16,
+      "bytes": 335256,
+      "selection": {
+        "schemaVersion": 1,
+        "mode": "subset",
+        "lessonIds": [
+          "animal-friends"
+        ],
+        "colorIds": [],
+        "railIds": [],
+        "includeNeeds": false
+      },
+      "kind": "media"
+    },
+    {
+      "id": "at-the-station",
+      "version": "1.7.1",
+      "title": "乘轨道交通",
+      "basePath": "at-the-station/",
+      "manifestPath": "manifest.json",
+      "manifestSHA256": "c7c761e8a98881e112605cb824bd9281b619041041fbc3ebf9831f90f6f75b6b",
+      "resources": 16,
+      "bytes": 309765,
+      "selection": {
+        "schemaVersion": 1,
+        "mode": "subset",
+        "lessonIds": [
+          "at-the-station"
+        ],
+        "colorIds": [],
+        "railIds": [],
+        "includeNeeds": false
+      },
+      "kind": "media"
+    },
+    {
+      "id": "animal-water",
+      "version": "1.7.1",
+      "title": "小小动物",
+      "basePath": "animal-water/",
+      "manifestPath": "manifest.json",
+      "manifestSHA256": "15dcfafbe5b57f79e8cf61c6ba16b9e41559b6bd876eca85f7daa0f15fb78f7c",
+      "resources": 16,
+      "bytes": 343216,
+      "selection": {
+        "schemaVersion": 1,
+        "mode": "subset",
+        "lessonIds": [
+          "animal-water"
+        ],
+        "colorIds": [],
+        "railIds": [],
+        "includeNeeds": false
+      },
+      "kind": "media"
+    },
+    {
+      "id": "animal-big",
+      "version": "1.7.1",
+      "title": "更多动物朋友",
+      "basePath": "animal-big/",
+      "manifestPath": "manifest.json",
+      "manifestSHA256": "a0e58bb7e1ca9131667457fede75da285f00dea084eb178dd370ac4bf914a8a2",
+      "resources": 16,
+      "bytes": 359532,
+      "selection": {
+        "schemaVersion": 1,
+        "mode": "subset",
+        "lessonIds": [
+          "animal-big"
+        ],
+        "colorIds": [],
+        "railIds": [],
+        "includeNeeds": false
+      },
+      "kind": "media"
+    },
+    {
+      "id": "fruit-everyday",
+      "version": "1.7.1",
+      "title": "熟悉的水果",
+      "basePath": "fruit-everyday/",
+      "manifestPath": "manifest.json",
+      "manifestSHA256": "f0ebe06f0e69a625519cd3994806dc04134d3f153c2caedb63af64efd9285a81",
+      "resources": 16,
+      "bytes": 367173,
+      "selection": {
+        "schemaVersion": 1,
+        "mode": "subset",
+        "lessonIds": [
+          "fruit-everyday"
+        ],
+        "colorIds": [],
+        "railIds": [],
+        "includeNeeds": false
+      },
+      "kind": "media"
+    },
+    {
+      "id": "fruit-sharing",
+      "version": "1.7.1",
+      "title": "一起认识水果",
+      "basePath": "fruit-sharing/",
+      "manifestPath": "manifest.json",
+      "manifestSHA256": "c21b8ce4f664d0984fa7b95fc20d06d5b79b846b3df38ae86ec436034e4ec47d",
+      "resources": 16,
+      "bytes": 386561,
+      "selection": {
+        "schemaVersion": 1,
+        "mode": "subset",
+        "lessonIds": [
+          "fruit-sharing"
+        ],
+        "colorIds": [],
+        "railIds": [],
+        "includeNeeds": false
+      },
+      "kind": "media"
+    },
+    {
+      "id": "fruit-tropical",
+      "version": "1.7.1",
+      "title": "更多水果",
+      "basePath": "fruit-tropical/",
+      "manifestPath": "manifest.json",
+      "manifestSHA256": "de6481d0393ee8ade20db2a5abaf41067e96ad94ab616810565d51e35dea2803",
+      "resources": 16,
+      "bytes": 396155,
+      "selection": {
+        "schemaVersion": 1,
+        "mode": "subset",
+        "lessonIds": [
+          "fruit-tropical"
+        ],
+        "colorIds": [],
+        "railIds": [],
+        "includeNeeds": false
+      },
+      "kind": "media"
+    },
+    {
+      "id": "animal-world",
+      "version": "1.7.1",
+      "title": "动物单词学习",
+      "basePath": "animal-world/",
+      "manifestPath": "manifest.json",
+      "manifestSHA256": "d40a203fa09e3f8bd4f7a6c27716f750bb3ceebb364e57ec3efc9acf61387cbc",
+      "resources": 36,
+      "bytes": 759308,
+      "selection": {
+        "schemaVersion": 1,
+        "mode": "subset",
+        "lessonIds": [
+          "animal-big",
+          "animal-friends",
+          "animal-water"
+        ],
+        "colorIds": [],
+        "railIds": [],
+        "includeNeeds": false
+      },
+      "kind": "media"
+    },
+    {
+      "id": "fruit-world",
+      "version": "1.7.1",
+      "title": "水果单词学习",
+      "basePath": "fruit-world/",
+      "manifestPath": "manifest.json",
+      "manifestSHA256": "998760287531423286c7264576e5e9135c322b29d7389b03bd12037290f26bd5",
+      "resources": 36,
+      "bytes": 871193,
+      "selection": {
+        "schemaVersion": 1,
+        "mode": "subset",
+        "lessonIds": [
+          "fruit-everyday",
+          "fruit-sharing",
+          "fruit-tropical"
+        ],
+        "colorIds": [],
+        "railIds": [],
+        "includeNeeds": false
+      },
+      "kind": "media"
+    },
+    {
+      "id": "colors-world",
+      "version": "1.7.1",
+      "title": "颜色小世界与轨道探索",
+      "basePath": "colors-world/",
+      "manifestPath": "manifest.json",
+      "manifestSHA256": "d6d8ca1bc9f7a3550041617145cc41b08fe42b2a8aa314c15e06b242312fba0b",
+      "resources": 111,
+      "bytes": 2264559,
+      "selection": {
+        "schemaVersion": 1,
+        "mode": "subset",
+        "lessonIds": [],
+        "colorIds": [
+          "black",
+          "blue",
+          "brown",
+          "coral",
+          "dark-blue",
+          "dark-brown",
+          "dark-green",
+          "dark-orange",
+          "dark-pink",
+          "dark-purple",
+          "dark-red",
+          "gold",
+          "gray",
+          "green",
+          "lavender",
+          "light-blue",
+          "light-brown",
+          "light-green",
+          "light-orange",
+          "light-pink",
+          "light-purple",
+          "light-red",
+          "light-yellow",
+          "lime",
+          "maroon",
+          "navy",
+          "olive",
+          "orange",
+          "pink",
+          "purple",
+          "red",
+          "sky-blue",
+          "teal",
+          "white",
+          "yellow"
+        ],
+        "railIds": [
+          "ampang",
+          "kajang",
+          "kelana-jaya",
+          "kl-monorail",
+          "putrajaya",
+          "sri-petaling"
+        ],
+        "includeNeeds": false
+      },
+      "kind": "media"
+    },
+    {
+      "id": "curriculum-catalog",
+      "version": "1.7.1",
+      "title": "完整课程更新",
+      "basePath": "curriculum-catalog/",
+      "manifestPath": "manifest.json",
+      "manifestSHA256": "69b553b9f15bb73b578c304940afb737234846e0f22036c63da6b72ceb921553",
+      "resources": 271,
+      "bytes": 5396886,
+      "selection": null,
+      "kind": "curriculum"
+    }
+  ],
+  "readerSchema": 1,
+  "catalogPackageId": "curriculum-catalog"
+}

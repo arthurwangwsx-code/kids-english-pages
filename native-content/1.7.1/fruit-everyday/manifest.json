@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 1,
+  "id": "fruit-everyday",
+  "version": "1.7.1",
+  "title": "熟悉的水果",
+  "catalog": "catalog.v1.json",
+  "resources": [
+    {
+      "path": "audio/a-banana-please.mp3",
+      "sha256": "d77276cd4a5941c8f584d248c3bf2eaad968df1a527ec741216fb775adee2f14",
+      "mime": "audio/mpeg",
+      "bytes": 25676
+    },
+    {
+      "path": "audio/apple.mp3",
+      "sha256": "eebdd0176ca92b91703b70fab0a017e0bec3a8f6b311d2db3ad49a9a2833d6b8",
+      "mime": "audio/mpeg",
+      "bytes": 19340
+    },
+    {
+      "path": "audio/banana.mp3",
+      "sha256": "3fc5472362bde7751debc2fee0556be8cc4212448454fe368da55006305aefeb",
+      "mime": "audio/mpeg",
+      "bytes": 15884
+    },
+    {
+      "path": "audio/orange.mp3",
+      "sha256": "687089c6fc77dffcab8366c6dc37d47ac70614f3d623e94761e9928658e4cf2f",
+      "mime": "audio/mpeg",
+      "bytes": 21356
+    },
+    {
+      "path": "audio/zh-apple.mp3",
+      "sha256": "9ceb8682bf2d22950773715e3780ecb8247654a30117826c6724ed5d7c45e65c",
+      "mime": "audio/mpeg",
+      "bytes": 14156
+    },
+    {
+      "path": "audio/zh-banana.mp3",
+      "sha256": "29450bcf98c2450e39fc0114097f275cdb6d64e1f54723d1e29625b4caebee4b",
+      "mime": "audio/mpeg",
+      "bytes": 14156
+    },
+    {
+      "path": "audio/zh-orange.mp3",
+      "sha256": "0ca5056d49c31143ac0451f1e90d979f474088e748348ea9af59a37fa9b88eaa",
+      "mime": "audio/mpeg",
+      "bytes": 14156
+    },
+    {
+      "path": "audio-manifest.v1.json",
+      "sha256": "f999baa91e7f02f17787218bf100971af7d03c294dad1adc24115015911e783f",
+      "mime": "application/json",
+      "bytes": 77647
+    },
+    {
+      "path": "catalog.v1.json",
+      "sha256": "c78e603a0586e155fcfbed0cd102f8e054d6c662d70f46ccd466a83807ce8927",
+      "mime": "application/json",
+      "bytes": 15502
+    },
+    {
+      "path": "colors.v1.json",
+      "sha256": "e35e0a13024649a91e199059fa969c27dc793e8a6ea77a46b98ea6754315154d",
+      "mime": "application/json",
+      "bytes": 13616
+    },
+    {
+      "path": "courses.v1.json",
+      "sha256": "20210406b55f11973fdb144b6e19c82b96e06335773260642bed405ad09e3f99",
+      "mime": "application/json",
+      "bytes": 16006
+    },
+    {
+      "path": "images/apple.png",
+      "sha256": "2263ceb6f37bc3e22b8bcedc94d12d5f7c45f52d03e2583d08e5b1c77cde38c4",
+      "mime": "image/png",
+      "bytes": 35640
+    },
+    {
+      "path": "images/banana.png",
+      "sha256": "90a50042db5863eb08d2a927ad7507dd9234013c5a1a6921d38f5f64c534f912",
+      "mime": "image/png",
+      "bytes": 27723
+    },
+    {
+      "path": "images/orange.png",
+      "sha256": "7b7c4490ff70ae2fe3ca7afaace4223ac2cccf3ea5753d144d01763f131709ac",
+      "mime": "image/png",
+      "bytes": 37528
+    },
+    {
+      "path": "licenses.v1.json",
+      "sha256": "3dd6a10813373075f9a8da2c6dcc830edecc252fd070103ee51f4eab1e7538cf",
+      "mime": "application/json",
+      "bytes": 15134
+    },
+    {
+      "path": "resource-contract.json",
+      "sha256": "aa83796fee73064c038578c6dc76ac76ddc2ae8fdfbe5eff8ed57c877a9cdc72",
+      "mime": "application/json",
+      "bytes": 3653
+    }
+  ]
+}

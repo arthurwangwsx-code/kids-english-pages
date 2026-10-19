@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 1,
+  "id": "animal-water",
+  "version": "1.7.1",
+  "title": "小小动物",
+  "catalog": "catalog.v1.json",
+  "resources": [
+    {
+      "path": "audio/duck.mp3",
+      "sha256": "00f3cc73e7b8cb5c20481aee3d8cf1ea10c3991a6f15b15d8910272c9d17f103",
+      "mime": "audio/mpeg",
+      "bytes": 18188
+    },
+    {
+      "path": "audio/fish.mp3",
+      "sha256": "3aad3fd50d4edcba7bd6ceda39b3dc70a45e001040285dd49dbd9f1c9ea06703",
+      "mime": "audio/mpeg",
+      "bytes": 19340
+    },
+    {
+      "path": "audio/i-see-a-fish.mp3",
+      "sha256": "30aa83430ca4b7db97b58f5371fc4f95095cc547d730e451cba856580ec0722e",
+      "mime": "audio/mpeg",
+      "bytes": 23084
+    },
+    {
+      "path": "audio/rabbit.mp3",
+      "sha256": "c52d85d70f2f6945ebacb7b53d62e1cd3a195f58092005c71139a3e967f9cfa4",
+      "mime": "audio/mpeg",
+      "bytes": 19628
+    },
+    {
+      "path": "audio/zh-duck.mp3",
+      "sha256": "0b54d1982ffb412b8a873206cf7cd86ae938dfdf4bccba1f3957e15aa2e595d9",
+      "mime": "audio/mpeg",
+      "bytes": 13580
+    },
+    {
+      "path": "audio/zh-fish.mp3",
+      "sha256": "ab8698cfa642626446634faa23cbb46e5fae4906f7960a6a4eb0fcbc89314e86",
+      "mime": "audio/mpeg",
+      "bytes": 10700
+    },
+    {
+      "path": "audio/zh-rabbit.mp3",
+      "sha256": "3865d2fde216bc2a2423f8f3262273cc9d12d4f90564359d1c2d0de3e1044ef1",
+      "mime": "audio/mpeg",
+      "bytes": 14732
+    },
+    {
+      "path": "audio-manifest.v1.json",
+      "sha256": "f999baa91e7f02f17787218bf100971af7d03c294dad1adc24115015911e783f",
+      "mime": "application/json",
+      "bytes": 77647
+    },
+    {
+      "path": "catalog.v1.json",
+      "sha256": "c78e603a0586e155fcfbed0cd102f8e054d6c662d70f46ccd466a83807ce8927",
+      "mime": "application/json",
+      "bytes": 15502
+    },
+    {
+      "path": "colors.v1.json",
+      "sha256": "e35e0a13024649a91e199059fa969c27dc793e8a6ea77a46b98ea6754315154d",
+      "mime": "application/json",
+      "bytes": 13616
+    },
+    {
+      "path": "courses.v1.json",
+      "sha256": "20210406b55f11973fdb144b6e19c82b96e06335773260642bed405ad09e3f99",
+      "mime": "application/json",
+      "bytes": 16006
+    },
+    {
+      "path": "images/duck.png",
+      "sha256": "a91f778d97d8910d20ed1635e212e94e41cccd2aaa8a831f6ba1877cdd383098",
+      "mime": "image/png",
+      "bytes": 26872
+    },
+    {
+      "path": "images/fish.png",
+      "sha256": "aa5d6ce2fe9f93c9813c00ae47ba4992bae9b63f5afa5399a1d6bb0dbf72784a",
+      "mime": "image/png",
+      "bytes": 30508
+    },
+    {
+      "path": "images/rabbit.png",
+      "sha256": "a101e5138dad5b7d2da020f0f92ae642a092d8bb15c1d7ab724ed2883159e7c2",
+      "mime": "image/png",
+      "bytes": 25019
+    },
+    {
+      "path": "licenses.v1.json",
+      "sha256": "3dd6a10813373075f9a8da2c6dcc830edecc252fd070103ee51f4eab1e7538cf",
+      "mime": "application/json",
+      "bytes": 15134
+    },
+    {
+      "path": "resource-contract.json",
+      "sha256": "61e0e356281bab99d1a859dbcc00cc16b1d5d7166eea63ce55aa756b320160a8",
+      "mime": "application/json",
+      "bytes": 3660
+    }
+  ]
+}

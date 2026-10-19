@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 1,
+  "id": "toys",
+  "version": "1.7.1",
+  "title": "玩具时间",
+  "catalog": "catalog.v1.json",
+  "resources": [
+    {
+      "path": "audio/a-ball.mp3",
+      "sha256": "86683e6ce2941be49a572741416de357a0c2d8bdaa3096a422a89294ce3d83ea",
+      "mime": "audio/mpeg",
+      "bytes": 19916
+    },
+    {
+      "path": "audio/ball.mp3",
+      "sha256": "3af87c144df8d67cf26ba52a7efae366210c52c6b97808a841b84dba7a3f7547",
+      "mime": "audio/mpeg",
+      "bytes": 13940
+    },
+    {
+      "path": "audio/car.mp3",
+      "sha256": "c7f1f5433532a96bf3f35df0ddefdcaba86b9fb774b5f1f5dd3760ca52b72be7",
+      "mime": "audio/mpeg",
+      "bytes": 13004
+    },
+    {
+      "path": "audio/teddy.mp3",
+      "sha256": "1c764ee3ff5e3f253f640680f0fc8da3a57437f65a4f754fde37817c689965dc",
+      "mime": "audio/mpeg",
+      "bytes": 13532
+    },
+    {
+      "path": "audio/zh-ball.mp3",
+      "sha256": "6d97a1650d1e13e08119d2e9fad59457009a656bf510c77332b1c4560834af5d",
+      "mime": "audio/mpeg",
+      "bytes": 11276
+    },
+    {
+      "path": "audio/zh-car.mp3",
+      "sha256": "aae09b73b35578f39bd5311ef1cffc6c8046c10d16050a5b15fd9335e2d9c46a",
+      "mime": "audio/mpeg",
+      "bytes": 17900
+    },
+    {
+      "path": "audio/zh-teddy.mp3",
+      "sha256": "6e8ba9c8e9638b6a9c5fc610ea0e4b83457f1ea3b9f8ca0e02a61eb2f563bfd7",
+      "mime": "audio/mpeg",
+      "bytes": 19628
+    },
+    {
+      "path": "audio-manifest.v1.json",
+      "sha256": "f999baa91e7f02f17787218bf100971af7d03c294dad1adc24115015911e783f",
+      "mime": "application/json",
+      "bytes": 77647
+    },
+    {
+      "path": "catalog.v1.json",
+      "sha256": "c78e603a0586e155fcfbed0cd102f8e054d6c662d70f46ccd466a83807ce8927",
+      "mime": "application/json",
+      "bytes": 15502
+    },
+    {
+      "path": "colors.v1.json",
+      "sha256": "e35e0a13024649a91e199059fa969c27dc793e8a6ea77a46b98ea6754315154d",
+      "mime": "application/json",
+      "bytes": 13616
+    },
+    {
+      "path": "courses.v1.json",
+      "sha256": "20210406b55f11973fdb144b6e19c82b96e06335773260642bed405ad09e3f99",
+      "mime": "application/json",
+      "bytes": 16006
+    },
+    {
+      "path": "images/ball.png",
+      "sha256": "87c7d29cf7f2f43858feb6e991e4e2329de7c5a3fd31a559f142486c03b1d6e1",
+      "mime": "image/png",
+      "bytes": 37829
+    },
+    {
+      "path": "images/car.png",
+      "sha256": "552ab3076bb0ebac8c4b4f0b6b8d1e9d2a6906c1b7183ccee4148e9dc8313d1e",
+      "mime": "image/png",
+      "bytes": 18602
+    },
+    {
+      "path": "images/teddy.png",
+      "sha256": "8a38105339548aa2d4132339bd8014a4f99f0592588e2a96d4a588ccb110ebcc",
+      "mime": "image/png",
+      "bytes": 38134
+    },
+    {
+      "path": "licenses.v1.json",
+      "sha256": "3dd6a10813373075f9a8da2c6dcc830edecc252fd070103ee51f4eab1e7538cf",
+      "mime": "application/json",
+      "bytes": 15134
+    },
+    {
+      "path": "resource-contract.json",
+      "sha256": "b9047a63e3125a7f83158038075dece5ac349e3359acf71e0074129f227a6e8e",
+      "mime": "application/json",
+      "bytes": 3496
+    }
+  ]
+}
